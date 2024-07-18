@@ -61,7 +61,7 @@ export default function Testimonial() {
   <button  class="carousel-control-next" type="button" data-bs-target="#carouselExampleCaptions2" data-bs-slide="next" >
     <span class="carousel-control-next-icon" aria-hidden="true"></span>
   
-    <span class="visually-hidden">Next</span>
+    <span class="visually-hidden">Next page</span>
   </button>
 </div>
          
