@@ -1,0 +1,67 @@
+import React from 'react'
+
+export default function Footer() {
+  return (
+   <>
+   <section id='footer-section-page'>
+    <footer>
+    <div className="footer-container">
+        <div className="container">
+            <div className="row">
+                <div className="col-lg-4 col-md-6 col-sm-12">
+                    <h3 className='heading-logo-footer footer-logo'>OS DIA DE FESTA</h3>
+                    <p className='footer-para'>Capture the essence of a mundane day and relish it as a festive one with us.
+                    Come elevate your hectic routine with a break of imagery and full of relaxing experiences with us.</p>
+
+                    <h3 className='heading-sm-footer'>FOLLOW US</h3>
+                    <div className="social-icons-footer ">
+                    <i class="bi bi-instagram social-icons"></i>
+                    <i class="bi bi-facebook social-icons"></i>
+                    <i class="bi bi-twitter-x social-icons"></i>
+                    </div>
+                </div>
+               
+               <div className="col-lg-4 col-md-6 col-sm-12">
+                   <div className="pages-footer">
+                    <h3 className='heading-pages-title '>Pages Links</h3>
+                          
+                    <ul className="navbar-nav justify-content-end     flex-grow-1 pe-3">
+          <li className="nav-item">
+            <a className="nav-link" aria-current="page" style={{fontFamily:"sans-serif",color:"#fff"}}  href="#home-page-section"  >Home</a>
+          </li>
+
+          <li className="nav-item">
+            <a className="nav-link" style={{fontFamily:"sans-serif",color:"#fff"}} href='#about-page-section'   >About-Us</a>
+          </li>
+
+          <li className="nav-item">
+            <a className="nav-link" style={{fontFamily:"sans-serif",color:"#fff"}} href="/" >Destinations</a>
+          </li>
+
+          <li className="nav-item">
+            <a className="nav-link" style={{fontFamily:"sans-serif",color:"#fff"}} href="/"  >Testimonials</a>
+          </li>
+
+          <li className="nav-item">
+            <a className="nav-link" style={{fontFamily:"sans-serif",color:"#fff"}} href="/"  >BookNow</a>
+          </li>
+          <li className="nav-item">
+            <a className="nav-link" style={{fontFamily:"sans-serif",color:"#fff"}} href="/" >Contact</a>
+          </li>
+
+          
+        </ul>
+
+
+                   </div>
+               </div>
+
+            </div>
+        </div>
+     </div>
+    </footer>
+   </section>
+   
+   </>
+  )
+}
