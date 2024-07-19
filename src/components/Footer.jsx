@@ -27,26 +27,26 @@ export default function Footer() {
                           
                     <ul className="navbar-nav justify-content-end     flex-grow-1 pe-3">
           <li className="nav-item">
-            <a className="nav-link" aria-current="page" style={{fontFamily:"sans-serif",color:"#fff"}}  href="#home-page-section"  >Home</a>
+            <a className="nav-link footer-link-text" aria-current="page" style={{fontFamily:"sans-serif",color:"#fff"}}  href="#home-page-section"  >Home</a>
           </li>
 
           <li className="nav-item">
-            <a className="nav-link" style={{fontFamily:"sans-serif",color:"#fff"}} href='#about-page-section'   >About-Us</a>
+            <a className="nav-link footer-link-text" style={{fontFamily:"sans-serif",color:"#fff"}} href='#about-page-section'   >About-Us</a>
           </li>
 
           <li className="nav-item">
-            <a className="nav-link" style={{fontFamily:"sans-serif",color:"#fff"}} href="/" >Destinations</a>
+            <a className="nav-link footer-link-text" style={{fontFamily:"sans-serif",color:"#fff"}} href="/" >Destinations</a>
           </li>
 
           <li className="nav-item">
-            <a className="nav-link" style={{fontFamily:"sans-serif",color:"#fff"}} href="/"  >Testimonials</a>
+            <a className="nav-link footer-link-text" style={{fontFamily:"sans-serif",color:"#fff"}} href="/"  >Testimonials</a>
           </li>
 
           <li className="nav-item">
-            <a className="nav-link" style={{fontFamily:"sans-serif",color:"#fff"}} href="/"  >BookNow</a>
+            <a className="nav-link footer-link-text" style={{fontFamily:"sans-serif",color:"#fff"}} href="/"  >BookNow</a>
           </li>
           <li className="nav-item">
-            <a className="nav-link" style={{fontFamily:"sans-serif",color:"#fff"}} href="/" >Contact</a>
+            <a className="nav-link footer-link-text" style={{fontFamily:"sans-serif",color:"#fff"}} href="/" >Contact</a>
           </li>
 
           
@@ -56,8 +56,25 @@ export default function Footer() {
                    </div>
                </div>
 
+               <div className="col-lg-4 col-md-6 col-sm-12">
+                <h3 className='heading-pages-title'>Contact Us  </h3>
+                <p className="contact-footer">
+                  <span className='text-contact'><i class="bi bi-geo-alt-fill footer-icon"></i>Mapusa,Goa India</span>
+                  <span className='text-contact'><i class="bi bi-telephone footer-icon"></i>+91 7083405130</span>
+                  <span className='text-contact'><i class="bi bi-envelope footer-icon"></i>sourabhkanolkar@gmail.com</span>
+                </p>
+
+               </div>
+
             </div>
         </div>
+          
+          <div className="container-fluid">
+            <div className="footer-rights">
+              <p className="rights-para">Copyright @ OS DIA DE FESTA. All Rights Reserved. </p>
+            </div>
+          </div>
+
      </div>
     </footer>
    </section>
