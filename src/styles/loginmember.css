@@ -1,0 +1,23 @@
+#login-member{
+    padding: 80px 0 ;
+   
+    height: 100vh;
+    background-image: url('../assets/login-bg.jpg');
+    background-size: cover;
+}
+.poppins-font{
+    font-family: "Poppins", sans-serif;
+}
+.box{
+    display: block;
+    margin:  auto;
+   
+    
+}
+form{
+    /* background-color: aqua; */
+    padding: 20px;
+}
+.test{
+    background-color: aqua !important;
+}
