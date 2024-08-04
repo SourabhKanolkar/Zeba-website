@@ -1,5 +1,11 @@
+.scroll-fix{
+    overflow-y: auto;
+}
+
 #resorts-section-page{
  margin-top: 100px;
+ height: 100vh;
+
 }
  :root{
     --font-fam1:"Poppins", sans-serif;

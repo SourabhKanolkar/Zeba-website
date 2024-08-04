@@ -12,14 +12,14 @@ export default function Testimonial() {
         <h2 className='text-center poppins-font display-5' style={{color:"#AB8A62",}}>Testimonial</h2>
         <div className="col-md-12 mt-4">
 
-        <div id="carouselExampleCaptions2" class="carousel slide" data-bs-ride="false">
-  <div class="carousel-indicators">
-    <button type="button" data-bs-target="#carouselExampleCaptions2" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
+        <div id="carouselExampleCaptions2" className="carousel slide" data-bs-ride="false">
+  <div className="carousel-indicators">
+    <button type="button" data-bs-target="#carouselExampleCaptions2" data-bs-slide-to="0" className="active" aria-current="true" aria-label="Slide 1"></button>
     <button type="button" data-bs-target="#carouselExampleCaptions2" data-bs-slide-to="1" aria-label="Slide 2"></button>
     <button type="button" data-bs-target="#carouselExampleCaptions2" data-bs-slide-to="2" aria-label="Slide 3"></button>
   </div>
-  <div class="carousel-inner ">
-    <div class="carousel-item active" style={{height:"250px"}}>
+  <div className="carousel-inner ">
+    <div className="carousel-item active" style={{height:"250px"}}>
      <div className="container">
      <div className="row">
      <div className="col-md-12 testimonila-text-align">
@@ -30,7 +30,7 @@ export default function Testimonial() {
      </div>
     </div>
 
-    <div class="carousel-item"  style={{height:"250px"}}>
+    <div className="carousel-item"  style={{height:"250px"}}>
     <div className="container">
      <div className="row">
      <div className="col-md-12  testimonila-text-align">
@@ -41,7 +41,7 @@ export default function Testimonial() {
      </div>
     </div>
 
-    <div class="carousel-item"  style={{height:"250px"}}>
+    <div className="carousel-item"  style={{height:"250px"}}>
     <div className="container">
      <div className="row">
      <div className="col-md-12  testimonila-text-align">
@@ -54,14 +54,14 @@ export default function Testimonial() {
    
    
   </div>
-  <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleCaptions2" data-bs-slide="prev">
-    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-    <span class="visually-hidden">Previous</span>
+  <button className="carousel-control-prev" type="button" data-bs-target="#carouselExampleCaptions2" data-bs-slide="prev">
+    <span className="carousel-control-prev-icon" aria-hidden="true"></span>
+    <span className="visually-hidden">Previous</span>
   </button>
-  <button  class="carousel-control-next" type="button" data-bs-target="#carouselExampleCaptions2" data-bs-slide="next" >
-    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+  <button  className="carousel-control-next" type="button" data-bs-target="#carouselExampleCaptions2" data-bs-slide="next" >
+    <span className="carousel-control-next-icon" aria-hidden="true"></span>
   
-    <span class="visually-hidden">Next page</span>
+    <span className="visually-hidden">Next page</span>
   </button>
 </div>
          

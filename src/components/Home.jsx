@@ -1,10 +1,15 @@
 import React from 'react'
 import Navbar from './Navbar'
 import "../styles/home.css"
+import AboutUs from './AboutUs'
+import Destinations from './Destinations'
+import Testimonial from './Testimonial'
+import Footer from './Footer'
 
 export default function Home() {
   return (
    <>
+   <div className="scroll-fix-2" style={{ height: '100vh' }}>
    <Navbar />
    <section id='home-page-section'>
    <div id="carouselExampleCaptions" className="carousel slide">
@@ -50,7 +55,13 @@ export default function Home() {
 </div>
 
    </section>
+   <AboutUs />
+   <Destinations/>
+   <Testimonial />
+   <Footer />
 
+   </div>
+   
    </>
   )
 }

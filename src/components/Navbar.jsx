@@ -30,7 +30,8 @@ export default function Navbar() {
           </li>
 
           <li className="nav-item">
-            <a className="nav-link" style={{fontFamily:"sans-serif"}} href='#about-page-section' onClick={handleLinkClick}  >About-Us</a>
+            {/* <a className="nav-link" style={{fontFamily:"sans-serif"}} href='#about-page-section' onClick={handleLinkClick}  >About-Us</a> */}
+            <Link to="/home" className="nav-link" style={{ fontFamily: "sans-serif" }} onClick={handleLinkClick}>About-Us</Link>
           </li>
 
           <li className="nav-item">

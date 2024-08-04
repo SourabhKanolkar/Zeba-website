@@ -16,9 +16,9 @@ export default function Footer() {
 
                     <h3 className='heading-sm-footer'>FOLLOW US</h3>
                     <div className="social-icons-footer ">
-                    <i class="bi bi-instagram social-icons"></i>
-                    <i class="bi bi-facebook social-icons"></i>
-                    <i class="bi bi-twitter-x social-icons"></i>
+                    <i className="bi bi-instagram social-icons"></i>
+                    <i className="bi bi-facebook social-icons"></i>
+                    <i className="bi bi-twitter-x social-icons"></i>
                     </div>
                 </div>
                
@@ -60,9 +60,9 @@ export default function Footer() {
                <div className="col-lg-4 col-md-6 col-sm-12">
                 <h3 className='heading-pages-title'>Contact Us  </h3>
                 <p className="contact-footer">
-                  <span className='text-contact'><i class="bi bi-geo-alt-fill footer-icon"></i>Mapusa,Goa India</span>
-                  <span className='text-contact'><i class="bi bi-telephone footer-icon"></i>+91 7083405130</span>
-                  <span className='text-contact'><i class="bi bi-envelope footer-icon"></i>sourabhkanolkar@gmail.com</span>
+                  <span className='text-contact'><i className="bi bi-geo-alt-fill footer-icon"></i>Mapusa,Goa India</span>
+                  <span className='text-contact'><i className="bi bi-telephone footer-icon"></i>+91 7083405130</span>
+                  <span className='text-contact'><i className="bi bi-envelope footer-icon"></i>sourabhkanolkar@gmail.com</span>
                 </p>
 
                </div>
