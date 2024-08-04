@@ -1,5 +1,6 @@
 import React from 'react'
 import logo from "../assets/logo-rm.png"
+import { Link } from 'react-router-dom';
 
 export default function Navbar() {
     const handleLinkClick = () => {
@@ -33,7 +34,9 @@ export default function Navbar() {
           </li>
 
           <li className="nav-item">
-            <a className="nav-link" style={{fontFamily:"sans-serif"}} href="/" onClick={handleLinkClick} >Destinations</a>
+            {/* <a className="nav-link" style={{fontFamily:"sans-serif"}} href="/" onClick={handleLinkClick} >Resorts</a> */}
+            <Link to="/resorts" className="nav-link" style={{ fontFamily: "sans-serif" }} onClick={handleLinkClick}>Resorts</Link>
+
           </li>
 
           <li className="nav-item">

@@ -7,6 +7,7 @@ import Destinations from './components/Destinations'
 import Testimonial from './components/Testimonial'
 import Footer from './components/Footer'
 import Login from './components/Login'
+import Resorts from './components/Resorts'
 import { BrowserRouter as Router, Routes, Route,Navigate } from 'react-router-dom';
 import { useNavigate } from 'react-router-dom';
 import { useState } from 'react'
@@ -37,6 +38,9 @@ function App() {
         
         </>
       }></Route>
+      
+      <Route path='/resorts' element={<Resorts />}></Route>
+
 
 
     </Routes>
