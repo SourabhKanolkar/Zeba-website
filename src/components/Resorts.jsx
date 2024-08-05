@@ -36,9 +36,9 @@ export default function Resorts() {
            <p style={{textAlign:"justify",marginTop:"10px",marginBottom:"15px"}}>The Andaman & Nicobar Islands, nestled in the Bay of Bengal, are a paradise for nature enthusiasts and beach lovers. With their pristine white sandy beaches, crystal-clear turquoise waters, and diverse marine life, the islands offer an idyllic escape. One can choose from a variety of resorts in Andaman & Nicobar Islands, including Club Mahindra Resorts. These resorts provide a memorable stay and a range of amenities to ensure a memorable stay. Whether indulging in water sports like snorkeling and scuba diving, exploring the vibrant coral reefs, or simply basking in the sun, the Andaman & Nicobar Islands promise an unforgettable tropical getaway.</p>
          </div>
           
-          <div className="listing-slider">
+          <div className="listing-slider" >
            <div className="polite">
-             <div className="slide-track d-flex">
+             <div className="slide-track d-flex" style={{overflow:"auto"}}>
 
                <div className="slick-active" >
                  <div className="img-box-resort">
