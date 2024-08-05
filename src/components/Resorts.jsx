@@ -38,14 +38,51 @@ export default function Resorts() {
           
           <div className="listing-slider">
            <div className="polite">
-             <div className="slide-track">
+             <div className="slide-track d-flex">
+
                <div className="slick-active" >
                  <div className="img-box-resort">
-                   <figure>
-                     <img src="https://static3-clubmahindra.gumlet.io/storage/app/media/All%20Compressed%20banners/Summer-Sands.jpg?w=768&dpr=1.0" alt="resott" className='img-fluid resort-page-img' />
+                  
+                   <figure className=' resort-page-img' >
+                     {/* <img src="https://static3-clubmahindra.gumlet.io/storage/app/media/All%20Compressed%20banners/Summer-Sands.jpg?w=768&dpr=1.0" alt="resott" className='img-fluid resort-page-img' /> */}
+                       <div className="name-location-box">
+                       <h3 style={{fontSize:"18px",color:"#fff"}}>Symphony Summer Sands, Neil Island</h3>
+                       <p className='resort-location-address'>Port Blair, Andaman and Nicobar Islands </p>
+                       </div>
                    </figure>
+                  
                  </div>
                </div>
+
+               <div className="slick-active" >
+                 <div className="img-box-resort">
+                  
+                   <figure className=' resort-page-img' style={{ backgroundImage: "url('https://static2-clubmahindra.gumlet.io/storage/app/media/Symphony%20Samudra/Banner-1.jpg?w=768&dpr=1.0')",backgroundSize:"cover",backgroundPosition:"center" }} >
+                     {/* <img src="https://static3-clubmahindra.gumlet.io/storage/app/media/All%20Compressed%20banners/Summer-Sands.jpg?w=768&dpr=1.0" alt="resott" className='img-fluid resort-page-img' /> */}
+                       <div className="name-location-box">
+                       <h3 style={{fontSize:"18px",color:"#fff"}}>Symphony Samudra Port Blair</h3>
+                       <p className='resort-location-address'>Port Blair, Andaman and Nicobar Islands  </p>
+                       </div>
+                   </figure>
+                  
+                 </div>
+               </div>
+
+               <div className="slick-active" >
+                 <div className="img-box-resort">
+                  
+                   <figure className=' resort-page-img' style={{ backgroundImage: "url('https://images.trvl-media.com/lodging/7000000/6220000/6218700/6218624/cc1d8e6e.jpg?impolicy=resizecrop&rw=1200&ra=fit')",backgroundSize:"cover",backgroundPosition:"center" }} >
+                     {/* <img src="https://static3-clubmahindra.gumlet.io/storage/app/media/All%20Compressed%20banners/Summer-Sands.jpg?w=768&dpr=1.0" alt="resott" className='img-fluid resort-page-img' /> */}
+                       <div className="name-location-box">
+                       <h3 style={{fontSize:"18px",color:"#fff"}}>ITC Hotels, Bay Island, Port Blair</h3>
+                       <p className='resort-location-address'>Port Blair, Andaman and Nicobar Islands  </p>
+                       </div>
+                   </figure>
+                  
+                 </div>
+               </div>
+
+
              </div>
            </div>
           </div>
@@ -53,6 +90,8 @@ export default function Resorts() {
        </div>
 
     </section>
+  
+    
 
   </section>
    </div>
