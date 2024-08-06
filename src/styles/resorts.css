@@ -19,8 +19,10 @@
     max-height: 550px;
     overflow: hidden;
     background-image: url("https://clubmahindra.gumlet.io/storage/app/media/resortbg.jpg?w=1920&dpr=1.0");
+ 
     background-position: center;
     background-size: cover;
+
     font-family: var(--font-fam1);
  }
  .banner-box-heading{
@@ -35,7 +37,8 @@
  }
  .slide-track{
    opacity: 1;
-   max-width: 885px;
+   /* max-width: 885px; */
+ 
  }
  .slick-active{
    width: 285px;

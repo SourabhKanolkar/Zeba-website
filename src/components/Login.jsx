@@ -30,7 +30,7 @@ export default function Login() {
 
     {showAlert && (
           <div id='alert-login-wrong' style={{maxWidth:"300px", display:"block",margin:"auto"}} className="alert alert-danger"  role="alert">
-            Username / Password is wrong!
+            Invalid username or password.
             <button 
               type="button" 
               className="btn-close" 

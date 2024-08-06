@@ -5,6 +5,7 @@ import AboutUs from './AboutUs'
 import Destinations from './Destinations'
 import Testimonial from './Testimonial'
 import Footer from './Footer'
+import whatsIcon from "../assets/whats-icon.png"
 
 export default function Home() {
   return (
@@ -59,8 +60,13 @@ export default function Home() {
    <Destinations/>
    <Testimonial />
    <Footer />
+    
+    
 
    </div>
+   <a href="https://wa.me/8459039060?text=Hello can I help you ?" target='blank' style={{position:"fixed",right:"0",bottom:"0"}}>
+      <img className='img-fluid' style={{width:"100px"}} src={whatsIcon} alt="whats app" />
+    </a>
    
    </>
   )

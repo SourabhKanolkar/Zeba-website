@@ -31,17 +31,17 @@ export default function Navbar() {
 
           <li className="nav-item">
             {/* <a className="nav-link" style={{fontFamily:"sans-serif"}} href='#about-page-section' onClick={handleLinkClick}  >About-Us</a> */}
-            <Link to="/home" className="nav-link" style={{ fontFamily: "sans-serif" }} onClick={handleLinkClick}>About-Us</Link>
+            <Link to="/home"  className="nav-link" style={{ fontFamily: "sans-serif" }} onClick={handleLinkClick}>About-Us</Link>
           </li>
 
           <li className="nav-item">
             {/* <a className="nav-link" style={{fontFamily:"sans-serif"}} href="/" onClick={handleLinkClick} >Resorts</a> */}
-            <Link to="/resorts" className="nav-link" style={{ fontFamily: "sans-serif" }} onClick={handleLinkClick}>Resorts</Link>
+            <Link to="/resorts" className="nav-link" style={{ fontFamily: "sans-serif" }} onClick={handleLinkClick}>Resort</Link>
 
           </li>
 
           <li className="nav-item">
-            <a className="nav-link" style={{fontFamily:"sans-serif"}} href="/" onClick={handleLinkClick} >Testimonials</a>
+            <a className="nav-link" style={{fontFamily:"sans-serif"}} href="#testimonial-page-section" onClick={handleLinkClick} >Testimonials</a>
           </li>
 
           <li className="nav-item">
