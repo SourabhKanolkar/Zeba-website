@@ -64,7 +64,7 @@ export default function Home() {
     
 
    </div>
-   <a href="https://wa.me/8459039060?text=Hello can I help you ?" target='blank' style={{position:"fixed",right:"0",bottom:"0"}}>
+   <a href="https://wa.me/8459039060?text=Hello can I help you ?" target='blank' style={{position:"fixed",right:"0",bottom:"0",marginBottom:"30px"}}>
       <img className='img-fluid' style={{width:"100px"}} src={whatsIcon} alt="whats app" />
     </a>
    

@@ -18,7 +18,7 @@
     min-height: 550px;
     max-height: 550px;
     overflow: hidden;
-    background-image: url("https://clubmahindra.gumlet.io/storage/app/media/resortbg.jpg?w=1920&dpr=1.0");
+    background-image: url("https://images.pexels.com/photos/258154/pexels-photo-258154.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1");
  
     background-position: center;
     background-size: cover;
@@ -51,6 +51,7 @@
   
    /* filter: brightness(0.6); */
    background-image: url("https://static3-clubmahindra.gumlet.io/storage/app/media/All%20Compressed%20banners/Summer-Sands.jpg?w=768&dpr=1.0");
+
    display: flex;
    flex-direction: column-reverse;
  
