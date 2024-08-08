@@ -6,13 +6,18 @@ import Destinations from './Destinations'
 import Testimonial from './Testimonial'
 import Footer from './Footer'
 import whatsIcon from "../assets/whats-icon.png"
+import maya from "../assets/maya.png"
+import { useState } from 'react'
 
 export default function Home() {
+  
   return (
    <>
    <div className="scroll-fix-2" style={{ height: '100vh' }}>
+   
    <Navbar />
    <section id='home-page-section'>
+   
    <div id="carouselExampleCaptions" className="carousel slide">
   <div className="carousel-indicators">
     <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="0" className="active" aria-current="true" aria-label="Slide 1"></button>
@@ -56,6 +61,42 @@ export default function Home() {
 </div>
 
    </section>
+
+   <div className="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+  <div className="modal-dialog">
+    <div className="modal-content">
+      <div className="modal-header">
+        <h1 className="modal-title fs-5 " id="exampleModalLabel">CONTACT-US</h1>
+        <button type="button" className="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+      </div>
+      <div className="modal-body">
+      <form>
+
+      <div className="mb-3">
+    <label for="name" className="form-label">Name:</label>
+    <input type="text" className="form-control" id="name" aria-describedby="emailHelp"/>
+    {/* <div id="emailHelp" className="form-text">We'll never share your email with anyone else.</div> */}
+  </div>
+  <div className="mb-3">
+    <label for="exampleInputEmail1" className="form-label">Email address:</label>
+    <input type="email" className="form-control" id="exampleInputEmail1" aria-describedby="emailHelp"/>
+    {/* <div id="emailHelp" className="form-text">We'll never share your email with anyone else.</div> */}
+  </div>
+  <div className="mb-3">
+  <label for="exampleFormControlTextarea1" className="form-label">Message:</label>
+  <textarea className="form-control" id="exampleFormControlTextarea1" rows="3"></textarea>
+</div>
+
+      </form>
+      </div>
+      <div className="modal-footer d-flex justify-content-center">
+        <button type="button" className="btn btn-primary" data-bs-dismiss="modal">SUBMIT</button>
+ 
+      </div>
+    </div>
+  </div>
+</div>
+   
    <AboutUs />
    <Destinations/>
    <Testimonial />
@@ -64,9 +105,20 @@ export default function Home() {
     
 
    </div>
-   <a href="https://wa.me/8459039060?text=Hello can I help you ?" target='blank' style={{position:"fixed",right:"0",bottom:"0",marginBottom:"30px"}}>
+
+   <div className="whats-div">
+   <a href="https://wa.me/8459039060?text=Hello can I help you ?" target='blank' style={{position:"fixed",left:"0",bottom:"0",marginBottom:"30px"}}>
       <img className='img-fluid' style={{width:"100px"}} src={whatsIcon} alt="whats app" />
     </a>
+   </div>
+   
+   <div className="ask-maya-div" style={{position:"fixed",right:"0",bottom:"0",marginBottom:"10px"}}>
+   <button type="button" class="btn" data-bs-toggle="modal" data-bs-target="#exampleModal">
+   <img src={maya}  className='img-fluid' style={{width:"100px"}} alt="ask maya image" />
+</button>
+  
+   </div>
+   
    
    </>
   )

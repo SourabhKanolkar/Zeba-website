@@ -1,6 +1,7 @@
 import React from 'react'
 import "../styles/resorts.css"
 import Navbar from './Navbar'
+import NavA from './NavA'
 import whatsIcon from "../assets/whats-icon.png"
 
 
@@ -8,7 +9,8 @@ export default function Resorts() {
   return (
    <>
    <div className="scroll-fix" style={{ height: '100vh' }}>
-   <Navbar/>
+   {/* <Navbar/> */}
+   <NavA />
   
   <section id='resorts-section-page'>
 
