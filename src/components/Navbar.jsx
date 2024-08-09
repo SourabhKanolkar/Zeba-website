@@ -3,6 +3,7 @@ import logo from "../assets/logo-rm.png";
 import { Link } from 'react-router-dom';
 
 export default function Navbar() {
+
   const handleLinkClick = () => {
     const offcanvasElement = document.getElementById('offcanvasNavbar');
     const bsOffcanvas = new bootstrap.Offcanvas(offcanvasElement);
@@ -38,9 +39,21 @@ export default function Navbar() {
                   {/* <a className="nav-link" style={{fontFamily:"sans-serif"}} href="/" onClick={handleLinkClick} >Resorts</a> */}
                   <Link to="/Affiliates" className="nav-link" style={{ fontFamily: "sans-serif" }} onClick={handleLinkClick}>Affiliates</Link>
                 </li>
+
                 <li className="nav-item">
                 <Link to="/companydetails" className="nav-link" style={{ fontFamily: "sans-serif" }} onClick={handleLinkClick}>Companydetails</Link>
                 </li>
+
+                <li className="nav-item dropdown">
+          <a className="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+            Resorts
+          </a>
+          <ul className="dropdown-menu">
+            <li>   <Link to="/affilidatedresorts" className="nav-link" style={{ fontFamily: "sans-serif" }} onClick={handleLinkClick}>Affiliated</Link></li>
+            <li><a className="dropdown-item" href="#">Exchange</a></li>
+            
+          </ul>
+        </li>
 
 
                 <li className="nav-item">

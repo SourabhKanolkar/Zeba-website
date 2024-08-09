@@ -30,7 +30,7 @@ export default function Home() {
       <img src="https://defelizvacation.com/wp-content/uploads/2018/12/banner-thailand-3.jpg" className="d-block w-100 c-img" alt="..."/>
       <div className="carousel-caption top-0 mt-4 ">
         <p className='mt-5 fs-3' style={{letterSpacing:"2px"}}>THE ULTIMATE LUXURY EXPERIENCE</p>
-        <h1 className='display-1 fw-bolder' style={{fontFamily:"Barlow Condensed, serif"}} >Find Your Dream Holidays</h1>
+        <h1 className='display-1 fw-bolder' style={{fontFamily:"Barlow Condensed, serif"}} >Join us on this unforgettable journey</h1>
         <button className='btn btn-primary px-4 py-2 fs-5 mt-4 book-btn-home'>BOOK NOW</button>
       </div>
     </div>
@@ -38,7 +38,7 @@ export default function Home() {
       <img src="https://defelizvacation.com/wp-content/uploads/2018/12/banner-img-4.jpg" className="d-block w-100 c-img" alt="..."/>
       <div className="carousel-caption  top-0 mt-4 ">
       <p className='mt-5 fs-3' style={{letterSpacing:"2px"}}>THE ULTIMATE LUXURY EXPERIENCE</p>
-      <h1 className='display-1 fw-bolder' style={{fontFamily:"Barlow Condensed, serif"}} >Find Your Dream Holidays</h1>
+      <h1 className='display-1 fw-bolder' style={{fontFamily:"Barlow Condensed, serif"}} >Where every memory has a story to tell</h1>
       <button className='btn btn-primary px-4 py-2 fs-5 mt-4 book-btn-home'>BOOK NOW</button>
       </div>
     </div>

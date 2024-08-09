@@ -19,7 +19,15 @@ export default function AboutUs() {
            <div className="col-lg-6 col-md-12 text-center  ">
              <div className="conatent-about-text">
                <h4 className='content-about-head-texts text-center display-5 mt-3 mb-4 mb-lg-2' style={{color:"#AB8A62",}} >About Us</h4>
-               <p className='para-content-about text-center poppins-font '>Way back in 2015, we had the vision to create a world of truly luxurious and unforgettable holiday experiences that will engage and indulge your senses. Today with a wide global presence we specialize in bespoke and customized holidays created for discerning travellers who expect the highest level of luxury, service, and attention to detail</p>
+               <p className='para-content-about text-center poppins-font '>Majestic group of hotels is the driving force behind os dia de festa vacations ,A brand dedicated to provinding exceptional travel experiences. Majestic vacation is one of the most recognized brands in Indian Hospitality Industry. We have empaneled all state of the art luxury properties to cater the market. As being the pioneer in hospitality industry, Majestic Vacation answer the perfect blend of craftmanship & variety in membership plans.
+Majestic vacation has passed 7 years of accomplishment, aining to lead competitive segment of hospitality in India. Majestic vacation has re-engineered each step in segment of the industry & its value-chain to match the dynamism of Indian hospitality market.
+Parent organization: Majestic group
+Founded: 1993, Kolkata, India.
+Head office.
+2nd, 16K, Fern Rd, Ballygunge, Kolkata, West Bengal 700019, india.
+Corporate office.
+10-8, Halasuru, cross road, Bengaluru
+Karnataka 560008, India. </p>
                <button className='btn btn-primary px-4 py-2 fs-5 mt-4 call-btn-about mb-2' style={{color:"#AB8A62"}}>
   <a href="tel:8421658656" style={{textDecoration: 'none', color: '#AB8A62'}}>
     <i className="bi bi-telephone"></i> Call Us

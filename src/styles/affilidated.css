@@ -1,0 +1,15 @@
+
+#Affilidated-page-section{
+    margin-top: 100px;
+}
+.affiliated-pre-info{
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    align-items: center;
+     color: #fff;
+}
+.affi-link{
+    color: #AB8A62;
+}
