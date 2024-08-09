@@ -24,10 +24,11 @@ form{
 .login-heading{
     font-size: 32px;
     font-family: sans-serif;
-    font-weight: 600;
+    font-weight: 700;
+   
 }
 .logo-img-login{
-    width: 100px;
+    width: 120px;
 }
 .login-btn-client{
     padding: 8px 45px;

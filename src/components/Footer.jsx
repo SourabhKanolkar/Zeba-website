@@ -60,9 +60,9 @@ export default function Footer() {
                <div className="col-lg-4 col-md-6 col-sm-12">
                 <h3 className='heading-pages-title'>Contact Us  </h3>
                 <p className="contact-footer">
-                  <span className='text-contact'><i className="bi bi-geo-alt-fill footer-icon"></i>Mapusa,Goa India</span>
-                  <span className='text-contact'><i className="bi bi-telephone footer-icon"></i>+91 7083405130</span>
-                  <span className='text-contact'><i className="bi bi-envelope footer-icon"></i>sourabhkanolkar@gmail.com</span>
+                  <span className='text-contact'><i className="bi bi-geo-alt-fill footer-icon"></i>No.361Baman Vaddo Lane 1,Candolim,Goa 403515</span>
+                  <span className='text-contact'><i className="bi bi-telephone footer-icon"></i>+91 8421658656</span>
+                  <span className='text-contact'><i className="bi bi-envelope footer-icon"></i>reservations@osdiadefestavacation.com</span>
                 </p>
 
                </div>

@@ -7,6 +7,7 @@ import Testimonial from './Testimonial'
 import Footer from './Footer'
 import whatsIcon from "../assets/whats-icon.png"
 import maya from "../assets/maya.png"
+import logopic from "../assets/logo-rm.png"
 import { useState } from 'react'
 
 export default function Home() {
@@ -66,25 +67,29 @@ export default function Home() {
   <div className="modal-dialog">
     <div className="modal-content">
       <div className="modal-header">
-        <h1 className="modal-title fs-5 " id="exampleModalLabel">CONTACT-US</h1>
+        {/* <h1 className="modal-title fs-5 " id="exampleModalLabel">CONTACT-US</h1> */}
         <button type="button" className="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
       </div>
       <div className="modal-body">
+      <div className="logo-box d-flex justify-content-center">
+            <img src={logopic}  alt="logo here" style={{width:"100px"}} className='img-fluid logo-img-login' />
+          </div>
+        <h2 className='text-center poppins-font' style={{fontWeight:"500",color:"rgb(171, 138, 98)"}}>CONTACT-US</h2>
       <form>
 
       <div className="mb-3">
-    <label for="name" className="form-label">Name:</label>
-    <input type="text" className="form-control" id="name" aria-describedby="emailHelp"/>
+    <label for="name" className="form-label poppins-font" style={{fontWeight:"500"}}>Name:</label>
+    <input type="text" style={{outline:"1px solid #AB8A62"}} className="form-control" id="name" aria-describedby="emailHelp"/>
     {/* <div id="emailHelp" className="form-text">We'll never share your email with anyone else.</div> */}
   </div>
   <div className="mb-3">
-    <label for="exampleInputEmail1" className="form-label">Email address:</label>
-    <input type="email" className="form-control" id="exampleInputEmail1" aria-describedby="emailHelp"/>
+    <label for="exampleInputEmail1" className="form-label poppins-font" style={{fontWeight:"500"}}>Email address:</label>
+    <input type="email" style={{outline:"1px solid #AB8A62"}} className="form-control" id="exampleInputEmail1" aria-describedby="emailHelp"/>
     {/* <div id="emailHelp" className="form-text">We'll never share your email with anyone else.</div> */}
   </div>
   <div className="mb-3">
-  <label for="exampleFormControlTextarea1" className="form-label">Message:</label>
-  <textarea className="form-control" id="exampleFormControlTextarea1" rows="3"></textarea>
+  <label for="exampleFormControlTextarea1" className="form-label poppins-font" style={{fontWeight:"500"}}>Message:</label>
+  <textarea className="form-control" style={{outline:"1px solid #AB8A62"}} id="exampleFormControlTextarea1" rows="3"></textarea>
 </div>
 
       </form>

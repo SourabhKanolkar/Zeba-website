@@ -1,7 +1,9 @@
 .scroll-fix-2{
   overflow-y: auto;
 }
-
+.poppins-font{
+  font-family: "Poppins", sans-serif;
+}
 #home-page-section{
    
   padding-top: 80px ;

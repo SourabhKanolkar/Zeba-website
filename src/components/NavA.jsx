@@ -38,9 +38,11 @@ export default function NavA() {
 
           <li className="nav-item">
             {/* <a className="nav-link" style={{fontFamily:"sans-serif"}} href="/" onClick={handleLinkClick} >Resorts</a> */}
-            <Link to="/resorts" className="nav-link" style={{ fontFamily: "sans-serif" }} onClick={handleLinkClick}>Resort</Link>
-
+            <Link to="/Affiliates" className="nav-link" style={{ fontFamily: "sans-serif" }} onClick={handleLinkClick}>Affiliates</Link>
           </li>
+          <li className="nav-item">
+                <Link to="/companydetails" className="nav-link" style={{ fontFamily: "sans-serif" }} onClick={handleLinkClick}>Companydetails</Link>
+                </li>
 
           <li className="nav-item">
             {/* <a className="nav-link" style={{fontFamily:"sans-serif"}} href="#testimonial-page-section" onClick={handleLinkClick} >Testimonials</a> */}

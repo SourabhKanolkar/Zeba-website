@@ -126,6 +126,35 @@ export default function Resorts() {
                  </div>
                </div>
 
+               <div className="slick-active" >
+                 <div className="img-box-resort">
+                  
+                   <figure className=' resort-page-img' style={{ backgroundImage: "url('https://www.theparkhotels.com/images/site-specific/chennai/dining/aqua/THE-Park-Chennai-Aqua-poolside.jpg')",backgroundSize:"cover",backgroundPosition:"center",width:"270px" }} >
+                     {/* <img src="https://static3-clubmahindra.gumlet.io/storage/app/media/All%20Compressed%20banners/Summer-Sands.jpg?w=768&dpr=1.0" alt="resott" className='img-fluid resort-page-img' /> */}
+                       <div className="name-location-box">
+                       <h3 style={{fontSize:"18px",color:"#fff"}}>The Park Chennai</h3>
+                       <p className='resort-location-address'>Nungambakkam,Chennai,Tamil Nadu </p>
+                       </div>
+                   </figure>
+                  
+                 </div>
+               </div>
+               <div className="slick-active" >
+                 <div className="img-box-resort">
+                  
+                   <figure className=' resort-page-img' style={{ backgroundImage: "url('https://cache.marriott.com/content/dam/marriott-renditions/MAACY/maacy-exterior-6889-hor-wide.jpg?output-quality=70&interpolation=progressive-bilinear&downsize=1336px:*')",backgroundSize:"cover",backgroundPosition:"center",width:"270px" }} >
+                     {/* <img src="https://static3-clubmahindra.gumlet.io/storage/app/media/All%20Compressed%20banners/Summer-Sands.jpg?w=768&dpr=1.0" alt="resott" className='img-fluid resort-page-img' /> */}
+                       <div className="name-location-box">
+                       <h3 style={{fontSize:"18px",color:"#fff"}}>Courtyard Chennai</h3>
+                       <p className='resort-location-address'>NTeynampet, Chennai </p>
+                       </div>
+                   </figure>
+                  
+                 </div>
+               </div>
+
+
+
 
              </div>
            </div>
@@ -183,6 +212,20 @@ export default function Resorts() {
                  </div>
                </div>
 
+               <div className="slick-active" >
+                 <div className="img-box-resort">
+                  
+                   <figure className=' resort-page-img' style={{ backgroundImage: "url('https://cf.bstatic.com/xdata/images/hotel/max1024x768/100848121.jpg?k=74823af6d8308e171065b2e58dffccc0514d00a90775645e900d5d7c5c2f6dd2&o=&hp=1')",backgroundSize:"cover",backgroundPosition:"center",width:"270px" }} >
+                     {/* <img src="https://static3-clubmahindra.gumlet.io/storage/app/media/All%20Compressed%20banners/Summer-Sands.jpg?w=768&dpr=1.0" alt="resott" className='img-fluid resort-page-img' /> */}
+                       <div className="name-location-box">
+                       <h3 style={{fontSize:"18px",color:"#fff"}}>The Deltin , Daman</h3>
+                       <p className='resort-location-address'>Nagar Haveli and Daman </p>
+                       </div>
+                   </figure>
+                  
+                 </div>
+               </div>
+
 
              </div>
            </div>
@@ -212,19 +255,7 @@ export default function Resorts() {
              
              
 
-               <div className="slick-active" >
-                 <div className="img-box-resort">
-                  
-                   <figure className=' resort-page-img' style={{ backgroundImage: "url('https://ishavilasgoa.com/outdoor/Ishavilas%2013%20dec%202010-5.jpg')",backgroundSize:"cover",backgroundPosition:"center",width:"270px" }} >
-                     {/* <img src="https://static3-clubmahindra.gumlet.io/storage/app/media/All%20Compressed%20banners/Summer-Sands.jpg?w=768&dpr=1.0" alt="resott" className='img-fluid resort-page-img' /> */}
-                       <div className="name-location-box">
-                       <h3 style={{fontSize:"18px",color:"#fff"}}>Ishavilas Siolim Goa</h3>
-                       <p className='resort-location-address'>Siolim, Goa   </p>
-                       </div>
-                   </figure>
-                  
-                 </div>
-               </div>
+              
 
                <div className="slick-active" >
                  <div className="img-box-resort">
@@ -265,20 +296,7 @@ export default function Resorts() {
                   
                  </div>
                </div>
-               <div className="slick-active" >
-                 <div className="img-box-resort">
-                  
-                   <figure className=' resort-page-img' style={{ backgroundImage: "url('https://r1imghtlak.mmtcdn.com/b489e261-e70b-4257-8f34-6d854c6c1a4c.jpg?&output-quality=75&downsize=520:350&crop=520:350;2,0&output-format=jpg')",backgroundSize:"cover",backgroundPosition:"center",width:"270px" }} >
-                     {/* <img src="https://static3-clubmahindra.gumlet.io/storage/app/media/All%20Compressed%20banners/Summer-Sands.jpg?w=768&dpr=1.0" alt="resott" className='img-fluid resort-page-img' /> */}
-                       <div className="name-location-box">
-                       <h3 style={{fontSize:"18px",color:"#fff"}}>Aroha Palms Majestic</h3>
-                       <p className='resort-location-address'>Bardez, Goa   </p>
-                       </div>
-                   </figure>
-                  
-                 </div>
-               </div>
-
+              
 
              </div>
            </div>
@@ -346,19 +364,7 @@ export default function Resorts() {
                   
                  </div>
                </div>
-               <div className="slick-active" >
-                 <div className="img-box-resort">
-                  
-                   <figure className=' resort-page-img' style={{ backgroundImage: "url('https://oimages.elitehavens.com/images/gallery/hires/P00482/001%20Bastora%20House%20-%20Facade.jpg')",backgroundSize:"cover",backgroundPosition:"center",width:"270px" }} >
-                     {/* <img src="https://static3-clubmahindra.gumlet.io/storage/app/media/All%20Compressed%20banners/Summer-Sands.jpg?w=768&dpr=1.0" alt="resott" className='img-fluid resort-page-img' /> */}
-                       <div className="name-location-box">
-                       <h3 style={{fontSize:"18px",color:"#fff"}}>Bastora House, Bardez, Goa</h3>
-                       <p className='resort-location-address'>Siolim, Goa   </p>
-                       </div>
-                   </figure>
-                  
-                 </div>
-               </div>
+              
               
 
 
@@ -396,6 +402,32 @@ export default function Resorts() {
                        <div className="name-location-box">
                        <h3 style={{fontSize:"18px",color:"#fff"}}>Kashmir House Boat Srinagar</h3>
                        <p className='resort-location-address'>Srinagar, Jammu and Kashmir  </p>
+                       </div>
+                   </figure>
+                  
+                 </div>
+               </div>
+               <div className="slick-active" >
+                 <div className="img-box-resort">
+                  
+                   <figure className=' resort-page-img' style={{ backgroundImage: "url('https://lh3.googleusercontent.com/p/AF1QipOmC6c5-7l4LNK9vIWzL6848wB0thyq3d9XDKlA=s680-w680-h510')",backgroundSize:"cover",backgroundPosition:"center",width:"270px" }} >
+                     {/* <img src="https://static3-clubmahindra.gumlet.io/storage/app/media/All%20Compressed%20banners/Summer-Sands.jpg?w=768&dpr=1.0" alt="resott" className='img-fluid resort-page-img' /> */}
+                       <div className="name-location-box">
+                       <h3 style={{fontSize:"18px",color:"#fff"}}>Fortune Inn Riviera Jammu</h3>
+                       <p className='resort-location-address'> Old Heritage City, Jammu, Jammu and Kashmir  </p>
+                       </div>
+                   </figure>
+                  
+                 </div>
+               </div>
+               <div className="slick-active" >
+                 <div className="img-box-resort">
+                  
+                   <figure className=' resort-page-img' style={{ backgroundImage: "url('https://lh3.googleusercontent.com/p/AF1QipMpFWr0Btim7vxFjAxTk45l3o5wzxZMHqnSKYab=s680-w680-h510')",backgroundSize:"cover",backgroundPosition:"center",width:"270px" }} >
+                     {/* <img src="https://static3-clubmahindra.gumlet.io/storage/app/media/All%20Compressed%20banners/Summer-Sands.jpg?w=768&dpr=1.0" alt="resott" className='img-fluid resort-page-img' /> */}
+                       <div className="name-location-box">
+                       <h3 style={{fontSize:"18px",color:"#fff"}}>Vivanta Jammu, City Centre</h3>
+                       <p className='resort-location-address'>   Old Heritage City, Jammu, Jammu and Kashmir</p>
                        </div>
                    </figure>
                   
@@ -467,20 +499,6 @@ export default function Resorts() {
                    </figure>
                  </div>
                </div>
-               <div className="slick-active" >
-                 <div className="img-box-resort">
-                  
-                   <figure className=' resort-page-img' style={{ backgroundImage: "url('https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/b3/26/71/club-mahindra-virajpet.jpg?w=1200&h=-1&s=1')",backgroundSize:"cover",backgroundPosition:"center",width:"270px" }} >
-                     {/* <img src="https://static3-clubmahindra.gumlet.io/storage/app/media/All%20Compressed%20banners/Summer-Sands.jpg?w=768&dpr=1.0" alt="resott" className='img-fluid resort-page-img' /> */}
-                       <div className="name-location-box">
-                       <h3 style={{fontSize:"18px",color:"#fff"}}>Club Mahindra Virajpet, Coorg</h3>
-                       <p className='resort-location-address'>Coorg, Karnataka  </p>
-                       </div>
-                   </figure>
-                 </div>
-               </div>
-
-
               
              </div>
            </div>
@@ -574,7 +592,7 @@ export default function Resorts() {
          <div className="row">
            <div className="col-12">
              <div className="resort-heading-name-box d-flex justify-content-between space-between-margin">
-               <h2 className='heading-resot-title'>Osdiadefesta Resorts in Ladakh </h2>
+               <h2 className='heading-resot-title'>Osdiadefesta Resorts in Leh & Ladakh </h2>
              </div>
            </div>
          </div> 
@@ -599,6 +617,35 @@ export default function Resorts() {
                   
                  </div>
                </div>
+               <div className="slick-active" >
+                 <div className="img-box-resort">
+                  
+                   <figure className=' resort-page-img' style={{ backgroundImage: "url('https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/73/cf/71/the-barren-mountains.jpg?w=1200&h=-1&s=1')",backgroundSize:"cover",backgroundPosition:"center",width:"270px" }} >
+                     {/* <img src="https://static3-clubmahindra.gumlet.io/storage/app/media/All%20Compressed%20banners/Summer-Sands.jpg?w=768&dpr=1.0" alt="resott" className='img-fluid resort-page-img' /> */}
+                       <div className="name-location-box">
+                       <h3 style={{fontSize:"18px",color:"#fff"}}>Nubra Ethnic Camp</h3>
+                       <p className='resort-location-address'>Leh, Ladakh  </p>
+                       </div>
+                   </figure>
+                  
+                 </div>
+               </div>
+               <div className="slick-active" >
+                 <div className="img-box-resort">
+                  
+                   <figure className=' resort-page-img' style={{ backgroundImage: "url('https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/65/84/99/sitting-area-on-the-backside.jpg?w=1200&h=-1&s=1')",backgroundSize:"cover",backgroundPosition:"center",width:"270px" }} >
+                     {/* <img src="https://static3-clubmahindra.gumlet.io/storage/app/media/All%20Compressed%20banners/Summer-Sands.jpg?w=768&dpr=1.0" alt="resott" className='img-fluid resort-page-img' /> */}
+                       <div className="name-location-box">
+                       <h3 style={{fontSize:"18px",color:"#fff"}}>The Grand Dragon</h3>
+                       <p className='resort-location-address'>Leh, Ladakh  </p>
+                       </div>
+                   </figure>
+                  
+                 </div>
+               </div>
+              
+              
+              
               
               
               
