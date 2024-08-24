@@ -1,0 +1,746 @@
+[
+    {
+        "id": 1,
+        "name": "Hotel Katson Blue - Manali",
+        "img1": "https://www.royalsmoonlight.com/soft/admin/hotelThumbnail/105508147.jpg",
+        "img2":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/f6/1b/a4/caption.jpg?w=1200&h=-1&s=1",
+        "img3":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2b/86/ee/ff/caption.jpg?w=1200&h=-1&s=1",
+        "img4":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2b/86/ee/f6/lift.jpg?w=1200&h=-1&s=1",
+        "img5":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2b/86/ee/fb/reception.jpg?w=1200&h=-1&s=1",
+        "description": "Hotel Katson Blue is new built up hotel which is located in Simsa Ghadherni Village Manali.Hotel has 24 well furnished rooms which have all modern amenities in the rooms (Hair Dryer,Tea Coffee maker,Kingsize Bed,Study table) and 50 cover multi cuisine restaurant,Big Lobby Area ,Modern Lift ,Power Backup,Small Garden Area and ample parking Area. Hotel is just 3KM before Manali mall road main Market and 2 KM from before Volvo Bus stand Hotel has 11 River view rooms and 14 valley view rooms which give immense satisfaction to in house gues"
+
+    },
+   
+    {
+        "id": 3,
+        "name": "Crowne Plaza New Delhi",
+        "img1": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2c/d5/19/c2/hotel-fascade.jpg?w=1200&h=-1&s=1",
+        "img2":"https://dynamic-media-cdn.tripadvisor.com/media/photo-s/01/f1/2a/47/pool.jpg?w=600&h=-1&s=1",
+        "img3":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2b/f0/29/e1/club-lounge.jpg?w=1100&h=-1&s=1",
+        "img4":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2b/f0/29/e2/room.jpg?w=1100&h=-1&s=1",
+        "img5":"https://dynamic-media-cdn.tripadvisor.com/media/photo-s/01/f1/2a/45/copper-bar-lounge.jpg?w=600&h=-1&s=1",
+        "description": "Business and Dining Landmark of South Delhi Crowne Plaza New Delhi Okhla is a star hotel located in the heart of corporate & industrial hub of Delhi, approximately 21 Kms from Indira Gandhi International Airport and city's domestic airport , offering integrated hospitality for business and leisure travelers. The hotel enjoys proximity to local business complexes and MNCs of Okhla Phase I, II, III, Mohan Corporative Industrial State, Nehru Place, Jasola, Noida, Film City, Expressway, DND Flyway, NSIC Grounds Okhla, Pragati Maidan and India Expo Centre & super specialty hospitals such as Indraprastha Apollo Hospital and Fortis Escorts Heart Institute.During the leisure time,visit tourist places like Red Fort, Qutab Minar, Lotus Temple, Tughlakabad Fort, Akshardham Temple,Humayun Tomb and Okhla Bird Sanctuary in the nearby areas. The hotel features 208 well-equipped guest rooms with complimentary Wi-Fi and a banqueting space of 8500 Sq. ft."
+    },
+    {
+        "id": 4,
+        "name": "Brij Nest Jaipur",
+        "img1": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/d4/bf/88/brijnest-jaipur.jpg?w=1200&h=-1&s=1",
+        "img2":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/d4/ca/b3/reception.jpg?w=1200&h=-1&s=1",
+        "img3":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/d4/fb/89/brijnest-jaipur.jpg?w=1200&h=-1&s=1",
+        "img4":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/d4/d2/90/lobby.jpg?w=1200&h=-1&s=1",
+        "img5":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/d4/ca/2a/coffee-shop.jpg?w=1200&h=-1&s=1",
+        "description": "Welcome to Brij Nest Suites, a delightful boutique haven nestled in the heart of Jaipur, the famed Pink City. We take immense pride in showcasing and honoring Jaipur’s vibrant local culture and traditions throughout your stay with us. Our hotel offers a diverse array of accommodations tailored to meet your every need and desire, seamlessly blending modern amenities with stylish decor that embodies the essence of local heritage while ensuring utmost comfort. Conveniently located near the city’s iconic heritage sites and bustling commercial centers, Brij Nest Suites provides easy access to Jaipur’s rich architectural history and vibrant commercial districts. discover the enchanting allure of Brij Nest Suites"
+
+    },
+    {
+        "id": 5,
+        "name": "Ziva Suites A Boutique Hotel Siolim, Goa",
+        "img1": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/f8/be/34/ziva-suites.jpg?w=1200&h=-1&s=1",
+        "img2":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/f8/cd/6a/balcony-area.jpg?w=1200&h=-1&s=1",
+        "img3":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/f8/cc/da/grande-suite-recommended.jpg?w=900&h=-1&s=1",
+        "img4":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/f8/cd/43/pool.jpg?w=900&h=-1&s=1",
+        "img5":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/f8/cc/92/poolside-sit-out.jpg?w=1200&h=-1&s=1",
+        "description": "Ziva Suites is a spacious 15 suite boutique property located in a quaint little village called Siolim; surrounded by the extraordinary beauty of the lustrous green mountains and the calm of the Chapora riverside. Ziva Suites is a rare find for travellers looking to be away from the hustle and bustle of the tourist areas and still be close to the most famous tourist spots Goa has to offer."
+    },
+    {
+        "id": 6,
+        "name": "Hotel Anthurium Circle Colva Goa ",
+        "img1": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/17/b6/01/deluxe-room-spacious.jpg?w=1200&h=-1&s=1",
+        "img2":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/17/b5/bb/reception.jpg?w=1200&h=-1&s=1",
+        "img3":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/17/b6/39/executive-room-spacious.jpg?w=1200&h=-1&s=1",
+        "img4":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/17/b5/3a/hotel-anthurium-circle.jpg?w=1100&h=-1&s=1",
+        "img5":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/17/b5/58/hotel-anthurium-circle.jpg?w=1200&h=-1&s=1",
+        "description": "hello test"
+    },
+    {
+        "id": 7,
+        "name": "Bogmalo Beach Resort Goa",
+        "img1": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/6f/fb/ff/bogmallo-beach-resort.jpg?w=1200&h=-1&s=1",
+        "img2":"https://dynamic-media-cdn.tripadvisor.com/media/photo-s/03/22/a5/bb/bogmallo-beach-resort.jpg?w=600&h=-1&s=1",
+        "img3":"https://dynamic-media-cdn.tripadvisor.com/media/photo-s/03/22/a5/b3/bogmallo-beach-resort.jpg?w=600&h=-1&s=1",
+        "img4":"https://dynamic-media-cdn.tripadvisor.com/media/photo-s/03/22/a5/d2/bogmallo-beach-resort.jpg?w=600&h=-1&s=1",
+        "img5":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2c/ef/97/c0/caption.jpg?w=600&h=-1&s=1",
+        "description": "The Bogmallo Beach Resort, one of the very first luxury 5 star resorts in Goa, is nestled on the secluded white sands of Bogmalo beach (Goa - INDIA) and is located just 10 minutes from the airport. The resort boasts of 126 rooms well appointed sea facing rooms and 15 luxury sea facing cottages."
+    },
+    {
+        "id": 8,
+        "name": "Gold Finch Retreat Karnataka",
+        "img1": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/26/31/f8/3e/pool.jpg?w=1200&h=-1&s=1",
+        "img2":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0e/e2/a9/70/goldfinch-retreat.jpg?w=1200&h=-1&s=1",
+        "img3":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/ee/b4/f1/lawn.jpg?w=1200&h=-1&s=1",
+        "img4":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/26/31/f6/6a/gold-cub-bathroom.jpg?w=1200&h=-1&s=1",
+        "img5":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0e/e2/a7/f9/hotel-pool-side-view.jpg?w=600&h=-1&s=1",
+        "description": "Nestled in an oasis of 36 acres of sprawling landscaped and manicured lawns, Goldfinch Retreat is one of the finest four star hotels in Bangalore featuring the latest technology along with trendy guest amenities and services near Bangalore International Airport. LOCATION: The hotel is strategically located just 7 kms from the New International Airport, Bangalore.."
+    },
+    {
+        "id": 9,
+        "name": "Arna Hotels Karnataka",
+        "img1": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/5e/4a/3c/superior-room.jpg?w=1200&h=-1&s=1",
+        "img2":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/5e/4e/7d/banquet-hall.jpg?w=600&h=-1&s=1",
+        "img3":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/e4/ec/7f/caption.jpg?w=1200&h=-1&s=1",
+        "img4":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/84/81/d3/arna-hotel.jpg?w=1100&h=-1&s=1",
+        "img5":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/5e/48/ff/hotel-facade.jpg?w=1200&h=-1&s=1",
+        "description": "Property is very close to International Airport Bangalore. Total inventory of 47 business rooms, fully equipped with modern amenities. Having banquet hall, meeting rooms, Multicuisine Restaurant and Coffee shop."
+    },
+    {
+        "id": 10,
+        "name": "Country inn Suites Candolim Goa",
+        "img1": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/9c/5c/4a/exterior.jpg?w=1100&h=-1&s=1",
+        "img2":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/9c/5c/59/pool.jpg?w=1100&h=-1&s=1",
+        "img3":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/9c/5c/5e/chill-grill-pool-bar.jpg?w=1100&h=-1&s=1",
+        "img4":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/9c/5c/5c/mosaic-restaurant.jpg?w=1100&h=-1&s=1",
+        "img5":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/9c/5c/5c/mosaic-restaurant.jpg?w=1100&h=-1&s=1   ",
+        "description": "Stay within easy reach of three popular Indian beaches at the Country Inn & Suites by Radisson, Goa Candolim. Our location off Aguada-Siolim Road is within a few minutes of Candolim Beach, Calangute Beach and Baga Beach. Other popular attractions and sites include Aguada Fort, Panjim City and Dona Paula. After a busy day of sightseeing, retreat to the hotel and relax by the outdoor pool, or grab a bite to eat at one of our three on-site dining establishments. Cap off the evening with a drink and live music in our manicured tropical courtyard at the Poolside Bar-B-Que Grill & Bar."
+    },
+    {
+        "id": 11,
+        "name": "Hotel Kumar Plaza Matheran Maharashtra",
+        "img1": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/c7/e5/fd/main-hotel-building-with.jpg?w=1200&h=-1&s=1",
+        "img2":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0e/b7/37/88/hotel-kumar-plaza.jpg?w=1200&h=-1&s=1",
+        "img3":"",
+        "img4":"",
+        "img5":"",
+        "description": "The rooms offer a flat screen TV, air conditioning, and a sofa, and getting online is possible, as free internet access is available, allowing you to rest and refresh with ease. Hotel Kumar Plaza features 24 hour front desk, a concierge, and room service. In addition, as a valued Hotel Kumar Plaza guest, you can enjoy a pool and free breakfast that are available on-site. While staying at Hotel Kumar Plaza, you may want to check out Hotel Panorama Restaurant (0.3 mi) which is a short walk away."
+    },
+    {
+        "id": 12,
+        "name": "Cidad De Daman Daman and Diu",
+        "img1": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/e0/7d/be/20190605222250-img-0796.jpg?w=1200&h=-1&s=1",
+        "img2":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/3e/c4/59/cidade-de-daman.jpg?w=1200&h=-1&s=1",
+        "img3":"https://dynamic-media-cdn.tripadvisor.com/media/photo-s/01/de/e0/a8/room1.jpg?w=600&h=-1&s=1",
+        "img4":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/d3/22/c7/cidade-de-daman.jpg?w=1200&h=-1&s=1",
+        "img5":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/e2/c9/0b/photo4jpg.jpg?w=1200&h=-1&s=1",
+        "description": "See why so many travellers make Cidade de Daman their hotel of choice when visiting Daman. Providing an ideal mix of value, comfort and convenience, it offers a family-friendly setting with an array of amenities designed for travellers like you.Nearby landmarks such as Nani Daman (2.1 mi) and St Jerome Fort (2.4 mi) make Cidade De Daman Devka Beach Hotel a great place to stay when visiting Daman."
+    },
+    {
+        "id": 13,
+        "name": "Shilpi Hill Resort saputra Gujarat",
+        "img1": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0a/54/8c/f7/img-20160215-wa0003-largejpg.jpg?w=1200&h=-1&s=1",
+        "img2":"https://dynamic-media-cdn.tripadvisor.com/media/photo-s/01/ca/0d/c3/the-swimming-pool.jpg?w=600&h=-1&s=1",
+        "img3":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/03/46/96/72/shilpi-hill-resort.jpg?w=1200&h=-1&s=1",
+        "img4":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/f8/57/18/caption.jpg?w=1200&h=-1&s=1",
+        "img5":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/f8/58/5a/caption.jpg?w=1000&h=-1&s=1",
+        "description": "Shilpi Hill Resort is an excellent choice for travellers visiting Saputara, offering a romantic environment alongside many helpful amenities designed to enhance your stay. Paid internet access is offered to guests, and rooms at Shilpi Hill Resort offer a minibar and air conditioning.During your stay, take advantage of some of the amenities offered, including room service. Guests of Shilpi Hill Resort are also welcome to enjoy a pool and free breakfast, located on site. For travellers arriving by car, free parking is available."
+    },
+    {
+        "id": 14,
+        "name": "Park Exotica Rajasthan",
+        "img1": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1d/36/50/09/park-exotica-resort-spa.jpg?w=1000&h=-1&s=1",
+        "img2":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0c/d1/4a/fb/hotel3.jpg?w=1200&h=-1&s=1",
+        "img3":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1d/36/4f/7a/park-exotica-resort-spa.jpg?w=1200&h=-1&s=1",
+        "img4":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/25/a8/7e/park-exotica-resort-spa.jpg?w=1200&h=-1&s=1",
+        "img5":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/07/0e/7a/park-exotica-resort-spa.jpg?w=1200&h=-1&s=1",
+        "description": "Facilities With a contemporary decor and light tones, this ideal retreat is situated in the lap of the Aravalli Hills. The dense forests around enable guests to find a calm repose in this Garden of Eden. Being close to Shilpgram, a centre of art and culture of Rajasthan, this hotel is bound to give you a taste of the bygone era. It offers a blissful experience with its modern amenities and well trained staff at an affordable rate. Resort offers meticulous services with its courteous trained staff. Overlooking the Aravalis, the rooms offer a comfortable stay to both leisure and corporate travellers. Tastefully embellished with wooden flooring, the rooms are well equipped with a work table, intercom, mini fridge, in room safe, iron and a luggage rack. "
+    },
+    {
+        "id": 15,
+        "name": "Ramatan Resort Goa",
+        "img1": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/23/69/e8/0d/ramatan-resort.jpg?w=700&h=-1&s=1",
+        "img2":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/12/b3/e6/ramatan-resort.jpg?w=1100&h=-1&s=1",
+        "img3":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/25/24/ea/bc/ramatan-resort.jpg?w=1200&h=-1&s=1",
+        "img4":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/12/b3/ec/ramatan-resort.jpg?w=1100&h=-1&s=1",
+        "img5":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/12/b3/ed/ramatan-resort.jpg?w=1100&h=-1&s=1",
+        "description": "We would like to take this opportunity to introduce “RAMATAN RESORT”, North Goa. A 3*** Deluxe property with all luxury amenities in the rooms, equipped with LCD TV’s, WIFI , Tea Coffee Maker, Hairdryer, Safety lockers, Toiletries ,Mini bar etc. The property has 28 AC well - appointed furnished rooms. Very friendly to the guest and well maintained with a Swimming pool, Bar, Restaurant and Conference hall. Rooms: 21 - DELUXE ROOMS. 04 - SUPER DELUXE ROOMS with private balcony overlooking the pool. 03 - PREMIUM ROOMS with bathtub, private balconyoverlooking the pool. Conference Hall (Basement): Capacity - Max 80 pax. An ideal venue to host all your memorable events. • Conferences. • Board Meetings. • Birthday Parties. • Wedding Reception. • Anniversary Celebrations. • Engagement Functions. Nearby Tourist attractions: 1) Vagator Beach – 1.5 kms 2) Ozran Beach – 1.5 kms. 3) Anjuna Beach – 2 kms. 4) Chapora Fort – 2 kms. 5) Calangute Beach – 4 kms."
+    },
+    {
+        "id": 16,
+        "name": "Clifpop Club Uttarakhand",
+        "img1": "https://clubjiva.in/wp-content/uploads/2021/02/FI-2-1024x768.jpg",
+        "img2":"https://dynamic-media-cdn.tripadvisor.com/media/photo-s/01/f9/03/90/cliff-top-during-june.jpg?w=600&h=-1&s=1",
+        "img3":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/2c/d7/37/clifftop-club.jpg?w=1200&h=-1&s=1",
+        "img4":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/2c/d7/55/clifftop-club.jpg?w=1200&h=-1&s=1",
+        "img5":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/da/15/11/photo1jpg.jpg?w=1200&h=-1&s=1",
+        "description": "At about 10000 ft, from the sea level, located in the Garhwal Himalayas of the state of Uttrakhand Cliff Top, Auli is the second highest resort located in the World. The resort provides a 270 degree clear view of the snow covered Nanda Devi range (the highest in india and third highest in the world). Other ranges in sight include Dronagiri, Kamet, Trishul, Neelkanth, Mana, and Mukut . They belong to the snow-line ranges which are covered with snow all round the year. In summers, when the snow gives way to carpets of grass and flowers, hikers and trekkers will find numerous marked walks and mountain bike trails. Trekkers to Kuari Pass and the Valley of Flowers prefer to stay on at Clifftop Club at the end of the trek to avail the luxury of hot baths and lavish cuisine."
+    },
+    {
+      "id": 17,
+        "name": "The Lalit Inn  Lonavala",
+        "img1": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0c/7f/25/d9/getlstd-property-photo.jpg?w=1200&h=-1&s=1",
+        "img2":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0c/7f/25/d9/getlstd-property-photo.jpg?w=1200&h=-1&s=1",
+        "img3":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/59/07/65/game-zone.jpg?w=1200&h=-1&s=1",
+        "img4":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/19/c7/18/8b/20190727-113544-largejpg.jpg?w=1000&h=-1&s=1",
+        "img5":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/59/07/64/hotel-lalit-inn.jpg?w=1200&h=-1&s=1",
+        "description": "Lose yourself among the clouds and experience the fresh open air of the hills of Khandala."
+    },
+    {
+        "id": 18,
+        "name": "Alpine Club Nainital Uttarakhand",
+        "img1": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/61/e9/49/img-20170821-142023-largejpg.jpg?w=1200&h=-1&s=1",
+        "img2":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/02/25/d1/6d/alpine-chalet-hotel.jpg?w=700&h=-1&s=1",
+        "img3":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/02/25/c7/0c/alpine-chalet-hotel.jpg?w=700&h=-1&s=1",
+        "img4":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/06/0f/29/b1/alpine-club.jpg?w=1200&h=-1&s=1",
+        "img5":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/06/0f/29/c1/alpine-club.jpg?w=1200&h=-1&s=1",
+        "description": "Straight out of a fairy tale, this red Swiss Chalet springs into view out of the dense oak forest on Ayarpatta Hills on the quiet Raj Bhavan Road of Nainital. Don't miss to marvel at the gigantic eucalyptus tree that presides over the chalet or take a walk through one of the many wooded trails from the hotel, straight out of a William Wordsworth poem. Alpine Club, Nainital Alpine Club is a boutique hotel that provides a homely experience in the bustling tourist town of Nainital. Located 4 km away from the busy mall and lake, Alpine Club provides the warmth and comfort of a home away from home with personalized service. Rooms paneled in wood with solid wood flooring, cozy interiors and comfortable furniture make you wish to linger on for a longer time."
+    },
+    {
+      "id": 19,
+        "name": "Mountain Club Bhimtal",
+        "img1": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/fa/3c/e0/entrance.jpg?w=1200&h=-1&s=1",
+        "img2":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/fa/3c/03/view-as-soon-as-you-enter.jpg?w=1200&h=-1&s=1",
+        "img3":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/fa/3b/28/spacious-and-well-equipped.jpg?w=1200&h=-1&s=1",
+        "img4":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/c4/a1/d6/mountain-club.jpg?w=1200&h=-1&s=1",
+        "img5":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/fa/3c/21/dinning-area.jpg?w=1200&h=-1&s=1",
+        "description": "The best kept secret of Uttaranchal, Mountain Club is hidden from the main road and bazaar areas in a dense oak and pine forest, rich in 350 species of birds. Tranquil environs, landscaping, scattered sit outs , indoor and outdoor games, numerous trekking trails leading from the resort, proximity to the forested lakes, all make for a relaxing and rejuvenating holiday at mountain Club, Bhimtal."
+    },
+    {
+        "id": 20,
+        "name": "Ramada Gurgoan",
+        "img1": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/23/e5/3a/09/exterior.jpg?w=1100&h=-1&s=1",
+        "img2":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/af/37/82/ramada-gurgaon-central.jpg?w=1200&h=-1&s=1",
+        "img3":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/af/36/da/ramada-gurgaon-central.jpg?w=1200&h=-1&s=1",
+        "img4":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/af/37/3e/ramada-gurgaon-central.jpg?w=1200&h=-1&s=1",
+        "img5":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/af/36/8e/ramada-gurgaon-central.jpg?w=1200&h=-1&s=1",
+        "description": "The Ramada Gurgaon Central is a 4-star hotel located in Sector 44, Gurugram, the commercial hub of the city. It is just a short drive away from the International Airport. The hotel is well-suited for business travelers with a range of facilities that cater to work-related needs, such as high-speed internet access, meeting/board rooms, and a round-the-clock business center equipped with cutting-edge audio-visual communication equipment. In terms of leisure facilities, the hotel features an outdoor terrace pool, a fitness center, and a spa. Dining options include Atrium Deli, the hotel's 24-hour coffee shop; Kokkinos, a restro-bar; and ADP (Atrium Deli Patisserie), a paradise of exceptional cakes, pastries, and bakery products. -Distance from Indira Gandhi"
+    },
+      
+    {
+        "id": 22,
+        "name": " Katson Blue - Mashobra",
+        "img1": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/c5/cb/bc/caption.jpg?w=1200&h=-1&s=1",
+        "img2":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/c5/cb/c4/caption.jpg?w=1200&h=-1&s=1",
+        "img3":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/c5/cb/bd/caption.jpg?w=1200&h=-1&s=1",
+        "img4":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1d/24/76/7c/harmony-blue-mashobra.jpg?w=1100&h=-1&s=1",
+        "img5":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/c5/b6/ac/caption.jpg?w=1200&h=-1&s=1",
+        "description": "Set in the charming hamlet of Mashobra in Shimla, Katson blue mashobra makes for a beautiful postcard picture. At a 12 km convenient distance from the commercial hub of Shimla, Mashobra is a popular tourist destination for those who are nature lovers, adventure seekers and travel junkies. Katson blue mashobra has 31 cozy rooms , mostly looking out to the gorgeous valley and majestic mountains in the near horizon. The hotel is well equipped, with its own restaurant, bar, business travel desk & concierge, activities hall and small lawns Nestled in the midst of sprawling apple orchards and coniferous forest of pine trees, it offers an overwhelming view of one of nature’s best landscapes. Complementing this visual extravagance is the premium hospitality at the resort itself." 
+    },
+    {
+        "id": 23,
+        "name": "Royal Moonlight Resort Bhimtal",
+        "img1": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/546213826.jpg?k=ec2fdbbf8a125dfee3bce6908de4d552151c834809605e690c90d77457d03dbc&o=&hp=1",
+        "img2":"",
+        "img3":"",
+        "img4":"",
+        "img5":"",
+        "description": "hello test"
+    },
+    {
+        "id": 24,
+        "name": "Mansingh Palace Rajasthan",
+        "img1": "https://r2imghtlak.mmtcdn.com/r2-mmt-htl-image/htl-imgs/201802231746016635-2a25692ac72011eda5bd0a58a9feac02.jpg?&output-quality=75&downsize=520:350&crop=520:350;2,0&output-format=jpg",
+        "img2":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0a/c6/2e/84/mansingh-palace.jpg?w=1200&h=-1&s=1",
+        "img3":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/1a/7b/cb/mansingh-palace-ajmer.jpg?w=1200&h=-1&s=1",
+        "img4":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/8b/03/23/photo9jpg.jpg?w=1100&h=-1&s=1",
+        "img5":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2c/8b/a6/7c/caption.jpg?w=1200&h=-1&s=1",
+        "description": "hello test"
+    },
+    {
+        "id": 25,
+        "name": "Regenta central jaipur",
+        "img1": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0a/c6/2e/84/mansingh-palace.jpg?w=1200&h=-1&s=1",
+        "img2":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0e/ad/d4/2c/room.jpg?w=1200&h=-1&s=1",
+        "img3":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0a/fc/aa/d3/room.jpg?w=1200&h=-1&s=1",
+        "img4":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0b/c9/80/2d/pinxx.jpg?w=1200&h=-1&s=1",
+        "img5":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0b/c9/80/2c/pinxx.jpg?w=1200&h=-1&s=1",
+        "description": "ROOMS: Deluxe - 28 well furnished and decorated guest rooms offering the vast range of services ensured for the comfort and convenience. Club - 8 premium rooms with scenic views, warm hues and top amenities. Executive Club - 8 premium suites with an exclusive floor for personalized services."
+    },
+    {
+        "id": 26,
+        "name": "Forth Chanwa Luni",
+        "img1": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/18/34/12/f0/fort-chanwa-luni.jpg?w=1200&h=-1&s=1",
+        "img2":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/0c/56/25/fort-chanwa-luni.jpg?w=800&h=-1&s=1",
+        "img3":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/0c/50/e2/fort-chanwa-luni.jpg?w=800&h=-1&s=1",
+        "img4":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/0c/55/da/fort-chanwa-luni.jpg?w=800&h=-1&s=1",
+        "img5":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/0c/50/38/fort-chanwa.jpg?w=800&h=-1&s=1  ",
+        "description": "Fort Chanwa Luni is Located in the village of Chanwa. Below is the brief description about the history attached along with this Historical Venue. Maharaja Jaswant Singh II Ruler of Jodhpur, Marwar from 1876-1895 A.D is remembered as a benevolent Monarch who steered the administration and economy of the state away from chaos and instability to a period of sustained development, security and justice for all. Amongst the prominent civil servants in this Ruler's coterie of administrators, was a young Charan by the name of KavirajMuraridanji. He was an astute politician and a farsighted administrator. In 1894 KavirajMuraridanji received in Jagir the little known hamlet of Chanwa. There he builds an exquisite little fortified haveli, today known as Heritage Hotel Fort"
+    },
+    {
+        "id": 27,
+        "name": "East Bourne Shimla",
+        "img1": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/06/ff/5a/ae/eastbourne.jpg?w=1200&h=-1&s=1",
+        "img2":"https://dynamic-media-cdn.tripadvisor.com/media/photo-s/02/29/5a/29/superior-room.jpg?w=600&h=-1&s=1",
+        "img3":"https://dynamic-media-cdn.tripadvisor.com/media/photo-s/01/9d/6f/c2/the-restaurant-at-eastbourne.jpg?w=600&h=-1&s=1",
+        "img4":"https://dynamic-media-cdn.tripadvisor.com/media/photo-s/02/29/5a/29/superior-room.jpg?w=600&h=-1&s=1",
+        "img5":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/14/a5/a6/7d/east-bourne-resort-spa.jpg?w=1200&h=-1&s=1",
+        "description": "East Bourne, a Luxury Resort in the queen of the hills  the erstwhile Capital of the British Raj to your esteemed organisation. An Eco-Tourism resort situated at an altitude of 6500 Ft. in the Himalayas EAST BOURNE promises an easy paced vacation full of surprise and unforgettable memories. Provided with every modern amenity, East A brief profile of our resort is as follows We specialise in arrangement for theme parties, marriages, conferences, fashion shows and product launching. The facilities in the resort are: 61 centrally heated luxury rooms with attached baths (cubical with shower panel with hot & cold running water), hair and body dryers, LCD, Wooden flooring, Mini bar, Tea/Coffee maker, "
+    },
+    {
+        "id": 28,
+        "name": "Oxygen Resort Thekkady",
+        "img1": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1b/ba/05/0c/oxygen-resorts-thekkady.jpg?w=1200&h=-1&s=1",
+        "img2":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1b/c7/2e/14/oxygen-resorts-thekkady.jpg?w=1200&h=-1&s=1",
+        "img3":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1b/ba/03/09/oxygen-resorts-thekkady.jpg?w=1200&h=-1&s=1",
+        "img4":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1b/ba/02/84/oxygen-resorts-thekkady.jpg?w=1200&h=-1&s=1",
+        "img5":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1b/c7/2f/5e/oxygen-resorts-thekkady.jpg?w=1200&h=-1&s=1",
+        "description": "Situated amidst the sprawling wildlife of Periyar National Park, and thoroughly encircled by greenery, this just might be the perfect dream destination for nature enthusiasts. Have an enchanting stay at Oxygen Resorts Thekkady, with the fairy-tale view of mountains enveloped by clouds, and musical treats of birds chirping & crickets stridulating. The resort has a mesmerizing view among other first-class amenities like well-maintained swimming pool and balconies with garden view or mountain view. The most sought-after tourist locations, Periyar National Park and Mudra Cultural Centre are both within an easily travelable distance of 5 kms. Other tourist locations nearby include Chellarkovil, Cumbam Fruit "
+    },
+    {
+        "id": 29,
+        "name": "Haveli Backwater Resort Kerala",
+        "img1": "https://pix8.agoda.net/hotelImages/215/2156153/2156153_17040417210052118264.jpg?ca=6&ce=1&s=1024x",
+        "img2":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2b/a2/38/0d/caption.jpg?w=1200&h=-1&s=1",
+        "img3":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2b/a2/37/fc/caption.jpg?w=1200&h=-1&s=1",
+        "img4":"https://havelibackwaterresort.com/assets/img/gallery/14.webp",
+        "img5":"https://havelibackwaterresort.com/assets/img/gallery/18.webp",
+        "description": "Haveli Backwater Resort, Built on a typical Rajasthan architectural theme, the resort is classified in to 4 star at the project stage itself and has all infrastructure that meets 5 star standards. The majestic frontage of the property resembles a typical Rajasthani Fort afloat on Kerala Backwaters. Rooms in Haveli are designed with comfort and convenience in mind, providing a place to unwind or to catch up on work. Explore the various types of rooms, explore the amenities."
+    },
+    {
+        "id": 30,
+        "name": "VITS Devbhumi Hotel Gujarat",
+        "img1": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/65/2c/9f/vits-devbhumi-hotel.jpg?w=1200&h=-1&s=1",
+        "img2":"",
+        "img3":"",
+        "img4":"",
+        "img5":"",
+        "description": "Located in Dwarka, the hotel is just 750 meters from Dwarkadhish Temple, VITS Devbhumi, a 4 star classified hotel features a terrace and views of the city. Among the facilities of this property are a restaurant, a 24-hour front desk, and room service, along with free WiFi. The property provides a ticket service, a tour desk and currency exchange for guests. At the hotel, every room comes with a closet. Complete with a private bathroom equipped with a bath and a hairdryer, all guest rooms at VITS Devbhumi, Dwarka has a flat-screen TV and air conditioning, and some rooms here will provide you with a seating area. The rooms will provide guests with a desk and an electric teapot. A buffet breakfast is available daily at the accommodation."
+    },
+    {
+        "id": 31,
+        "name": "Parkin inn By Redisson Goa",
+        "img1": "https://ik.imgkit.net/3vlqs5axxjf/external/ik-seo/http://media.iceportal.com/124806/photos/79747153_XL/Park-Inn-by-Radisson-Putrajaya-Exterior.jpg?tr=w-780%2Ch-437%2Cfo-auto",
+        "img2":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/58/e0/86/room.jpg?w=1200&h=-1&s=1",
+        "img3":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/58/e1/01/room.jpg?w=1200&h=-1&s=1",
+        "img4":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/58/eb/91/banquet.jpg?w=1200&h=-1&s=1",
+        "img5":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/58/18/8b/restaurant.jpg?w=1200&h=-1&s=1",
+        "description": "Located in Dwarka, the hotel is just 750 meters from Dwarkadhish Temple, VITS Devbhumi, a 4 star classified hotel features a terrace and views of the city. Among the facilities of this property are a restaurant, a 24-hour front desk, and room service, along with free WiFi. The property provides a ticket service, a tour desk and currency exchange for guests. At the hotel, every room comes with a closet. Complete with a private bathroom equipped with a bath and a hairdryer, all guest rooms at VITS Devbhumi, Dwarka has a flat-screen TV and air conditioning, and some rooms here will provide you with a seating area. The rooms will provide guests with a desk and an electric teapot. A buffet breakfast is available daily at the accommodation."
+    },
+    {
+        "id": 32,
+        "name": "Ramada BY Whyndham Jaipur",
+        "img1": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/27/f0/84/fe/exterior.jpg?w=1100&h=-1&s=1",
+        "img2":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2d/03/d1/32/guest-room.jpg?w=1100&h=-1&s=1",
+        "img3":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2d/03/d1/27/jupiter-banquet-hall.jpg?w=1100&h=-1&s=1",
+        "img4":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2d/03/d1/23/accessible-bathroom.jpg?w=1100&h=-1&s=1",
+        "img5":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2d/03/d1/1b/pool.jpg?w=1100&h=-1&s=1",
+        "description": "Ramada Jaipur offers spectacular hospitality in the heart of the Pink City. A heaven of comfort and style. It presents a welcome respite and tranquil relaxation. Conveniently located within the city's main business center, guests are just a stone's throw from all the excitement the city has to offer.Ramada Jaipur is the first choice for harried, anxious and exhausted travelers."
+
+    },
+    {
+        "id": 33,
+        "name": "Pine Tree Darjeling Darjeeling",
+        "img1": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0e/83/7b/02/pine-tree-spa-resort.jpg?w=1200&h=-1&s=1",
+        "img2":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/14/a2/d6/b7/pine-tree-spa-resort.jpg?w=1200&h=-1&s=1",
+        "img3":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0e/83/79/24/pine-tree-spa-resort.jpg?w=1200&h=-1&s=1",
+        "img4":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/14/a2/e0/05/pine-tree-spa-resort.jpg?w=1200&h=-1&s=1",
+        "img5":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/14/a2/e4/05/pine-tree-spa-resort.jpg?w=1200&h=-1&s=1",
+        "description": "Experience the unmatched hospitality and luxury in Darjeeling our Heritage wing and luxury hotels comes with all ultra modern amenities. So if you are looking for the best deals with maximum luxury Pine Tree Resort and Spa is the best choice for you."
+    },
+    {
+        "id": 34,
+        "name": "Summit Oakden Resort Darjeeling",
+        "img1": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/b1/16/46/summit-oakden-resort.jpg?w=1200&h=-1&s=1",
+        "img2":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/22/fa/f3/fd/oakdene-resort.jpg?w=1200&h=-1&s=1",
+        "img3":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/a2/37/7c/caption.jpg?w=1200&h=-1&s=1",
+        "img4":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/7d/0d/9c/caption.jpg?w=1200&h=-1&s=1",
+        "img5":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/41/60/fb/caption.jpg?w=1200&h=-1&s=1",
+        "description": "Sitting comfortably on an iconic Mall road overlooking the chronicles of snow-capped mountains, the Summit Oakden Resort and Spa is paramount to hospitality in Darjeeling. The beautiful rooms displaying a blend of heritage and neoteric the resort is a pure instance to experience an exuberance of the Himalayas in a most flamboyant way. The 30 spacious rooms are designed comprehensively assuring a stunning view of the valley and the lush greenery of the surroundings. Besides that, the amenities that comes along meets the fundamental needs of the guest to ensure a remarkable stay at our property."
+    },
+    {
+        "id":35,
+        "name":"Tea hills Resort Kerala",
+        "img1":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/24/71/8e/c5/reception.jpg?w=1200&h=-1&s=1",
+        "img2":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/24/71/85/bf/munnar-tea-hills-resort.jpg?w=1200&h=-1&s=1",
+        "img3":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/24/71/7c/ae/munnar-tea-hills-resort.jpg?w=1100&h=-1&s=1",
+        "img4":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/24/8c/1c/18/munnar-tea-hills-resort.jpg?w=900&h=-1&s=1",
+        "img5":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/24/71/58/82/restaurant.jpg?w=1200&h=-1&s=1",
+        "description":"Get your trip off to a great start with a stay at this property, which offers car park free of charge. Conveniently situated in the Chekuthan Mukku part of Munnar, this property puts you close to attractions and interesting dining options. Don't leave before paying a visit to the famous The Fog Munnar Resorts and Spa. This 4-star property features spa to make your stay more indulgent and memorable."
+    },
+    {
+        "id": 36,
+        "name": "Blanket Hotel & Spa Munnar",
+        "img1": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/65/ba/2f/blanket-hotel-spa.jpg?w=1200&h=-1&s=1",
+        "img2": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/bd/a0/5a/blanket-honeymoon-pavilion.jpg?w=1200&h=-1&s=1",
+        "img3": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/bd/9f/31/blanket-valley-club.jpg?w=1200&h=-1&s=1",
+        "img4": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/bd/a9/c3/blanket-camellia-bathroom.jpg?w=1200&h=-1&s=1",
+        "img5": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0e/6e/60/70/at-blanket-we-believe.jpg?w=1000&h=-1&s=1",
+        "description": "Blanket Hotel and Spa is a five star luxury hotel located at Attukad in Munnar. Perched on a hill with a panoramic view of the mystical Attukad Falls, the hotel is a perfect blend of luxury and nature’s melodious harmony. We offer five star service and luxury that is personalized to meet the most discerning needs our guests may have."
+    },
+    
+    {
+        "id": 37,
+        "name": "Fragrant Nature Munnar",
+        "img1": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0a/9b/ca/f7/hotel.jpg?w=1200&h=-1&s=1",
+        "img2": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/bf/33/5f/fragrant-nature-munnar.jpg?w=1200&h=-1&s=1",
+        "img3": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/bf/33/ac/fragrant-nature-munnar.jpg?w=1200&h=-1&s=1",
+        "img4": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0a/9b/ce/2a/lounge.jpg?w=1200&h=-1&s=1",
+        "img5": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/bf/33/89/fragrant-nature-munnar.jpg?w=1200&h=-1&s=1",
+        "description": "Fragrant Nature Munnar is a five star classified hotel located at the prime area of Pothamedu which has the best views of the mountains and valleys . All of 27 Tropic Green rooms have views to the mountains, while 14 of our Moonlight Bliss rooms have open terraces for every room and are designed for those who are young at heart. Our Honeymoon Suite, Wild Orchid Suite is well appointed with a private balcony overlooking the highlands and our Presidential suite is a final word for luxury at the High ranges of Munnar."
+    },
+    {
+        "id": 38,
+        "name": "Sterling Lake Palace Alleppey",
+        "img1": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/24/aa/8b/2a/sterling-lake-palace.jpg?w=1200&h=-1&s=1",
+        "img2": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/24/aa/8c/d4/sterling-lake-palace.jpg?w=1200&h=-1&s=1",
+        "img3": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/a5/b4/cb/lake-view-premium-room.jpg?w=1200&h=-1&s=1",
+        "img4": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/78/ed/49/rajivji-boat-guest-check.jpg?w=1200&h=-1&s=1",
+        "img5": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/87/b3/20/lake-view-premium-room.jpg?w=900&h=-1&s=1",
+        "description": "Pamper yourself at this luxurious 17-acre property on the banks of Lake Vembanad, India’s longest freshwater lake, with a private lagoon and island swimming pool. An ideal stay at either our cottages or premier suites offering a comfortable space up to 470 sq.ft., each with lake / lagoon water views. Indulge in the authentic flavours of Kerala along with many Indian and international dishes at The Lakeside restaurant overlooking the Vembanad Lake. With Kerala being the home of ayurvedha, enjoy a holistic experience with age-old treatments and therapies at the Subuthi spa. Enjoy a range of fun activities at the resort like kayaking, shikara rides, jet-ski, sunset cruise, miniature golf, fishing at the lake and many more."
+    },
+    {
+        "id": 39,
+        "name": "Ramada BY Whyndham Allapey",
+        "img1": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/26/b7/20/54/ramada-by-wyndham-alleppey.jpg?w=1200&h=-1&s=1",
+        "img2": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/26/b7/20/00/ramada-by-wyndham-alleppey.jpg?w=1200&h=-1&s=1",
+        "img3": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/e7/eb/a8/breakfast-area.jpg?w=1100&h=-1&s=1",
+        "img4": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/e7/eb/a3/boardroom.jpg?w=1100&h=-1&s=1",
+        "img5": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/e7/eb/9d/2-bedroom-king-presidential.jpg?w=1100&h=-1&s=1",
+        "description": "A picturesque Resort Hotel at Alleppey ( The Venice of the East ) overlooking the backwaters of the Punnamada Lake. 85 kilometres from Cochin International Airport which is about a 2 hour drive."
+    },
+    {
+        "id": 40,
+        "name": "Uday Back Water Kerala",
+        "img1": "https://res.cloudinary.com/simplotel/image/upload/x_0,y_0,w_3992,h_2250,r_0,c_crop,q_80,fl_progressive/w_1650,c_fit,f_auto/uday-backwater-resort/UDS_ALPY_1_ixbxlf",
+        "img2": "https://res.cloudinary.com/simplotel/image/upload/w_5000,h_3020/x_0,y_204,w_5000,h_2814,r_0,c_crop,q_80,fl_progressive/w_1650,c_fit,f_auto/uday-backwater-resort/5W3B9713_copy_bq14s4",
+        "img3": "https://res.cloudinary.com/simplotel/image/upload/w_5000,h_3333/x_0,y_513,w_4999,h_2817,r_0,c_crop,q_80,fl_progressive/w_1650,c_fit,f_auto/uday-backwater-resort/Alpy_22_nc69yo",
+        "img4": "https://res.cloudinary.com/simplotel/image/upload/w_5000,h_3179/x_911,y_0,w_3179,h_3179,r_0,c_crop,q_80,fl_progressive/w_1237,f_auto,c_fit/uday-backwater-resort/Lake_View_Suite_Room_x63jn1",
+        "img5": "https://r2imghtlak.ibcdn.com/r2-mmt-htl-image/htl-imgs/201810291801117855-41fb798cad2911e9a2e30242ac110004.jpg?downsize=634:357",
+        "description": "Uday backwater Resort in Alleppy is a destination by itself with 56 stylish rooms and 9 pool villas, Spas, Restaurants, Houseboats and Country boat trips turning your vacation exciting mesmerizing . The resort got all comforts, with dedicated service personnel and elegant furnishings aesthetically combining traditional charm with modern facilities."
+    },
+    {
+        "id": 41,
+        "name": "Haven Allepy Beach villa Alappuzha",
+        "img1": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/50/6f/fd/frontage.jpg?w=600&h=-1&s=1",
+        "img2": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/48/79/2d/superior-room.jpg?w=1200&h=-1&s=1",
+        "img3": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/19/dd/e0/8e/brand-new-swimming-pool.jpg?w=900&h=-1&s=1",
+        "img4": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/50/70/9a/ayurveda.jpg?w=600&h=-1&s=1",
+        "img5": "https://www.havenbeachvilla.com/assets/img/slider/slide6.jpg",
+        "description": "Leave Your World Behind. Enjoy your holiday with us. For travelers visiting Alappuzha,Haven Beach Villa is an excellent choice for rest and relax. In the rooms offer a flat screen TV, Complimentary Kettle,Pool Towels,Sampoo, Bath soap and air conditioning, and getting online is easy, with free WiFi available. Guests have access to 24 hour front desk, 24 hour check-in. In addition, Warmth we offers a swimming pool with kids pool and Jacuzzi, Games zone such as Table Tennis, Badminton Court, Chess, Carom etc. A complimentary breakfast is also Included in the price. The main attraction is Beach, that's Just 50 Meter near to our property, which will help make your Alappuzha trip additionally gratifying. And, as an added convenience, there is free parking available for guests. Given the close proximity to Ambalapuzha Sree Krishna Temple (17 km), guests of Haven Beach Villa can easily experience one of Alappuzha's most popular landmarks. If you are interested in exploring Alappuzha, check out such as Backwater trip, Canoeing, Shikkara ride, Marari Beach, Hand-loom Showroom, Cottage Art Expo, Alleppey Coir Museum etc are very near to us."
+    },
+    {
+        "id": 42,
+        "name": "Bamboo Lagoon Alleppy",
+        "img1": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/05/0a/9d/14/bamboo-lagoon-backwater.jpg?w=1200&h=-1&s=1",
+        "img2": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/c0/8d/c2/bamboo-lagoon-backwater.jpg?w=1200&h=-1&s=1",
+        "img3": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/7e/28/cc/bamboo-lagoon-backwater.jpg?w=1200&h=-1&s=1",
+        "img4": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/cb/8d/e7/bamboo-lagoon-backwater.jpg?w=1200&h=-1&s=1",
+        "img5": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/02/62/3f/fc/bamboo-lagoon-backwater.jpg?w=600&h=-1&s=1",
+        "description": "Nestled in the lap of the spectacular Punnamda backwaters in Kerala, Bamboo Lagoon Resort offers basic modern comforts at easily affordable rates. The hotel is ideally located in proximity to the azure Puunnamad River and also offers the exclusive privilege of a house boat cruise where you can have loads of fun all day long. Cochin airport is located at 46 km from hotel and the nearest railway station is only 5 km from the resort."
+    },
+    {
+        "id": 43,
+        "name": "Queen Elizabeth House Boat Kerala",
+        "img1": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-720x480/07/02/96/15.jpg",
+        "img2": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-720x480/07/9c/3a/74.jpg",
+        "img3": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/59/35/12/queen-elizabeth-houseboat.jpg?w=1200&h=-1&s=1",
+        "img4": "https://greentourismhouseboat.com/wp-content/uploads/2023/10/Royal-Waves.jpeg",
+        "img5": "https://legacy.travelnoire.com/wp-content/uploads/2024/02/Kerala-India.jpg",
+        "description": "The houseboat was fine and the food served on banana leaves very tasty. But we arrived at 3pm and sailed up the busy main channel to a very crowded large lagoon and then returned to the same channel again and tied up to a riverbank at 6pm. Boats are not allowed to sail after to 6pm to reduce pollution and give the fisherman an opportunity to fish. You have to keep doors and windows firmly closed as masses of insects desend on the boat. There are almost 1000 boats on the waterway so it can be very busy when they all motor away from their moorings at 8am. The narrow backwaters are not navagable as the boats are too big and also they are choked by water hyacinth."
+    },
+    {
+        "id": 44,
+        "name": "Rain Dance Alleppy",
+        "img1": "https://imgcld.yatra.com/ytimages/image/upload/t_seo_Hotel_w_930_h_550_c_fill_g_auto_q_40_f_jpg/v1513401342/Hotel/Alappuzha/00110319/53237298_iCI2mL.jpg",
+        "img2": "https://q-xx.bstatic.com/xdata/images/hotel/max500/113564436.jpg?k=31d95d1981fbe40a5c4a39e8a6c48aee48806ff3e319f912298d86066988ad49&o=",
+        "img3": "https://q-xx.bstatic.com/xdata/images/hotel/max500/113564439.jpg?k=6d5b7ee2e0aa49af2fb8e9a066b944f6b6d33e40a07bc8ac55a1dd464b6b6d81&o=",
+        "img4": "https://q-xx.bstatic.com/xdata/images/hotel/max500/113564442.jpg?k=a2b9add4ec1585172fc381d6f9b5b31921ed87e85eda9a11525e49e1e9eafcf7&o=",
+        "img5": "https://q-xx.bstatic.com/xdata/images/hotel/max500/113564440.jpg?k=67e320a5e7c947966e10faf61717c8483b26ba06616ef17a417d5f67b9d716a9&o=",
+        "description": "Rain Dance HouseBoat is situated in Alleppey, 200 metres from Nehru Trophy Boat Race. Nehru Trophy Finishing Point is 300 metres away. Free WiFi is featured throughout the property. The accommodation is air conditioned and has a satellite flat-screen TV. Some units feature a seating area and/or balcony. Each unit features a private bathroom with free toiletries. Towels are offered. Rain Dance HouseBoat also includes a sun terrace. Ambalapuzha Sree Krishna Temple is 13 km from Rain Dance HouseBoat. The nearest airport is Kochi International Airport, 73 km from the property."
+    },
+    {
+        "id": 45,
+        "name": " Vythri Village Resort Wayanad ",
+        "img1": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/07/75/ed/a2/vythiri-village.jpg?w=900&h=-1&s=1",
+        "img2": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/09/b3/9d/38/vythiri-village.jpg?w=1200&h=-1&s=1",
+        "img3": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0e/1c/e8/7a/vythiri-village.jpg?w=1200&h=-1&s=1",
+        "img4": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0e/63/fe/eb/vythiri-village.jpg?w=1200&h=-1&s=1",
+        "img5": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/09/b3/9c/f8/vythiri-village.jpg?w=1200&h=-1&s=1",
+        "description": "A five star luxury resort harmoniously set in the heart of Wayanad, thirty acres of refreshing greenery, the tantalizing aroma of fresh spices, coffee and tea. The tone of sparkling water from majestic Chembra peak and Karanchi stream. The perfect escape from the tediousness of hectic city life. Vythiri Village, ‘Nature's best kept secret,’ is the ideal place of luxury, romance and wellness. The serenity of the resort is perfectly matched by the uncompromising luxury of its cottages and pool villas perched on a hillside."
+    },
+    {
+        "id": 46,
+        "name": "Lake Rose Resort Wayanad",
+        "img1": "https://www.lakerosewayanad.com/LR-RESORT/wp-content/uploads/2018/04/LakeRose-Wayanad-Twin3.jpg",
+        "img2": "https://www.lakerosewayanad.com/LR-RESORT/wp-content/uploads/2018/01/LakeRose-Gate.jpg",
+        "img3": "https://www.lakerosewayanad.com/LR-RESORT/wp-content/uploads/2021/04/LakeRose-Wayanad-Facilities.jpg",
+        "img4": "https://www.lakerosewayanad.com/LR-RESORT/wp-content/uploads/2021/07/LakeRose-Wayanad-Resort-Jacuzzi-Suite.jpg",
+        "img5": "https://www.lakerosewayanad.com/LR-RESORT/wp-content/uploads/2021/03/LakeRose-Grand2.jpg",
+        "description": "Spectacularly located on the scenic shores of Karapuzha dam reservoir, LakeRose Wayanad Resort is a luxury boutique resort with a breathtaking panoramic view of the picturesque lake and the western ghats lining the horizon. LakeRose is committed to create unique experiences for all our guests, punctuated with unforgettable moments that will last for years to come.We are proud to be chosen among the BEST SMALL HOTELS  in India by TripAdvisor for the fifth consecutive year. Our Team passionately and tirelessly attends to each and every guest to create an exceptional experience. LakeRose is one of the best family resorts in Wayanad where parents and children can enjoy the stay to the fullest with all kinds of activities to choose from."
+    },
+    {
+        "id": 47,
+        "name": "Punnamade Resort Kerala",
+        "img1": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/02/92/b1/c2/punnmada-resort-outside.jpg?w=1200&h=-1&s=1",
+        "img2": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/8c/4a/54/house-boat-punnamada.jpg?w=1200&h=-1&s=1",
+        "img3": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/28/40/ad/punnamada-resort.jpg?w=1200&h=-1&s=1",
+        "img4": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/28/4e/10/punnamada-resort.jpg?w=1200&h=-1&s=1",
+        "img5": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/28/4d/71/punnamada-resort.jpg?w=1200&h=-1&s=1",
+        "description": "Punnamada Resorts is nestled on the serene banks of Vembanad Lake and gives a world of heritage and luxury. The divine ambiance and the hospitality lead to a total relaxation of mind, body and soul and it highlighted the rich heritage and the essence of Kerala in its true form with a focus on the eco system and being an environment friendly resort by taking initiative in various fronts. The green leaf certified Ayurveda centre at Punnamada puts a new life into yourself and to regain vigor and vitality and lead a stress-free life. The essence of Kerala and its magical backwaters can be experienced aboard Punnamada’s exclusive 'Kettuvallam' (houseboats) by the resort, the houseboats of Punnamada equipped with the best of luxuries."
+    },
+   
+    {
+        "id": 49,
+        "name": "Novotel Kochi Infopark",
+        "img1": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2c/2a/17/57/exterior.jpg?w=1200&h=-1&s=1",
+        "img2": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2c/2a/17/67/guest-room.jpg?w=1200&h=-1&s=1",
+        "img3": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2c/2a/17/61/lounge.jpg?w=1200&h=-1&s=1",
+        "img4": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2c/2a/17/5e/guest-room.jpg?w=1200&h=-1&s=1",
+        "img5": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2c/2a/17/62/lounge.jpg?w=1200&h=-1&s=1",
+        "description": "Located near Infopark. Modern hotel with 128 rooms and suites, an infinity pool and a gym. Ideal venue for your team lunch, dinner outings and banqueting and events. 'The Square' a perfect melange of local and international cuisine. 'The Bar' is your perfect destination for catch-up with a drink and snacks. ‘The Sun Deck Bar' is your perfect location to unwind by the pool."
+    },
+    {
+        "id": 50,
+        "name": "SeaLagoon Health Resort Kochi",
+        "img1": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/07/55/7d/1e/sea-lagoon-health-resort.jpg?w=1000&h=-1&s=1",
+        "img2": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/07/55/7d/3c/sea-lagoon-health-resort.jpg?w=800&h=-1&s=1",
+        "img3": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/0f/70/3f/sea-lagoon-health-resort.jpg?w=1200&h=-1&s=1",
+        "img4": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/07/55/94/15/sea-lagoon-health-resort.jpg?w=1100&h=-1&s=1",
+        "img5": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/db/ba/11/sea-lagoon-health-resort.jpg?w=1200&h=-1&s=1",
+        "description": "Cradled between the turbulent waves of the Arabian Sea on one side and the serene backwaters on the other, Sea Lagoon Health Resort, Cherai comes with an unparalleled view that is sure to engage the senses. Modeled to represent the traditional architecture of Kerala."
+    },
+   
+   
+    {
+        "id": 53,
+        "name": "Beach and Lake Ayurvedic Resort Kerala ",
+        "img1": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2c/20/60/12/ayurvedacenter.jpg?w=1200&h=-1&s=1",
+        "img2": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/14/f1/6c/04/view-from-the-balcony.jpg?w=1200&h=-1&s=1",
+        "img3": "https://dynamic-media-cdn.tripadvisor.com/media/photo-s/01/7d/9c/dd/thiruvananthapuram-trivandrum.jpg?w=600&h=-1&s=1",
+        "img4": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0c/72/7f/e8/photo0jpg.jpg?w=1200&h=-1&s=1",
+        "img5": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/01/03/5e/a4/kovalam.jpg?w=1200&h=-1&s=1",
+        "description": "The Beach and Lake is a privately owned Ayurvdedic Resort, 8 kms south from Trivandrum International airport and 4 kms north of Kovalam beach. It's nestled between the Arabian Sea and the Parvathiputhanar, Karamana rivers, situated on an island, blessed by nature. This tranquil oasis is an excellent hideaway with the peaceful and comfortable surroundings, the stunning scenery, homely and attentive service, Ayurvedic therapy, Yoga and Meditation etc. Ayurveda is a health science, the oldest and most complete healing system known today."
+    },
+    {
+        "id": 54,
+        "name": "Uday Samudra Leisure Beach Hotel Kerala",
+        "img1": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/07/06/fb/4f/uday-samudra-leisure.jpg?w=1200&h=-1&s=1",
+        "img2": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/07/06/fb/b6/uday-samudra-leisure.jpg?w=1200&h=-1&s=1",
+        "img3": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/07/06/f6/2d/uday-samudra-leisure.jpg?w=1200&h=-1&s=1",
+        "img4": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/18/41/a6/da/20190620-111101-largejpg.jpg?w=800&h=-1&s=1",
+        "img5": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/18/41/f2/f5/uday-samudra-leisure.jpg?w=600&h=-1&s=1",
+        "description": "UDS located at the famed beaches of Kovalam, just 15 meters from the sea, is an exclusive 5 Star leisure beach hotel& Spa - a destination by itself. The setting, facilities, people, spa, cuisine and its whole philosophy is dedicated to your personal wellness in a luxurious environment. Just by being at UDS-one of the finest hotels in Kovalam, your stresses start to flutter away; the landscaping has its own serenity, a harmony of a defined architecture, spacious lawns, blue water pools and soaring coconut grooves all set in four tranquil acres by the sea."
+    },
+   
+    {
+        "id": 56,
+        "name": "Gokulam Grand Turttle on The Beach  Kerala ",
+        "img1": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/27/a0/ff/50/main-pool.jpg?w=800&h=-1&s=1",
+        "img2": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/18/fb/89/01/turtle-on-the-beach.jpg?w=1200&h=-1&s=1",
+        "img3": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/18/0c/f6/6a/photo0jpg.jpg?w=1200&h=-1&s=1",
+        "img4": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/86/b6/b6/serene.jpg?w=1200&h=-1&s=1",
+        "img5": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/7f/f6/b8/turtle-on-the-beach.jpg?w=1200&h=-1&s=1",
+        "description": "By blending the finest of art with the most sophisticated luxury, Turtle on the Beach brings about a new grammar in holidaying in this part of the world. You will find it unique in every way you look at it, either as a whole or in parts that make it a whole. And that makes Turtle on the Beach a one-of-a-kind boutique hotel."
+    },
+    {
+        "id": 57,
+        "name": "amara ayurveda retreat Kerala",
+        "img1": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/e5/a5/83/caption.jpg?w=1200&h=-1&s=1",
+        "img2": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/e5/a5/84/caption.jpg?w=1200&h=-1&s=1",
+        "img3": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/29/c6/42/71/caption.jpg?w=1100&h=-1&s=1",
+        "img4": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/c7/09/32/amara-ayurveda-retreat.jpg?w=1200&h=-1&s=1",
+        "img5": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/29/c6/42/73/caption.jpg?w=1100&h=-1&s=1",
+        "description": "Amara,that means eternal. The phrase Amara transcends time and space, evoking an experience of everlastingness and immortality. Exploring the depths of this Sanskrit time period permits us to hold close to its importance. Historical holistic restoration originating from India offers a wealth of information and practices to rejuvenate the mind, body and soul. There are several well-known Ayurveda resorts in Kovalam, Kerala, but in which have gained recognition for our services and facilities. Ayurveda retreats have acquired consciousness due to their viability to provide suited fitness experiences and promote sustainable tourism. Amara Ayurveda retreats supply a possibility for cultural immersion, permitting you to ride the prosperous traditions and practices of Ayurveda first hand. Patients can interact with qualified practitioners, study historical recovery techniques, and take part in rituals and ceremonies."
+    },
+    {
+        "id": 58,
+        "name": "Getaway beach resort kovalam",
+        "img1": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/26/72/61/f2/getaway-beach-resort.jpg?w=800&h=-1&s=1",
+        "img2": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/26/ca/c3/66/bedroom.jpg?w=1200&h=-1&s=1",
+        "img3": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/26/ca/c3/2b/swimming-pool.jpg?w=1200&h=-1&s=1",
+        "img4": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/26/c8/95/89/overview.jpg?w=1200&h=-1&s=1",
+        "img5": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/26/c8/95/6b/activity-room.jpg?w=1200&h=-1&s=1",
+        "description": "Situated in Kovalam and with Hawa Beach reachable within 200 metres, Getaway Beach Resort Kovalam features concierge services, allergy-free rooms, a garden, free WiFi and a restaurant. The property is located 13 km from Sree Padmanabhaswamy Temple, 16 km from Napier Museum and 1.3 km from Vizhinjam Marine Aquarium. The accommodation provides room service, a tour desk and currency exchange for guests."
+    },
+    
+    {
+        "id": 60,
+        "name": "KTDC samudra Kerala ",
+        "img1": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/13/86/2a/4e/adjusent-to-samudrqa.jpg?w=1200&h=-1&s=1",
+        "img2": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/13/86/22/46/near-to-beach.jpg?w=1200&h=-1&s=1",
+        "img3": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/9c/5e/7c/hotel-samudra-ktdc.jpg?w=1000&h=-1&s=1",
+        "img4": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/3f/d1/51/rooms-301-to-309-on-ground.jpg?w=1200&h=-1&s=1",
+        "img5": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/3f/c7/64/hotel-samudra-ktdc.jpg?w=1200&h=-1&s=1",
+        "description": "The name of this beach resort itself means the ocean and it is an ideal place to enjoy the fullness of the beauty of Kovalam, the enchanting beach destination. Set in inspiring environs, every room of the hotel overlooks the sea and the sprawling lawn stretches up to the beach."
+    },
+    {
+        "id":61,
+        "name":"Elixir Cliff Beach Resort and Spa Kerala ",
+        "img1":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/95/26/03/elixir-cliff-beach-resort.jpg?w=1200&h=-1&s=1",
+        "img2":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/95/25/e9/elixir-cliff-beach-resort.jpg?w=1200&h=-1&s=1",
+        "img3":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/95/25/e6/elixir-cliff-beach-resort.jpg?w=1200&h=-1&s=1",
+        "img4":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/95/25/5d/elixir-cliff-beach-resort.jpg?w=1200&h=-1&s=1",
+        "img5":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/95/24/89/elixir-cliff-beach-resort.jpg?w=1200&h=-1&s=1",
+        "description":"We redefine luxury on the cliff of Varkala! Adding a modern spin on timeless indulgence, Elixir Cliff offers the largest luxury suites in stunning natural settings. Spacious and tastefully decorated, we offer a perfect blend of nature and luxury in Varkala."
+    },
+    {
+        "id": 62,
+        "name": "Clafouti Beach Resort Kerala",
+        "img1": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/13/ad/44/4a/villas.jpg?w=1200&h=-1&s=1",
+        "img2": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/13/ad/45/59/royal-villa-superior.jpg?w=1200&h=-1&s=1",
+        "img3": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/13/ad/44/e9/royal-villa-superior.jpg?w=1200&h=-1&s=1",
+        "img4": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/f1/39/d3/clafouti-beach-resort.jpg?w=700&h=-1&s=1",
+        "img5": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/05/60/1b/63/clafouti-beach-resort.jpg?w=1200&h=-1&s=1",
+        "description": "Finding an ideal family-friendly resort in Varkala does not have to be difficult. Welcome to Clafouti Beach Resort, a nice option for travellers like you.Given the close proximity of popular landmarks, such as Vishnu Temple (0.9 mi) and Sivagiri (2.2 mi), guests of Clafouti Beach Resort can easily experience some of Varkala's most well known attractions.During your stay, take advantage of some of the amenities offered, including 24 hour front desk, room service, and a sun terrace, and you can go online as Clafouti Beach Hotel offers guests public wifi. Guests are also welcome to enjoy breakfast, located on site. For travellers arriving by car, free parking is available."
+    },
+    {
+        "id": 63,
+        "name": "B-canti boutique Beach Resort Kerala ",
+        "img1": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/65/7a/77/b-canti-boutique-beach.jpg?w=1100&h=-1&s=1",
+        "img2": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0c/63/b9/0b/deluxe-sea-view-room.jpg?w=1200&h=-1&s=1",
+        "img3": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0c/63/9f/6e/b-canti-restaurant-view.jpg?w=1200&h=-1&s=1",
+        "img4": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/45/2a/5f/lobby.jpg?w=1200&h=-1&s=1",
+        "img5": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0c/63/a2/2f/bathroom-view.jpg?w=1200&h=-1&s=1",
+        "description": "B'Canti Boutique Beach Resort is situated on the northside of world famous Varkala Cliff. The property has 21 rooms and one restaurant with breathtaking sea views from all angles. The Bait & Hook restaurant serves Indian (North & South), Chinese, Continental, Italian cuisine - a special dining experience at waters edge. Facilities at the resort include Ayurveda, swimming pool and other premier amenities."
+    },
+    
+    {
+        "id": 69,
+        "name": "Dream Rock Resort Kerala ",
+        "img1": "https://dreamrockresorts.com/uploads/items/112023/2e581e0afde57e164eb68e01cf8b6e7a.jpeg",
+        "img2": "https://dreamrockresorts.com/uploads/items/122023/902fb5e40820a1905a4cfae708b21050.webp",
+        "img3": "https://dreamrockresorts.com/uploads/items/122023/bc6cd610f9f8bb5fd55cd4d112f3a01a.webp",
+        "img4": "https://dreamrockresorts.com/uploads/items/112023/71467a7714b59dc3025f43867044d165.jpeg",
+        "img5": "https://dreamrockresorts.com/uploads/items/122023/1273b6f45c2ef983243c6db4477bb54f.webp",
+        "description": "Explore the beauty of Calicut with our exclusive resort packages at Dream Rock Resort, best resort in calicut. Whether you re a nature enthusiast, a food lover, or a seeker of tranquility, our packages cater to every traveler's desires.Our resort packages offer a holistic experience, combining comfortable accommodations, top-notch amenities, and exciting activities to make your stay in Calicut truly exceptional."
+    },
+    {
+        "id": 70,
+        "name": "coco bay Resort kumarkam Kerala ",
+        "img1": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/03/57/f0/ca/cocobay-resort.jpg?w=600&h=-1&s=1",
+        "img2": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/09/f2/e3/46/cocobay-resort.jpg?w=1200&h=-1&s=1",
+        "img3": "https://dynamic-media-cdn.tripadvisor.com/media/photo-s/01/8f/51/90/pool.jpg?w=600&h=-1&s=1",
+        "img4": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0a/d9/ab/a4/cocobay-resort.jpg?w=1200&h=-1&s=1",
+        "img5": "https://dynamic-media-cdn.tripadvisor.com/media/photo-s/01/9b/66/05/room.jpg?w=600&h=-1&s=1",
+        "description": "Cocobay Resort is located in Kumarakom, a backwater hamlet - the most sought after holiday destination in Kerala. Nestled amid swaying palms, the resort fronts the magnificence of the Vembanad Lake with its canals, streams and intricate network of waterways. The resort is accessible only by water and is embraced by the lake.Resort offers 20 air-conditioned suites, designed in typical Kerala architecture. Its ethnic ambiance blends with modern facilities like refrigerator, coffee/tea maker and designer bathrooms etc. Verandas have a splendid view of the lake where you can watch stunning sunsets. The resort is located 70 Kms from Cochin International Airport, 16 Kms from Kottayam Railway Station and 90 minutes by road from Cochin International Airport."
+    },
+    {
+        "id":71,
+        "name":"Anantya by the Lake Tamil Nadu",
+        "img1":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/62/e5/48/wooden-walkway.jpg?w=1200&h=-1&s=1",
+        "img2":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/63/29/6c/anantya-resorts.jpg?w=1200&h=-1&s=1",
+        "img3":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/63/c7/56/anantya-resorts.jpg?w=1200&h=-1&s=1",
+        "img4":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/63/51/35/anantya-resorts.jpg?w=1200&h=-1&s=1",
+        "img5":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/63/c7/d8/anantya-resorts.jpg?w=1200&h=-1&s=1",
+        "description":""
+    },
+    {
+        "id":72,
+        "name":"Wooden Ecr Sea Resort Tamil Nadu",
+        "img1":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/27/52/36/1a/premium-rooms.jpg?w=1200&h=-1&s=1",
+        "img2":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/27/52/36/17/swimming-pool.jpg?w=1200&h=-1&s=1",
+        "img3":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/27/52/36/1b/resort-restaurant.jpg?w=1200&h=-1&s=1",
+        "img4":"https://r1imghtlak.mmtcdn.com/5bfe5776657e11eda7aa0a58a9feac02.jpg?output-quality=75&downsize=*:350&crop=520:350;2,0&output-format=jpg",
+        "img5":"https://r1imghtlak.mmtcdn.com/5bfe5776657e11eda7aa0a58a9feac02.jpg?output-quality=75&downsize=*:350&crop=520:350;2,0&output-format=jpg",
+        "description":"Wooden ECR resort is located in Pondicherry. Boasting a 24-hour front desk, this belongings additionally boasts an eating place. At the mattress and breakfast, every room has a balcony. Featuring a personal toilet with a bath, rooms at Wooden ECR resort additionally function with loose WiFi, even though a few rooms are equipped with a Swimming Pool View. The rooms function as a seating areas. Breakfast may be loved on the belongings. Couples especially just like the location they rated it 9.1 for a two-individual trip. We communicate in your language!Our vision is to be the brand that guests love coming back to. We deliver this with a portfolio of service spectrums that resonate with superior standards in accommodation, cuisine, employee behavior, and facilities. Wooden Sea Resort is recognized for its spirit to serve and commitment to distinctiveness, which assures better guest satisfaction."
+    },
+    {
+        "id":720,
+        "name":"Thiruchitrambalam Palace Resort Athupollachi Tamil Nadu",
+        "img1":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1b/86/ae/02/getlstd-property-photo.jpg?w=1200&h=-1&s=1",
+        "img2":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2b/6f/5d/bf/caption.jpg?w=1200&h=-1&s=1",
+        "img3":"https://www.kayak.com/rimg/himg/55/0b/2f/expedia_group-2247583-4fe15d-535617.jpg?width=1440&height=810&crop=true&outputtype=webp",
+        "img4":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2b/6f/5d/ba/caption.jpg?w=1200&h=-1&s=1",
+        "img5":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2b/6f/5d/b4/caption.jpg?w=1200&h=-1&s=1",
+        "description":"7 A/C rooms in Palace. 16 suites ( 8 A/C + 8 Non A/C ). 4 individual A/C villas. Dormitory. Indoor gym. Well maintained swimming pool. In campus kitchens (Veg. and Non-Veg. separate) Conference hall. Pillaiyar temple. Food venue for buffet/group dining. Riverside venue. Awesome ambiance. Generator backup. Car parking available. Complete amenities for various functions."
+    },
+    {
+        "id":73,
+        "name":"MGM Beach Resorts East Coast Road Tamil Nadu",
+        "img1":"https://cf.bstatic.com/xdata/images/hotel/max1024x768/488634406.jpg?k=e3c1f3563ac9800b4ed1ed59bfb2e362bd1257e8ea38904cf46c4e207975c00e&o=&hp=1",
+        "img2":"https://cf.bstatic.com/xdata/images/hotel/max1024x768/488634412.jpg?k=77a901235be47cb7a3458de281d8c8df5d47a8e81c6cb29c57e2a7ffef85b3ac&o=&hp=1",
+        "img3":"https://cf.bstatic.com/xdata/images/hotel/max1024x768/515641239.jpg?k=91c93cdd6e4492a90a1cb234117c23c095182f6410c54361de9274412e6193a0&o=&hp=1",
+        "img4":"https://cf.bstatic.com/xdata/images/hotel/max1024x768/508270557.jpg?k=3419e52091f6147fc826482bf9f041d53c8a933da31b80c15324f0cd732efd8f&o=&hp=1",
+        "img5":"https://cf.bstatic.com/xdata/images/hotel/max1024x768/513784407.jpg?k=38f93463a264c8f38e3249145b05f99517f1995c7c32579e3c79c6ba257a8abf&o=&hp=1",
+        "description":"Set in Chennai, 24 km from Indian Institute of Technology, Madras, MGM Beach Resorts East Coast Road offers accommodation with an outdoor swimming pool, free private parking, a fitness centre and a garden. Among the facilities of this property are a restaurant, room service and a 24-hour front desk, along with free WiFi throughout the property. The property is non-smoking and is situated 24 km from Anna University."
+    },
+    {
+        "id":74,
+        "name":"Trance Veechika Resort Anantagiri Hills, Vikarabad hyderabad,telangane",
+        "img1":"https://r2imghtlak.mmtcdn.com/r2-mmt-htl-image/htl-imgs/202304290749043106-6c7ba09c-45fb-4a27-a12f-4788d83d500f.jpg?&output-quality=75&downsize=520:350&crop=520:350;81,0&output-format=jpg",
+        "img2":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2b/60/5a/2d/adventure-sports-zipline.jpg?w=1200&h=-1&s=1",
+        "img3":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2c/10/a2/c3/caption.jpg?w=1200&h=-1&s=1",
+        "img4":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2c/10/a2/bf/caption.jpg?w=1200&h=-1&s=1",
+        "img5":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2b/60/5a/2c/caption.jpg?w=1200&h=-1&s=1",
+        "description":"Nestled amidst the verdant landscapes of Vikarabad, Trance Veechika Resort is a serene haven where nature's beauty meets luxurious comfort. Embraced by the lush greenery of Telangana's countryside, this enchanting retreat offers a sanctuary for travelers seeking respite from the chaos of urban life."
+    },
+    {
+        "id":75,
+        "name":"wilderness Resort telangana",
+        "img1":"https://thewildernessretreat.in/wp-content/gallery/home-gallery/Treasure-Island-18.jpg",
+        "img2":"https://thewildernessretreat.in/wp-content/gallery/home-gallery/DSC01026.jpg",
+        "img3":"https://thewildernessretreat.in/wp-content/gallery/home-gallery/Treasure-Island-12.jpg",
+        "img4":"https://thewildernessretreat.in/wp-content/gallery/home-gallery/DSC00649-min1.jpg",
+        "img5":"https://thewildernessretreat.in/wp-content/gallery/home-gallery/DSC00823-HDR.jpg",
+        "description":"Welcome to our getaway experiences, where nature takes centre stage. We offer a unique escape to 2 exclusive locations in Hyderabad – The Wilderness Retreat in Kokapet and The Wilderness Campsite & The Wilderness Lake Front beside Sapranapally Lake, Ananthagiri Hills.From repurposed cabins surrounded by greenery to rustic or luxury lakeside camping, our resorts promise an authentic and immersive stay where you reconnect with nature and your adventurous spirit. With specially designed spaces, an array of activities, and delightful views to look forward to, say yes to the time of your life today!"
+    },
+    {
+        "id":76,
+        "name":"VSR Wind Wave Andhra Pradesh",
+        "img1":"https://r1imghtlak.mmtcdn.com/6f1950302eca11edab700a58a9feac02.jpeg?output-quality=75&downsize=*:350&crop=520:350;0,20&output-format=jpg",
+        "img2":"https://r1imghtlak.mmtcdn.com/6f1950302eca11edab700a58a9feac02.jpeg?output-quality=75&downsize=*:350&crop=520:350;0,20&output-format=jpg",
+        "img3":"https://r1imghtlak.mmtcdn.com/6f1950302eca11edab700a58a9feac02.jpeg?output-quality=75&downsize=*:350&crop=520:350;0,20&output-format=jpg",
+        "img4":"https://r1imghtlak.mmtcdn.com/6f1950302eca11edab700a58a9feac02.jpeg?output-quality=75&downsize=*:350&crop=520:350;0,20&output-format=jpg",
+        "img5":"https://r1imghtlak.mmtcdn.com/6f1950302eca11edab700a58a9feac02.jpeg?output-quality=75&downsize=*:350&crop=520:350;0,20&output-format=jpg",
+        "description":"VSR Wind Wave is a 3-star range resort. It is settled at a comfortable distance from madanapalle,Bangalore, Tirupathi, kadiri with wooden cottages furnished with classic suite rooms with necessary amenities. This resort is indeed a favourite of travellers. leisure visitors, Nature lovers and business people with attached restaurant"
+    },
+    {
+        "id":77,
+        "name":"Red Hill Nature Resort Tamil Nadu ",
+        "img1":"https://redhillnatureresort.com/wp-content/uploads/2018/03/rh-ext21.jpg",
+        "img2":"https://redhillnatureresort.com/wp-content/uploads/2018/03/rh-int3.jpg",
+        "img3":"https://redhillnatureresort.com/wp-content/uploads/2018/03/rh-int1.jpg",
+        "img4":"https://redhillnatureresort.com/wp-content/uploads/2018/03/rh-duskmerged11.jpg",
+        "img5":"https://redhillnatureresort.com/wp-content/uploads/2018/03/rh-view1.jpg",
+        "description":"We are close to a forest.This is a nature retreat. It’s ideal for people that are looking to explore nature and/ or just relax.We do not have TVs in the room, or in common spaces. We do however have  Wi-Fi in each of the bedrooms and the dining room.We have six dogs on the property. So we don’t permit other dogs on the property.We charge Rs.1500.00 for lunch. This charge is only for guests who are not currently staying at the property. For guests who are staying at the property, this charge is covered in the room price"
+    },
+    {
+        "id":78,
+        "name":"Sterling Kodai Valley Tamil Nadu  ",
+        "img1":"https://cf.bstatic.com/xdata/images/hotel/max1024x768/410720380.jpg?k=02ab124579bed140c10165fee0ff4488e864fa465def3273e60b6799072ea088&o=&hp=1",
+        "img2":"https://cf.bstatic.com/xdata/images/hotel/max1024x768/410720423.jpg?k=6397f5029e0433a4a21c439bc9113a951e432b8ea0df6f62b343d32fbf587663&o=&hp=1",
+        "img3":"https://cf.bstatic.com/xdata/images/hotel/max1024x768/410720520.jpg?k=502af9bb6120d918ab00d32e4018e75a84d33fa7b25291428313598ccf88b279&o=&hp=1",
+        "img4":"https://cf.bstatic.com/xdata/images/hotel/max1024x768/545088411.jpg?k=bea2662ef06b1e54b4b545cc9648e0934200c69e42ebd85565054a41836a7b17&o=&hp=1",
+        "img5":"https://cf.bstatic.com/xdata/images/hotel/max1024x768/545088434.jpg?k=a68394853d27bf7feea2a7164d0d19b8276492de48b9fdec4410156953176bb5&o=&hp=1",
+        "description":"Set in Kodaikānāl, 4.7 km from Bear Shola Falls, Sterling Kodai Valley offers accommodation with a garden, free private parking, a restaurant and a bar. Featuring room service, this property also provides guests with a children's playground. The accommodation provides a 24-hour front desk, airport transfers, a kids' club and free WiFi throughout the property.The units come with a flat-screen TV with cable channels, fridge, a kettle, a shower, free toiletries and a wardrobe. All rooms come with a private bathroom with a hairdryer, while selected rooms here will provide you with a balcony and others also have mountain views. At the resort all rooms are fitted with bed linen and towels.Kodaikanal Lake is 4.7 km from the accommodation, while Kodaikanal Bus Stand is 4.9 km away. The nearest airport is Madurai Airport, 134 km from Sterling Kodai Valley."
+    },
+    {
+        "id":79,
+        "name":"onondaga kodaikanal Tamil Nadu ",
+        "img1":"https://cf.bstatic.com/xdata/images/hotel/max1024x768/311139266.jpg?k=68afbd450cbd435a036039672dacd0555c90c272ae3797926f7205488e6b0212&o=&hp=1",
+        "img2":"https://cf.bstatic.com/xdata/images/hotel/max1024x768/311138139.jpg?k=19a844dcca6e9119b2c492ec5bf55a32543ce54bd5f368f10afe81ed82ec0aa3&o=&hp=1",
+        "img3":"https://cf.bstatic.com/xdata/images/hotel/max1024x768/351964794.jpg?k=0823072b1230f5e2307979bd5b0ee494b3a23a35a22ac8109145fca82e97fcee&o=&hp=1",
+        "img4":"https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/311138905.jpg?k=1e4d8f52f29bee0415a51e61bd97be538fe04ec16d05e534811455363fe08f48&o=&s=1024x",
+        "img5":"https://cf.bstatic.com/xdata/images/hotel/max1024x768/351963770.jpg?k=26e0b5f2211c91236838ba0588a7b7a5e0ea31a2dc30e48ec4915fd4c48e1567&o=&hp=1",
+        "description":"Offering garden views, Onondaga Kodaikanal is an accommodation set in Kodaikānāl, 300 metres from Kodaikanal Bus Stand and 700 metres from Bryant Park. Boasting a 24-hour front desk, this property also provides guests with a sun terrace. The bed and breakfast offers rooms with air conditioning, free private parking and free WiFi.The bed and breakfast provides some units with lake views, and all units include a private bathroom. At the bed and breakfast, units are equipped with bed linen and towels.You can play billiards at Onondaga Kodaikanal, and bike hire is available. An indoor play area is also available at the accommodation, while guests can also relax in the garden."
+
+    },
+    {
+        "id":80,
+        "name":"Accord Highland Hotel Ooty",
+        "img1":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1d/47/42/a7/accord-highland-hotel.jpg?w=1200&h=-1&s=1",
+        "img2":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1d/71/79/02/accord-highland-hotel.jpg?w=1200&h=-1&s=1",
+        "img3":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1d/71/79/1c/accord-highland-hotel.jpg?w=1200&h=-1&s=1",
+        "img4":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1d/6d/1e/3a/accord-highland-hotel.jpg?w=1100&h=-1&s=1",
+        "img5":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1d/71/79/47/accord-highland-hotel.jpg?w=1200&h=-1&s=1",
+        "description":"Overlooking the beautiful Nilgiris Mountains, the hotel stands tall with all elegance and style. A contemporary structure with a traditional feel, Highland Hotel Ooty is one of India's most popular hills a Star Hotel, located at 2640 meters above sea level in the Nilgiris Hills of southern India. The brand new hotel is designed for maximum comfort loaded with LCD’s, Wi-Fi , direct dial phones,safe deposit lockers, in room Iron & iron board, Tea/ Coffee maker & a mini bar. Some other services provided by the hotel are 24-hour room service,, laundry service, purified water, Travel Desk, Business Centre ,valet service, foreign exchange facility etc.x"
+    },
+    {
+        "id":81,
+        "name":" Fortune Jp Palace Karnataka ",
+        "img1":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/05/27/4c/f2/fortune-jp-palace.jpg?w=1200&h=-1&s=1",
+        "img2":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/08/36/16/f8/junior-suite.jpg?w=1200&h=-1&s=1",
+        "img3":"https://cf.bstatic.com/xdata/images/hotel/max1024x768/115492687.jpg?k=3eacd8b72ad14515384fad28961c50163bad91362e89ac827b4b758675f333e5&o=&hp=1",
+        "img4":"https://www.itchotels.com/content/dam/itchotels/in/umbrella/fortune/hotels/fortunejppalace-mysore/image/overview-landing-page/headmast/desktop/Porch.jpg",
+        "img5":"https://cf.bstatic.com/xdata/images/hotel/max1024x768/4211672.jpg?k=f3295d04073a97573d7ea0049f8964dd830f5683819595b1277b79b4255bc261&o=&hp=1",
+        "description":"Ideally located opposite the government guest house Fortune JP Palace is well-connected to all nearby tourist attractions. Just 2kms from the famous Mysore Palace, 3kms from the railway station and 12kms from the Mysore airport, the hotel delights the guests with its excellent range of guest facilities like Spa, Swimming Pool, Chinese restaurant, rooftop barbecue, all day dining coffee shop, shopping arcade. It provides 108 well-appointed guest rooms including Deluxe, Club, suites, 01 room for the differently abled. Most of them have a soaring view of the magnificent Chamundi Hills. The interiors of the rooms have been aesthetically done in contemporary style decor, and our well-equipped with an excellent range of amenities required by a modern day traveler."
+    },
+    {
+        "id":82,
+        "name":"Southern Star Mysuru",
+        "img1":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/73/19/27/southern-star-mysore.jpg?w=1200&h=-1&s=1",
+        "img2":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/25/5f/6e/12/southern-star-mysore.jpg?w=1000&h=-1&s=1",
+        "img3":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/18/8c/cf/c7/zest-24-7-global-cuisine.jpg?w=1200&h=-1&s=1",
+        "img4":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/9b/2a/6f/executive-suite.jpg?w=1200&h=-1&s=1",
+        "img5":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/9b/2a/66/washroom.jpg?w=800&h=-1&s=1",
+        "description":"Southern Star, Mysuru is a full service business/boutique hotel located in the heart of this royal city. Built on a sprawling complex of 4 acres with lush green landscaping, it offers 107 luxurious guest rooms, Zest- 24*7 Global Cuisine, Is'fahan - Speciality Indian Restaurant, Pastry shop, Lobby bar, Banquet halls, Lawns, Swimming pool, Spa, Beauty parlours, Gym."
+    },
+    {
+        "id":83,
+        "name":"paddington resorts and spa Karnataka",
+        "img1":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0b/e3/8d/57/relax-at-aqua-pool.jpg?w=1200&h=-1&s=1",
+        "img2":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0a/a5/9c/72/buffet-melange.jpg?w=1200&h=-1&s=1",
+        "img3":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/09/78/d9/10/paddington-resort-spa.jpg?w=1200&h=-1&s=1",
+        "img4":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0a/a5/9d/2c/breakfast-fresh-nature.jpg?w=1200&h=-1&s=1",
+        "img5":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0a/a5/9c/f3/dinner-pool-view.jpg?w=1200&h=-1&s=1",
+        "description":"Paddington Resorts & Spa – Resort in Coorg, Madikeri. A luxury offering near the banks of Mother Cauvery abodes those subtleties of nature which the heart longs for. Nestled in the midst of a dense jungle, this is a place where spirits remain untainted and wilted life springs up again. Located in the village of Thondoor, Paddington Resorts Coorg offers exemplary hospitality for needs that are myriad. Over the years, our Coorg Resort has evolved and taken newer shapes to become home to simple pleasures and warm feelings. Brimming with all the amenities and features that make up a beautiful stay, Paddington Resorts & Spa – offers lavish accommodation, exquisite dining, and much more. Ideal order of things for that perfect getaway. Melange at Paddington Resorts in Coorg combines the love for food, the splendor of nature, and the sweetness of human company to bring about an experience that’ll remain etched in minds for years to come. With Indian, International, and the famed Corgi. Paddington’s own poolside Coffee Lounge is that perfect spot for you to either while away in solitude. Abhyanga Spa at Paddington Resorts in Coorg is the center of nature where you can experience the gentleness of force in the midst of meditative silence. Come, drift away to that timeless land and make your stay at our Madikeri luxury resort even more memorable. With a heady mix of comfort and tranquility, the 21 deluxe rooms 05 elegant cottages 07 bungalows 01 wooden cottage 02 VIP villa & 10 private pool villa in Paddington will unfold new experiences and connections with self and nature. Simply a paradise on earth with modern amenities and luxurious accommodation and a promise to its guests with gifts of relaxation and rejuvenation."
+    },
+    {
+        "id":84,
+        "name":"Meriyanda Nature Retreat and Spa Coorg",
+        "img1":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0a/98/6a/8c/the-wooden-cottages-of.jpg?w=1200&h=-1&s=1",
+        "img2":"https://www.meriyanda.com/wp-content/uploads/2023/06/Queens-Villa.jpg",
+        "img3":"https://www.meriyanda.com/wp-content/uploads/2023/06/banner5-1.jpg",
+        "img4":"https://www.meriyanda.com/wp-content/uploads/2023/06/banner4-1.jpg",
+        "img5":"https://dynamic-media-cdn.tripadvisor.com/media/photo-s/03/24/8a/87/meriyanda-nature-lodge.jpg?w=600&h=-1&s=1",
+        "description":"Meriyanda Nature Lodge Coorg, one of the top resorts in Coorg, set amidst 40 acres of functional coffee plantation, beside a river, a rainforest, and with views of the Kote Betta Mountain. Experience our unique luxury wooden cottages and villas stilted and perched high above the ground, each with a private balcony with a view and large glass paneled windows for a panoramic view of nature. It is an ideal destination for getaways from Bangalore, family get-togethers, honeymooners, luxury travelers, anyone seeking a relaxing holiday, and a welcoming haven for all kinds of travelers and nature lovers. A perfect place to breathe cleanest air, as Madikeri (Coorg) is declared the city with cleanest air in India. One of the best nature resorts in Coorg is conceived to provide more and more people especially children the opportunity to spend time and to enjoy the benefits of nature. Our one of its kind landscape helps you get closest to our private riverside and you can either sit beside or play in the river or enjoy classic picnicsYou can enjoy best riverside picnics in Coorg, bonding bonfires, firewood barbecues, board games, sway in the swings, watch birds during the coffee plantation trek, forest bathe in the shades of century-old trees, de- stress in the spa, or just unwind in your private balcony gazing at the hills, it will help revive and restore you from your daily life"
+    }
+    
+]

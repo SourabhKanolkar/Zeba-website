@@ -1,0 +1,20 @@
+.membershipbox-1{
+    padding: 32px 10px;
+    background-color: blue;
+    border-radius: 16px;
+    color: #fff;
+}
+.membership-box{
+    padding: 32px 10px;
+    border-radius: 16px;
+    color: #fff;
+}
+.membershipbox-2{
+    background-color: rgb(40, 40, 40);
+}
+.membershipbox-3{
+    background-color: red;
+}
+.membershipbox-4{
+    background-color: purple;
+}

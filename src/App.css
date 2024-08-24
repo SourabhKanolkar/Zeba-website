@@ -1,0 +1,16 @@
+.offcanvas-end {
+    width: 300px; /* adjust the width to your liking */
+    max-width: 80vw; /* set a maximum width relative to the viewport */
+  }
+  .nav-link{
+    font-weight: 600 !important;
+      padding: 0 15px !important;
+     padding-top: 10px !important;
+     padding-bottom: 10px !important;
+  }
+  .nav-link:hover{
+    color: #AB8A62 !important;
+  }
+  .nav-link:active{
+    color: #AB8A62 !important;
+  }

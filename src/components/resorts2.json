@@ -1,0 +1,570 @@
+
+[
+    {
+        "id": 1,
+        "name": "Golden Tulip Pattaya Beach Resort Thailand",
+        "img1": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/45/b4/2e/20190424-151148-largejpg.jpg?w=1000&h=-1&s=1",
+        "img2":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/f6/1b/a4/caption.jpg?w=1200&h=-1&s=1",
+        "img3":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/6e/16/7c/golden-beach-hotel.jpg?w=1200&h=-1&s=1",
+        "img4":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/4b/94/10/img-20170517-200413-largejpg.jpg?w=1200&h=-1&s=1",
+        "img5":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/00/e0/ef/golden-beach-hotel.jpg?w=1200&h=-1&s=1",
+        "description": "We are located at the heart of pattaya which easy to go out and surrounding with all activities.Enjoy a swim in the hotel's outdoor pool and head to its spa for relaxation.For desi food, head to Everest Indian Restaurant (2.2 km).It takes around 45 minutes to drive to reach the Golden Beach Hotel Pattaya from Utapao-Rayong-Pattaya International Airport.Start your day with delicious Indian breakfast at the on-site restaurant."
+    },
+    {
+        "id":2,
+        "name":"Nova Platinum Hotel Thailand",
+        "img1":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0e/70/dd/40/nova-platinum-hotel-pattaya.jpg?w=1200&h=-1&s=1",
+        "img2":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0e/70/da/78/breakfast-area-at-zia.jpg?w=1200&h=-1&s=1",
+        "img3":"https://dynamic-media-cdn.tripadvisor.com/media/photo-s/01/cf/86/3d/executive-room.jpg?w=600&h=-1&s=1",
+        "img4":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0b/57/9a/23/lobby.jpg?w=1100&h=-1&s=1",
+        "img5":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/06/9b/fe/84/nova-platinum-hotel-pattaya.jpg?w=1200&h=-1&s=1",
+        "description":"Nova Platinum Hotel is a located in South Pattaya just a 5 minute walk from the Walking Street and Pattaya Bay. The hotel has 3 low rise buildings, with a total of 270 well-appointed guestrooms. All rooms feature a 32” Samsung LCD TV, DVD player, hairdryer, scale, minibar, tea/coffee making facilities, safebox, free wi-fi internet access and an array of modern facilities."
+    },
+    {
+        "id": 3,
+        "name": "Bangkok Palace Hotel",
+        "img1": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0a/3e/da/3a/2.jpg?w=1200&h=-1&s=1",
+        "img2": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/00/ac/9f/caption.jpg?w=1200&h=-1&s=1",
+        "img3": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/8b/06/3b/bangkok-palace-hotel.jpg?w=1100&h=-1&s=1",
+        "img4": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/55/95/77/reception.jpg?w=1200&h=-1&s=1",
+        "img5": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0e/75/79/25/bangkok-palace-hotel.jpg?w=1200&h=-1&s=1",
+        "description": "Bangkok Palace Hotel is situated across Makkasan railway station, and minutes from Airport Rail Link - Makkasan Station, Petchburi MRT station, Ploenchit BTS Station, Expressway, and the shopping and eatery district of Pratunam. Families, couples and business executives alike find Bangkok Palace Hotel to offer a wealth of comfort during their stay in Bangkok - the city of angels. Coupling unmatched access to the most-visited Makkasan - Pratunam attractions, Bangkok Palace Hotel is just minutes away from Central World, Siam Paragon, Platinum Fashion Mall, MBK shopping mall, the four-faced Buddha, and much more. "
+    },
+    {
+        "id": 4,
+        "name": "Seasons Siam Hotel Thailand",
+        "img1": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/b6/c1/75/caption.jpg?w=1200&h=-1&s=1",
+        "img2": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0a/f1/47/64/lobby.jpg?w=1200&h=-1&s=1",
+        "img3": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0a/f1/4c/af/service-staff.jpg?w=1200&h=-1&s=1",
+        "img4": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/19/5b/86/30/seasons-siam-hotel.jpg?w=600&h=-1&s=1",
+        "img5": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0a/f1/49/ce/guest-room-suite.jpg?w=1200&h=-1&s=1",
+        "description": "Here at Seasons Siam Hotel we aim to make your holidays as relaxing and as comfortable as possible. Combining charm with quality, we offer 177 stylish room which are contemporary yet comfortable. Our location is conveniently only forty minutes from the airport, near the Pratunam market, Suanpakkad Palace, Suansantipab Park and the Victory Monument BTS Skytrain station are only a five minute walk from the hotel. An oasis of calm within the bustle of bangkok, our hotel welcomes you with warmth and professionalism, as well as offering all modern facilities for your ease."
+    },
+    {
+        "id": 5,
+        "name": "Hotel Boss Singapore ",
+        "img1": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/09/ca/45/0b/getlstd-property-photo.jpg?w=1200&h=-1&s=1",
+        "img2": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0a/e8/9d/b3/hotel-boss-lobby.jpg?w=1200&h=-1&s=1",
+        "img3": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0a/e8/a2/f9/superior-double-city.jpg?w=1200&h=-1&s=1",
+        "img4": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2c/21/e9/76/exterior.jpg?w=1200&h=-1&s=1",
+        "img5": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2c/21/e9/6c/gym-swimming-pool.jpg?w=1200&h=-1&s=1",
+        "description": "Nestled between Singapore’s two eclectic cultural enclaves, Kampong Glam and Little India, Hotel Boss, minutes to Lavender and Bugis MRT, provides modern conveniences that cater to all types of travelers. With 1,500 rooms and close proximity to Bugis and Orchard Road shopping district, it is the ideal address for exploring the many sights this vibrant city has to offer."
+    },
+    {
+        "id": 6,
+        "name": "Beijing Palace International Hotel China",
+        "img1": "https://dynamic-media-cdn.tripadvisor.com/media/daodao/photo-s/04/1d/6d/fb/caption.jpg?w=600&h=-1&s=1",
+        "img2": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/427292518.jpg?k=e96771f6b1bf3a1696cf65fc99aa4e02543b227da7210f5672d6e2ae95af32c4&o=&hp=1",
+        "img3": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/427292558.jpg?k=07b86b35275b4575923dda17726a75a03bb482fd47bac45b755c4d3144d7c77e&o=&hp=1",
+        "img4": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/427292510.jpg?k=17d897ed85cfe9abb49d504aeb91da3fd7d2c9208794406d79124607606da612&o=&hp=1",
+        "img5": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/427296261.jpg?k=b3569fab48528518dbf4dab64617691d03d17c710557b711da01dbaa45b93340&o=&hp=1",
+        "description": "Situated in Beijing and with Wangfujing Street reachable within 11 km, Palace International Hotel Beijing features concierge services, non-smoking rooms, a fitness centre, free WiFi and a garden. The property is around 12 km from Forbidden City, 12 km from Shichahai Area and 12 km from Yonghegong Temple. Guests can enjoy Chinese and Japanese dishes at the restaurant or have a cocktail at the snack bar."
+    },
+    {
+        "id": 7,
+        "name": "Park Regis Indonesia",
+        "img1": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/08/cf/f0/f1/park-regis-kuta-bali.jpg?w=1200&h=-1&s=1",
+        "img2": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/08/cf/f1/38/park-regis-kuta-bali.jpg?w=1200&h=-1&s=1",
+        "img3": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/08/cf/f1/2d/park-regis-kuta-bali.jpg?w=1200&h=-1&s=1",
+        "img4": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/08/cf/f1/0e/park-regis-kuta-bali.jpg?w=1200&h=-1&s=1",
+        "img5": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/08/cf/f1/54/park-regis-kuta-bali.jpg?w=1200&h=-1&s=1",
+        "description": "Park Regis Kuta is a contemporary 4-star hotel centrally located on Jalan Raya Kuta, a mere 10 minute away from Bali Ngurah Rai International Airport and a walking distance to the main beach, shopping districts, local attractions, nightclubs and restaurants of buzzing Kuta. Comprising elegantly appointed 175 guest rooms with sleek and modern furnishings which include Standard Rooms, Studio Lofts, Junior Suites, Pool Suites and Deluxe Pool Suites, Park Regis Kuta features an extensive range of facilities such as 24-hour room service, Padi Padi Restaurant - hotel's main restaurant serving local and international cuisine, Bamboo Cafe - al fresco lobby cafe, Deck Bar - an outdoor poolside bar, tropical swimming pool, fitness centre"
+    },
+    {
+        "id": 8,
+        "name": "Holiday Inn Warwick Farm, an IHG Hotel Australia",
+        "img1": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/29/a8/a1/15/koi-pond.jpg?w=1200&h=-1&s=1",
+        "img2": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/12/6c/78/king-suite-jacuzzi.jpg?w=1200&h=-1&s=1",
+        "img3": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/12/6b/8b/king-standard-sofa-bed.jpg?w=1200&h=-1&s=1",
+        "img4": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/12/69/cf/holiday-inn-warwick-farm.jpg?w=1200&h=-1&s=1",
+        "img5": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0e/cf/da/1b/holiday-inn-warwick-farm.jpg?w=1100&h=-1&s=1",
+        "description": "Holiday Inn Warwick Farm is a four star hotel equipped with a bar, bistro, grill & state-of-the-art event centre. With 146 rooms ranging from superior to executive suites, it's perfect for every business & leisure traveller. From the moment you arrive at the Holiday Inn Warwick Farm you'll be inspired by the diversity and flexibility of their facilities. Enjoy every major sport & main event in Australia, Europe & US at your doorstep in our bistro, bar & grill. Wake up to the perfect modern breakfast buffet or take a dip in our outdoor pool. Host your meeting in style in our state of the art event centre, completely customizable for 30 - 1000 guests. Whether it's a corporate, special event or a wedding, speak to our friendly events team to transform our glamorous venue into the event of your dreams!"
+    },
+    {
+        "id": 9,
+        "name": "IBIS Styles Australia",
+        "img1": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0b/e4/43/40/ibis-styles-goa-calangute.jpg?w=1200&h=-1&s=1",
+        "img2": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/ef/48/87/hotel-ibis-styles-goa.jpg?w=1200&h=-1&s=1",
+        "img3": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/f4/12/9f/ibis-styles-goa-calangute.jpg?w=1200&h=-1&s=1",
+        "img4": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/dd/9f/0c/ibis-styles-goa-calangute.jpg?w=1200&h=-1&s=1",
+        "img5": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0b/e4/43/41/ibis-styles-goa-calangute.jpg?w=1200&h=-1&s=1",
+        "description": "Nestled beside the picturesque Palm Meadows Golf Course, Mercure Gold Coast Resort is one of the top choices on the Gold Coast for relaxing, unwinding and rejuvenating away from the hustle and bustle. Located a mere 30 minute drive from Coolangatta Airport, just over one hour’s drive to Brisbane Domestic & International Airports. Conveniently placed a close drive to Gold Coast Theme Parks, the famous sandy beaches of Surfers Paradise and minutes away from the shoppers delight, Pacific Fair. Enjoy a wide array of facilities with two outdoor pools, perfect for a refreshing dip or poolside cocktail. Have a hit on one of two floodlit tennis courts, get your pulse racing in the fully equipped gymnasium or slow it down to indulge in a pampering massage at the"
+    },
+    {
+        "id": 10,
+        "name": "Mercure Gold Coast Resort Australia",
+        "img1": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/a0/4c/85/exterior-view.jpg?w=1100&h=-1&s=1",
+        "img2": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2c/1a/cc/d5/giant-chess-poolside.jpg?w=1200&h=-1&s=1",
+        "img3": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/23/a3/d0/0d/mercure-gold-coast-resort.jpg?w=1200&h=-1&s=1",
+        "img4": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/23/a3/cf/f0/resort-room-king-bed.jpg?w=1200&h=-1&s=1",
+        "img5": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/a0/4c/b9/miscellaneous.jpg?w=1100&h=-1&s=1",
+        "description": "Nestled beside the picturesque Palm Meadows Golf Course, Mercure Gold Coast Resort is one of the top choices on the Gold Coast for relaxing, unwinding and rejuvenating away from the hustle and bustle. Located a mere 30 minute drive from Coolangatta Airport, just over one hour’s drive to Brisbane Domestic & International Airports. Conveniently placed a close drive to Gold Coast Theme Parks, the famous sandy beaches of Surfers Paradise and minutes away from the shoppers delight, Pacific Fair. Enjoy a wide array of facilities with two outdoor pools, perfect for a refreshing dip or poolside cocktail. Have a hit on one of two floodlit tennis courts, get your pulse racing in the fully equipped gymnasium or slow it down to indulge in a pampering massage at the"
+    },
+    {
+        "id": 11,
+        "name": "Holiday Inn Express Dubai",
+        "img1": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2c/03/96/75/welcome-to-holiday-inn.jpg?w=1200&h=-1&s=1",
+        "img2": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2c/03/96/70/a-comfortable-bed-awaits.jpg?w=1200&h=-1&s=1",
+        "img3": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2c/03/96/6f/our-accessible-bathroom.jpg?w=1200&h=-1&s=1",
+        "img4": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2c/03/96/56/our-front-desk-team-will.jpg?w=1200&h=-1&s=1",
+        "img5": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2c/03/96/63/our-fitness-room-is-perfect.jpg?w=1200&h=-1&s=1",
+        "description": "Welcome to the Holiday Inn Express Dubai Airport. We strive to provide you with a clean and comfortable room and friendly attentive service while you are away from home. Conveniently located opposite Terminal 3 of Dubai International Airport, the hotel is a nearby neighbour to major business hubs and shopping malls, and a five-minute walk to Emirates HQ Metro Station which can take you to almost everywhere in Dubai. From Dubai International Airport, hop on to our free shuttle service to take you to the hotel. Start your day right with a free Express Start breakfast or grab & go option and stay connected with our free WiFi Internet all throughout the hotel or at the 24-hour Business Centre. Recharge your day with refreshing drinks at The Brick Wall Sports Bar and get the most"
+    },
+    {
+        "id": 12,
+        "name": "All Seasons Hotel pattaya",
+        "img1": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/06/0c/ca/7f/all-seasons-hotel.jpg?w=1200&h=-1&s=1",
+        "img2": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/ff/9e/c6/family-room--v15333890.jpg?w=1200&h=-1&s=1",
+        "img3": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/06/0c/ca/69/all-seasons-hotel.jpg?w=800&h=-1&s=1",
+        "img4": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/ff/a0/21/standard-triple-room--v15334037.jpg?w=1200&h=-1&s=1",
+        "img5": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/06/0c/ca/71/all-seasons-hotel.jpg?w=1200&h=-1&s=1",
+        "description": "All Seasons Hotel is in the historic heart of Istanbul. Sultanahmet Square, Grand Bazaar, Hagia Sophia are just 15 minutes away by tram. It features a sauna and massage facilities. The hotel has modern rooms equipped with an LCD TV, air conditioning, minibar and an electric kettle. Free WiFi is also included. The Seasons Restaurant serves dinner and lunch with a la carte menus. You can also enjoy drinks at the Seasons Bar. All Seasons Hotel is just a 2-minute walk from Findikzade Tram Stop, which offers easy access to many other sites of the city. Free private parking is available on site."
+    },
+    {
+        "id": 13,
+        "name": "Mercure Roma West Italy",
+        "img1": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/df/d1/c3/exterior-view.jpg?w=1100&h=-1&s=1",
+        "img2": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2b/8b/7b/1b/guest-room.jpg?w=1100&h=-1&s=1",
+        "img3": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2b/84/4a/f7/guest-room-bath.jpg?w=1100&h=-1&s=1",
+        "img4": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2b/84/4a/f8/guest-room.jpg?w=1100&h=-1&s=1",
+        "img5": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2b/7e/c1/20/health-club-fitness-center.jpg?w=1100&h=-1&s=1",
+        "description": "Please visit the new spa Heated indoor pool with Jacuzzi corner, gym equipment TECNOGYM, sauna turkish bath, relaxation areas, treatment rooms, changing rooms and docce. No access to children under 6 years."
+    },
+    {
+        "id": 14,
+        "name": "Centara Life Phu Pano Resort Krabi",
+        "img1": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2b/ff/18/97/swimming-pool-1.jpg?w=1200&h=-1&s=1",
+        "img2": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2b/ff/18/ac/mix-bistro-5.jpg?w=1200&h=-1&s=1",
+        "img3": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2b/ff/18/ae/exterior-2.jpg?w=1200&h=-1&s=1",
+        "img4": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2b/ff/18/a1/03-family-pool-view-1.jpg?w=1200&h=-1&s=1",
+        "img5": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2b/ff/18/ad/lobby-4.jpg?w=1200&h=-1&s=1",
+        "description": "Centara Life Phu Pano Resort Krabi is found amidst lush tropical beauty and enjoys a quiet location. It is a quick 5-minute drive from Ao Nang. Ao Nang Beach and Nopparatthara Beach are 10 minutes away. The resort has 158 functional rooms and family-friendly residences with bunk beds for children. The rooms make bright retreats for couples and families, and each features a balcony and comfortable living space (24-48 sqm.). Wi-Fi is free of charge. The infinity swimming pool with views of verdant limestone formation is perfect to laze the day away and has relaxation pods and a separate pool for children. There’s also a well-equipped fitness centre, and one restaurant. Exciting adventures in and around Krabi include underwater explorations in the Andaman Sea, cycling across the Krabi countryside to Khlong Tom’s Emerald Pool, rock-climbing in Railay Bay, and island-hopping, all of which can be arranged via the tour desk. Krabi International Airport is approximately 35 minutes"
+    },
+    {
+        "id": 15,
+        "name": "Palm Royale Cairns Australia",
+        "img1": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2c/20/3e/11/front-view.jpg?w=700&h=-1&s=1",
+        "img2": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2c/20/3e/1b/main-pool-ground-view.jpg?w=1200&h=-1&s=1",
+        "img3": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2c/20/3e/10/pool-view-room-family.jpg?w=1200&h=-1&s=1",
+        "img4": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2c/20/3e/14/lap-pool.jpg?w=1200&h=-1&s=1",
+        "img5": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2c/20/3e/19/pool-view-room-bathroom.jpg?w=1200&h=-1&s=1",
+        "description": "scape To Palm Royale Cairns Cairns, Queensland. A world away from the everyday and within minutes of everything that Cairns has to offer – that’s the beauty of Palm Royale Cairns, not to mention its attentive service, fabulous guest rooms, choice of pools and magnificent landscaped gardens. Mediterranean architecture blends seamlessly with the tropical environment of Cairns. Set against azure skies and an emerald backdrop of rainforest clad mountains, the exterior shrouded in lush greenery provide the perfect foil and beckon (as the Italians say) Amare la Vita…or ‘love of life’. Having successfully captured the tropical spirit of Cairns and its wonderful climate, Palm Royale Cairns is an inviting palm fringed oasis of aqua swimming pools and shady gardens. Laze the days away on sun-drenched terraces or retire to the air-conditioned comfort of your room after a day visiting the Great Barrier Reef, World Heritage Listed Rainforest or outback. * AIRPORT & CITY Transfers at nominal FEE"
+    },
+    {
+        "id": 16,
+        "name": "Alphotel Austria",
+        "img1": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0b/01/70/0a/aussenansicht.jpg?w=1200&h=-1&s=1",
+        "img2": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0b/01/6e/bb/alphotel-innsbruck.jpg?w=1200&h=-1&s=1",
+        "img3": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/07/1d/90/25/alphotel-innsbruck.jpg?w=1200&h=-1&s=1",
+        "img4": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/07/1d/90/1c/alphotel-innsbruck.jpg?w=1200&h=-1&s=1",
+        "img5": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/07/1d/90/0e/alphotel-innsbruck.jpg?w=1200&h=-1&s=1",
+        "description": "Commercial Hotel in a suburban area at eastern edge of town, 15 minutes from city center."
+    },
+    {
+        "id": 17,
+        "name": "Sofia Resort Greece",
+        "img1": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/13/dc/18/8c/caption.jpg?w=1200&h=-1&s=1",
+        "img2": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/13/dc/19/31/caption.jpg?w=1200&h=-1&s=1",
+        "img3": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/7c/0d/54/caption.jpg?w=1200&h=-1&s=1",
+        "img4": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/13/9c/35/61/sofia-hotel-apartments.jpg?w=1200&h=-1&s=1",
+        "img5": "https://dynamic-media-cdn.tripadvisor.com/media/photo-s/01/3c/2f/68/le-coin-piscine-le-pont.jpg?w=600&h=-1&s=1",
+        "description": "Sofia Resort features a seasonal outdoor swimming pool, garden, a bar and shared lounge in Kavros. Featuring a tour desk, this property also welcomes guests with a restaurant and a playground. The property is located in Kavros district. Featuring a private bathroom, rooms at the hotel also offer free WiFi, while all rooms are equipped with a balcony. At Sofia Resort each room is equipped with a seating area. A buffet breakfast is available daily at the accommodation. Sofia Resort has a terrace. You can play table tennis at the hotel, and the area is popular for cycling. The nearest airport is Souda Airport, 49.9 km from Sofia Resort. We speak your language!"
+    },
+    {
+        "id": 18,
+        "name": "Grand Hotel Prague Towers",
+        "img1": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2c/13/06/17/grand-hotel-prague-towers.jpg?w=1200&h=-1&s=1",
+        "img2": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2c/13/06/1d/deluxe-room.jpg?w=1200&h=-1&s=1",
+        "img3": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2c/13/06/0d/apollo-day-spa-swimming.jpg?w=1200&h=-1&s=1",
+        "img4": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2c/13/06/1b/apollo-day-spa-swimming.jpg?w=1200&h=-1&s=1",
+        "img5": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2c/13/06/18/underground-parking.jpg?w=1200&h=-1&s=1",
+        "description": "A well-known 5-star Prague hotel since 1988, excellent public transport connections. Spacious rooms with the best views of the city, quality gastronomy - several restaurants and bars wide range of services – restaurants, bars, wellness, fitness, massage, hair and beauty salon, gift shop, business centre swimming pool on the 26th floor with a panoramic view secure parking lot / garage with car wash, 24 conference rooms"
+    },
+    
+    {
+        "id": 20,
+        "name": "Hotel Ascot-Bristol Germany",
+        "img1": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/04/40/b0/c9/hotel-ascot-bristol.jpg?w=600&h=-1&s=1",
+        "img2": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/04/40/b6/43/hotel-ascot-bristol.jpg?w=1000&h=-1&s=1",
+        "img3": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/09/67/2e/6f/aussenansicht.jpg?w=1200&h=-1&s=1",
+        "img4": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0c/3e/04/a2/hotel-ascot-bristol.jpg?w=1200&h=-1&s=1",
+        "img5": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/9b/55/36/zimmer.jpg?w=1200&h=-1&s=1",
+        "description": "Welcome to Hotel Ascot-Bristol, your Potsdam “home away from home.” Hotel Ascot-Bristol aims to make your visit as relaxing and enjoyable as possible, which is why so many guests continue to come back year after year.Free wifi is offered to guests, and rooms at Hotel Ascot-Bristol offer a minibar.During your stay, take advantage of some of the amenities offered, including room service. Guests of Hotel Ascot-Bristol are also welcome to enjoy breakfast, located on site. For travellers arriving by car, free parking is available.While you’re here, be sure to check out Die Eisfrau, one of the cafes that can be found in Potsdam, which is a short distance from Hotel Ascot-Bristol."
+    },
+    {
+        "id": 21,
+        "name": "Drei Konige Hotel Lucerne",
+        "img1": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/58/a8/d1/drei-konige-hotel-luzern.jpg?w=1200&h=-1&s=1",
+        "img2": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/55/30/d6/drei-konige-hotel-luzern.jpg?w=1200&h=-1&s=1",
+        "img3": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/55/30/4d/drei-konige-hotel-luzern.jpg?w=1200&h=-1&s=1",
+        "img4": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/14/5c/01/6d/drei-konige-hotel-luzern.jpg?w=1200&h=-1&s=1",
+        "img5": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/58/a9/54/drei-konige-hotel-luzern.jpg?w=1200&h=-1&s=1",
+        "description": "The Garni Hotel Drei Koenige is situated in the heart of Lucerne and offers comfortable and spacious rooms with all the amenities of a three star hotel. The quiet location as well as the uniqueness of the art nouveau building makes your stay to a special experience. Many sightseeing places, the train station and the old town are close by. The hotel is by foot and by car easy to reach. Parking spaces are near by. Besides, for the best start into the day a rich breakfast buffet is expecting you."
+    },
+    
+    {
+        "id": 23,
+        "name": "Hotel Plaza Las Matas Spain",
+        "img1": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/de/f5/b7/hotel-plaza-las-matas.jpg?w=1200&h=-1&s=1",
+        "img2": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/06/ea/a2/0b/getlstd-property-photo.jpg?w=1200&h=-1&s=1",
+        "img3": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/de/f5/b3/hotel-plaza-las-matas.jpg?w=1200&h=-1&s=1",
+        "img4": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/de/f5/94/hotel-plaza-las-matas.jpg?w=1200&h=-1&s=1",
+        "img5": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/4e/d6/74/photo2jpg.jpg?w=1200&h=-1&s=1",
+        "description": "Bienvenido a Hotel Plaza Las Matas, tu segundo hogar en Las Rozas. Hotel Plaza Las Matas tiene como objetivo conseguir que tu visita sea lo más relajante y agradable posible, razón por la que tantos huéspedes siguen volviendo año tras año. Su última reforma es de Mayo de 2021. Dispone además de un estupendo buffet cumpliendo con todas las medidas de higiene y seguridad. Disfrutarás de agradables habitaciones que incluyen aire acondicionado y minibar, y podrás estar conectado durante tu estancia, ya que Hotel Plaza Las Matas ofrece wifi gratuito a los huéspedes. El hotel tiene recepción abierta 24 horas, servicio de habitaciones y tienda multiservicio. El hotel dispone de parking con coste adicional. Hotel Plaza Las Matas te acerca a lo mejor"
+    },
+    {
+        "id": 24,
+        "name": "Sercotel Princesa De Eboli Spain",
+        "img1": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0a/9b/5a/6b/the-hotel--v11243873.jpg?w=1200&h=-1&s=1",
+        "img2": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0a/9b/5a/3d/standard-room--v11243777.jpg?w=1200&h=-1&s=1",
+        "img3": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0a/9b/5a/1c/restaurant--v11243976.jpg?w=1200&h=-1&s=1",
+        "img4": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0a/9b/59/c6/family-suite-room--v11243791.jpg?w=1200&h=-1&s=1",
+        "img5": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0a/9b/59/d4/family-suite-room--v11244074.jpg?w=1200&h=-1&s=1",
+        "description": "Sercotel Princesa de Eboli Hotel is a 4-star hotel located in a modern building in Pinto, a town in the region of Madrid, ten minutes from Warner Park, 25 minutes from the centre of Madrid and near the industrial and major shopping areas. It has 97 comfortable rooms and fully equipped apartments; they have free WiFi Internet. It has six function rooms prepared for any type of event. They are well equipped, making the Princesa de Eboli Hotel, our aparthotel 4 * in Pinto, Madrid, is ideal for business travelers, families and sports teams."
+    },
+    {
+        "id": 25,
+        "name": "Ambasciatori Hotel Venice Mestre Italy",
+        "img1": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/e8/2f/3e/restaurant.jpg?w=1100&h=-1&s=1",
+        "img2": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/18/b8/a3/reception.jpg?w=1100&h=-1&s=1",
+        "img3": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/03/51/b5/restaurant.jpg?w=1200&h=-1&s=1",
+        "img4": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/28/db/89/62/ambasciatori-hotel-venice.jpg?w=1200&h=-1&s=1",
+        "img5": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/28/db/88/41/reception.jpg?w=1200&h=-1&s=1",
+        "description": "The Ambasciatori Hotel Venice Mestre is located in a strategic position near Mestre train station, the motorway, the airport. Venice downtown is reachable in a few minutes by bus (bus stop just in front of the entrance). It is a perfect place for both business travelers and leisure travelers. Hotel Restaurant's specialty is Italian cuisine served in a contemporary space. The Lounge Bar has a full list of cocktails, served in the elegant lobby area. Conference hall and meeting room are equipped with up-to-date technological equpment. Fitness center is equipped with modern cardio-fitness machines. The hotel provides a private parking for a fee (limited non-bookable spaces) or a affiliated garage. The 7 floors are served by lifts (elevators); rooms have air conditioning, heating and advanced domotic. Rooms are non-smoking and soundproof. All the rooms are equipped with mini fridge, 43-inch TV, telephone, safe, kettle, desk. WiFi connection is available free of charge. Room service and buffet breakfast are available at extra cost."
+    },
+    {
+        "id": 26,
+        "name": "Delphi Art Hotel Greece",
+        "img1": "https://dynamic-media-cdn.tripadvisor.com/media/photo-s/01/44/c1/06/vista-desde-habitacion.jpg?w=600&h=-1&s=1",
+        "img2": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/79/fd/e1/camera.jpg?w=1200&h=-1&s=1",
+        "img3": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/53/3b/e5/breakfast.jpg?w=1200&h=-1&s=1",
+        "img4": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/8f/07/8e/photo4jpg.jpg?w=1200&h=-1&s=1",
+        "img5": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0e/a3/91/d2/delphi-art-hotel.jpg?w=1200&h=-1&s=1",
+        "description": "See why so many travellers make Delphi Art Hotel their hotel of choice when visiting Athens. Providing an ideal mix of value, comfort and convenience, it offers a family-friendly setting with an array of amenities designed for travellers like you.For those interested in checking out popular landmarks while visiting Athens, Delphi Art Hotel is located a short distance from Monastiraki (0.6 mi) and Temple of Hephaestus (0.6 mi).As your “home away from home,” the hotel rooms offer a flat screen TV and air conditioning, and getting online is easy, with free wifi available."
+    },
+    
+    {
+        "id": 28,
+        "name": "Hotel Royal Penang Malaysia ",
+        "img1": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/de/10/e2/deluxe-room-25-sqm.jpg?w=1200&h=-1&s=1",
+        "img2": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/db/76/48/honeymoon-suite.jpg?w=1200&h=-1&s=1",
+        "img3": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/de/0f/07/executive-suite-54-sqm.jpg?w=1200&h=-1&s=1",
+        "img4": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/dd/ff/a5/presidential-suite-155.jpg?w=1200&h=-1&s=1",
+        "img5": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/f3/a2/f4/swimming-pool-located.jpg?w=1200&h=-1&s=1",
+        "description": "Hotel Royal Penang is a 4-star hotel, strategically located in the historical enclave of Georgetown and within minutes away from the financial district and other prominent locations. The hotel is also encased with a diversity of contemporary and culture attractions allowing guests to explore Penang’s rich historic sights which make Penang a UNESCO World Heritage site."
+    },
+    {
+        "id": 29,
+        "name": "Resorts World Langkawi",
+        "img1": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1b/74/24/bb/infinity-pool.jpg?w=1200&h=-1&s=1",
+        "img2": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1b/78/cb/51/premier-room.jpg?w=1200&h=-1&s=1",
+        "img3": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1b/74/27/f4/games-room.jpg?w=1200&h=-1&s=1",
+        "img4": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1b/74/27/3e/dining-at-infinity-pool.jpg?w=1200&h=-1&s=1",
+        "img5": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1b/74/24/b1/infinity-pool.jpg?w=1200&h=-1&s=1",
+        "description": "Resorts World Langkawi is located 5 minutes away from the popular Cenang Beach and Tengah Beach, and approximately 20 minutes away from Langkawi International Airport. We are also 24KM away from Kuah Town and 16KM from the nearest hospital. The seafront resort and marina overlooks east of Langkawi UNESCO Global Geopark, with the Dayang Bunting Marble Geoforest as its backdrop and the sun rising along it. Peaceful and relaxing, the resort has finely furnished rooms and boasts spectacular and unobstructed views of the ocean, especially the newly renovated rooms of modern and functional design. Enjoy the convenience of our private jetty for activities like island hopping, private boat rides, sunset cruises and fishing."
+    },
+    {
+        "id": 30,
+        "name": "Piraeus Theoxenia Hotel Greece",
+        "img1": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/04/b6/63/entrance--v17401336.jpg?w=1200&h=-1&s=1",
+        "img2": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/04/b6/2f/hotel-restaurant--v17401388.jpg?w=1200&h=-1&s=1",
+        "img3": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/04/b5/4c/junior-suite--v17401256.jpg?w=1200&h=-1&s=1",
+        "img4": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/04/b4/f2/executive-two-bedroom-suite--v174.jpg?w=1200&h=-1&s=1",
+        "img5": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/04/b5/bb/presidential-suite--v17401317.jpg?w=1200&h=-1&s=1",
+        "description": "Finding an ideal family-friendly hotel in Piraeus does not have to be difficult. Welcome to Piraeus Theoxenia Hotel, a nice option for travellers like you.For those interested in checking out popular landmarks while visiting Piraeus, Piraeus Theoxenia Hotel is located a short distance from The Catholic Church of St. Paul (0.0 mi) and Ieros Naos Agia Triada (0.2 mi).Guest rooms offer air conditioning and a minibar, and Piraeus Theoxenia Hotel makes getting online easy as free wifi is available.You can also take advantage of some of the amenities offered by the hotel, including 24 hour front desk, a concierge, and room service. In addition, guests can enjoy free breakfast during their visit. As an added convenience, there is parking available to guests."
+    },
+    {
+        "id":31,
+        "name":"Park Regis Kris Kin Hotel Dubai ",
+        "img1":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/02/1e/9c/7e/hotel-external-image.jpg?w=1000&h=-1&s=1",
+        "img2":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0e/29/5e/4a/park-regis-kris-kin-hotel.jpg?w=1200&h=-1&s=1",
+        "img3":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0a/67/90/9d/bathroom.jpg?w=1200&h=-1&s=1",
+        "img4":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/ec/f3/4d/sauna-room.jpg?w=1200&h=-1&s=1",
+        "img5":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/13/db/76/c1/park-regis-kris-kin-hotel.jpg?w=1200&h=-1&s=1",
+        "description":"Park Regis Kris Kin is conveniently located opposite Burjuman Shopping Centre, walking distance to the Burjuman Metro station, few minutes’ drive from the Dubai International Airport, and within easy reach of the city’s major leisure and business establishments such as the Burj Khalifa, The Dubai Mall, Dubai Frame, Gold Souk, Spice Souq, Bastakiya Historical District, and Port Rashid. The 384-room upscale hotel is the ideal address for both business and leisure travelers with nine function rooms suitable for small meetings and banquets, a spectacular rooftop swimming pool and leisure facilities, spacious guest rooms, free internet/WIFI throughout the hotel, and genuinely warm and welcoming service. Guests are spoilt for choice with a wide selection of dining experiences from one of Park Regis Kris Kin Hotel’s, five food and beverage outlets. Marhaba Lounge the new face of Park Regis Kris Kin and located in the main lobby is the ideal meeting place to enjoy a cup of some of the world’s finest tea and coffees together with a light meal or tasty snack. Kris With A View and Kris Lounge located on the 19th floor, serves a delectable breakfast spread while featuring breathtaking views of the Dubai skyline. Come Dinner, one can savor their favorite cocktail or try something new from the extensive menu whilst taking in the views of the city. The Grandstand located at the lobby offers a casual atmosphere to enjoy a variety of delectable bites, a selection of international hops, and prime beverages while enjoying great company and the game. If you are a sports fan this is the place to catch all the action, and lastly discover culinary jewels of Southeast Asia at Tenggara. Stay with confidence at Park Regis Kris Kin as it prioritizes your health and safety through its Bureau Veritas and Dubai Assured certifications for cleanliness and prevention protocols"
+    },
+    {
+        "id": 32,
+        "name": "Holiday Inn Munich",
+        "img1": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/e9/ff/cc/holiday-inn-munchen-city.jpg?w=1200&h=-1&s=1",
+        "img2": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1b/1e/8c/b5/holiday-inn-munich-city.jpg?w=1200&h=-1&s=1",
+        "img3": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2c/0e/ae/2b/isar3-bar-cafe-and-restaurant.jpg?w=1200&h=-1&s=1",
+        "img4": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/ea/02/45/hotel-bar.jpg?w=1200&h=-1&s=1",
+        "img5": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2c/0e/ae/1e/restaurant-grat3.jpg?w=1200&h=-1&s=1",
+        "description": "Munich's largest conference hotel in the city center shines in new splendor. Our 582 rooms offer urban flair and clean lines in subtle colors, while warm colors and a fiery red blend into a pleasant and inspiring room ambience and give free rein to creativity in the 2,000-square-foot convention area. Located in the heart of Munich, within walking distance of many of the city's major tourist attractions, the Holiday Inn Munich City Center is a non-smoking hotel that is favored by friends, families, couples and singles, as well as business travelers. Relax after an exciting day in Munich in one of our contemporary air conditioned guest rooms and enjoy all amenities such as free WIFI, Coffee- and Tea facilities and flat Screen TV. "
+    },
+    {
+        "id": 33,
+        "name": "Eastin Hotel Kuala Lumpur",
+        "img1": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/03/b3/a4/2b/eastin-hotel.jpg?w=1200&h=-1&s=1",
+        "img2": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/03/b3/a3/6f/eastin-hotel.jpg?w=1200&h=-1&s=1",
+        "img3": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/02/29/96/fb/swimming-pool.jpg?w=1200&h=-1&s=1",
+        "img4": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/03/b3/a4/32/eastin-hotel.jpg?w=1200&h=-1&s=1",
+        "img5": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/03/b3/a2/d5/eastin-hotel.jpg?w=1000&h=-1&s=1",
+        "description": "Eastin Hotel Kuala Lumpur hotel is a 5* business class hotel of international standards. Situated strategically on Jalan Damansara, an upmarket location nestled conveniently within the vicinity of golf courses, shopping malls and office buildings, it is designed to suit your needs as a business or leisure travellers. Enjoy the warm Eastin hospitality and experience our passion for efficiency and service excellence. Catering to an array of travellers and corporations, we provide an unparalleled experience coupled with efficient services, amenities and facilities to fulfil the needs of our much valued guests. Our room is more than just 'deluxe,' it is a well designed, contemporary home with warmth, ultra modern facilities and glorious space to greet you."
+    },
+    {
+        "id": 34,
+        "name": "Holiday Inn Macau",
+        "img1": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2c/01/67/5b/exterior-feature.jpg?w=1200&h=-1&s=1",
+        "img2": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/f2/f9/1f/frascati-cafe.jpg?w=1200&h=-1&s=1",
+        "img3": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/f2/f9/19/holiday-inn-macau.jpg?w=1200&h=-1&s=1",
+        "img4": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/f2/f8/f7/holiday-inn-macau.jpg?w=1200&h=-1&s=1",
+        "img5": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/f2/f8/c5/holiday-inn-macau.jpg?w=1200&h=-1&s=1",
+        "description": "Stay at the welcoming Holiday Inn Macau hotel in China and unwind in our Tea Tree Spa and Fitness Centre between strolls to Macau's main sights. You'll recognise the elegant Holiday Inn Macau, in the heart of Macau's lively business district, by its ornate facade. At this central hotel you're never far from Macau's landmarks, like the iconic Ruins of St Paul's cathedral, 5km away and mosaic Senada Square, 4km away. Soothing aromatherapy massages and facial treatments clear your head in our relaxing Tea Tree Spa. You can be in Hong Kong in 1 hour from Macau Outer Harbour Ferry Terminal. Racing fans flock to the island for November's Macau Grand Prix, 1.5km away, while vintage racing cars and ancient wines are displayed at the Grand Prix and wine museum 1km"
+    },
+    {
+        "id": 35,
+        "name": "Radisson Hotel Narita",
+        "img1": "https://nb-img.imgix.net/images-nrt/radisson1.jpg?auto=compress,enhance,format",
+        "img2": "https://nb-img.imgix.net/images-nrt/radisson5.jpg?auto=compress,enhance,format",
+        "img3": "https://nb-img.imgix.net/images-nrt/radisson8.jpg?auto=compress,enhance,format",
+        "img4": "https://nb-img.imgix.net/images-nrt/radisson9.jpg?auto=compress,enhance,format",
+        "img5": "https://nb-img.imgix.net/images-nrt/radisson2.jpg?auto=compress,enhance,format",
+        "description": "The Radisson Hotel Narita is conveniently located with easy access to:Narita International Airport (15 – 20 minutes), Narita City (10 – 15 minutes), Tokyo (1 hour – 1.5 hour)The hotel offers daily complimentary round trip shuttle bus services to Narita International Airport, Narita City, the home of Narita-san temple. The hotel can assist with daily transfers to Tokyo Haneda domestic Airport. Tokyo highway bus between Tokyo central station and the hotel 16 times a day."
+    },
+    {
+        "id":36,
+        "name":"Grand Bella Hotel Thailand",
+        "img1":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/05/54/86/ef/grand-bella-hotel.jpg?w=1200&h=-1&s=1",
+        "img2":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/05/e5/29/75/grand-bella-hotel.jpg?w=1200&h=-1&s=1",
+        "img3":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/05/e5/26/05/grand-bella-hotel.jpg?w=1200&h=-1&s=1",
+        "img4":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/05/54/85/de/grand-bella-hotel.jpg?w=1200&h=-1&s=1",
+        "img5":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/08/81/bd/c3/deluxe-room-with-pool-view--v7307.jpg?w=1200&h=-1&s=1",
+        "description":"The Grand Bella, a 4 star Hotel is the newest property of Bella Villa Group. This Hotel consists of 3 main building and 360 rooms located at the heart of Pattaya just a few minutes walk to the famous Central Festival Beach Shopping Mall, the Pattaya Beach, and other tourist attraction. With it's new modern facilities and excellent service, it will surely gives everything a tourists need for a relaxing holiday."
+    },
+    {
+        "id": 37,
+        "name": "Delphi Art Hotel Greece",
+        "img1": "https://dynamic-media-cdn.tripadvisor.com/media/photo-s/01/44/c1/06/vista-desde-habitacion.jpg?w=600&h=-1&s=1",
+        "img2": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/53/3b/e5/breakfast.jpg?w=1200&h=-1&s=1",
+        "img3": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/15/12/0b/delphi-art-hotel.jpg?w=1200&h=-1&s=1",
+        "img4": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0e/a3/91/d2/delphi-art-hotel.jpg?w=1200&h=-1&s=1",
+        "img5": "http://www.athens-greece.us/athens-hotels/airport-hotels-athens-plaka/Delphi/Delphi-8.jpg",
+        "description": "See why so many travellers make Delphi Art Hotel their hotel of choice when visiting Athens. Providing an ideal mix of value, comfort and convenience, it offers a family-friendly setting with an array of amenities designed for travellers like you.For those interested in checking out popular landmarks while visiting Athens, Delphi Art Hotel is located a short distance from Monastiraki (0.6 mi) and Temple of Hephaestus (0.6 mi).As your “home away from home,” the hotel rooms offer a flat screen TV and air conditioning, and getting online is easy, with free wifi available.If you’re looking for something to do, Acropolis (0.9 mi), Acropolis Museum (1.1 mi), and Plaka (0.6 mi) are a nice way to spend some time, and they are all within walking distance of Delphi Art Hotel."
+    },
+    {
+        "id": 38,
+        "name": "Holiday Inn Express Zürich Airport",
+        "img1": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2c/01/83/c1/holiday-inn-express-zurich.jpg?w=1200&h=-1&s=1",
+        "img2": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2c/01/83/ec/queen-size-bed-with-arm.jpg?w=1200&h=-1&s=1",
+        "img3": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2c/01/83/e9/hotel-exterior-01.jpg?w=1200&h=-1&s=1",
+        "img4": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2c/01/83/de/restaurant.jpg?w=1200&h=-1&s=1",
+        "img5": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2c/01/83/d4/hotel-feature.jpg?w=1200&h=-1&s=1",
+        "description": "Modern hotel close to Zürich Airport with newly renovated rooms. Our complimentary continental breakfast buffet is served every day from 6:00 to 10:00. If you have an early checkout we can also provide you with an express breakfast. Our reception, bar, and restaurant are open for you 24 hours. We offer free Shuttle Services from the Airport to the Hotel. Shuttles from the Hotel to the Airport is chargeable and it costs just 10.00 CHF. Please book your seat during Check-In at the Reception.The Holiday Inn Express Zurich Airport is very well located only 15 minutes from Zürich Airport with easy access to local highways, and the Rümlang train station within 5 minutes walking distance. The hotel offers on-site parking for guests who will bring a car at a daily rate.Our naturally lit meeting rooms of 40 square meters each offer space up to 30 delegates. In our lobby is the Business Centre and our dedicated staff members will take care of all your planning and needs."
+    },
+    {
+        "id": 39,
+        "name": "Ramada Encore by Wyndham Seminyak Bali",
+        "img1": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/a5/24/c6/ramada-encore-bali-seminyak.jpg?w=1200&h=-1&s=1",
+        "img2": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/07/50/bc/cb/breakfast-at-mahadewi.jpg?w=1200&h=-1&s=1",
+        "img3": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/07/50/bc/d3/superior-garden.jpg?w=1200&h=-1&s=1",
+        "img4": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/07/50/ba/d5/exterior.jpg?w=1200&h=-1&s=1",
+        "img5": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/23/e3/c2/be/bathroom.jpg?w=600&h=-1&s=1",
+        "description": "Ramada Encore by Wyndham Seminyak Bali is a 4-star hotel, sitting comfortably on approximately 10,000 square meters of land with a 2200 square meter swimming lagoon pool, situated in trendy Seminyak area, a popular area for all tourists that has its own charm and bustling lifestyle. It is located in a peaceful location but still within a short distance from all modern conveniences and enjoyments. In around 10 minutes you can reach Seminyak Square, main hubs for Bali’s best exotic attractions. Our complimentary shuttle service can drop you off at some popular destinations around Kuta-Seminyak area. Ramada Encore by Wyndham Seminyak Bali is an ideal choice for leisure and business."
+    },
+    {
+        "id":40,
+        "name":"Hotel Krallerhof Austria",
+        "img1":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2b/e8/19/d1/caption.jpg?w=1200&h=-1&s=1",
+        "img2":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2b/e8/19/e0/caption.jpg?w=1200&h=-1&s=1",
+        "img3":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2b/e8/19/d9/caption.jpg?w=1200&h=-1&s=1",
+        "img4":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2b/e8/19/db/caption.jpg?w=1200&h=-1&s=1",
+        "img5":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/d1/cc/03/caption.jpg?w=1200&h=-1&s=1",
+        "description":"Hotel Krallerhof – Avantgarde seit 1956 Das Fünf-Sterne-Hotel Krallerhof in Leogang im Salzburger Land zeichnet sich als eines der renommiertesten Häuser Österreichs durch Mut zur Innovation, Leidenschaft für die Zukunft und Kraft des Neuen aus. Bereits in vierter Generation lenkt die Gastgeberfamilie Altenberger die Geschicke des Hauses.Die Gäste erwartet neben 124 eleganten Zimmern und Suiten ein Restaurant mit Terrasse und die prämierte Hotelbar Glocke.Die Bar."
+    },
+    {
+        "id":41,
+        "name":"Ramada by Wyndham Bangkok ",
+        "img1":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/6b/a6/a6/ramada-by-wyndham-bangkok.jpg?w=1200&h=-1&s=1",
+        "img2":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/2e/96/2f/ramada-by-wyndham-bangkok.jpg?w=1200&h=-1&s=1",
+        "img3":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/2e/92/e2/lobby.jpg?w=1200&h=-1&s=1",
+        "img4":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/2e/7d/61/finch-bar-restaurant.jpg?w=1200&h=-1&s=1",
+        "img5":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/2e/7a/79/front-office.jpg?w=1200&h=-1&s=1",
+        "description":"Ramada by Wyndham Bangkok Sukhumvit 11 (formally Grand Swiss Hotel Bangkok) is located just at the beginning of Sukhumvit Soi 11, home to one of Bangkok's most popular and vibrant entertainment scenes and near the Terminal 21 shopping center. Just mere steps away from the Nana BTS Station, our hotel offers comfortable accommodation as well as unparalleled convenience to getting around the city, making Grand Swiss Hotel Bangkok perfect for both business and leisure travelers. With 183 modern designed guestrooms and suites with floor-to-ceiling windows, our Grand Swiss Hotel Bangkok offers elegant furnishings and fixtures to ensure that your stay is as enjoyable as possible. Guests staying in Executive Rooms also have complimentary access to the Residents' Lounge where you can enjoy relaxing in the sky lounge atmosphere with the business station for e- mail checking, a meeting room for professional but intimate discussions, and complimentary drinks and snacks throughout the daytime in a cushy setting."
+
+    },
+    {
+        "id": 42,
+        "name": "Staybridge Suites Bangkok Thonglor",
+        "img1": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2c/bd/64/04/staybridge-suites-bangkok.jpg?w=1200&h=-1&s=1",
+        "img2": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2c/04/66/25/24-hours-fitness-center.jpg?w=1200&h=-1&s=1",
+        "img3": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2c/e8/a3/13/restaurant.jpg?w=1200&h=-1&s=1",
+        "img4": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2c/e8/a2/eb/swimming-pool.jpg?w=1200&h=-1&s=1",
+        "img5": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2c/da/75/71/two-bedroom-family-suite.jpg?w=1200&h=-1&s=1",
+        "description": "Choose better and stay in Staybridge Suites Bangkok Thonglor, the first Staybridge Suites hotel in Asia Pacific. Conveniently located in Thonglor road, which known as Bangkok's liveliest area, just minutes away to BTS Thonglor Skytrain station within walking distance. Bangkok's Central Business Districts are easily accessible, just two train stations away to Asoke Skytrain station and Sukhumvit underground train station. Work, Relax, and Play your way here with endless possibilities from extraordinary suites offering spacious rooms with bathtubs and balcony in Suites, premium bedding, fully-equipped kitchenette, refrigerator, cooking hob, laundry machine and dryer. Public spaces feature sky pool, Japanese Onsen, Sauna, gym, free hot breakfast, free Wi-Fi and The Social, an evening gathering week on Monday, Wednesday and Friday hosted by the hotel. There is everything you need and so much"
+    },
+    {
+        "id": 43,
+        "name": "Avni Plus River Side Bangkok",
+        "img1": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2c/2b/3c/06/rooftop-swimming-pool.jpg?w=1100&h=-1&s=1",
+        "img2": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2c/2b/3c/25/team-members-at-reception.jpg?w=1100&h=-1&s=1",
+        "img3": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2c/2b/3c/26/king-bed-with-tv-screen.jpg?w=1100&h=-1&s=1",
+        "img4": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2c/2b/3c/27/bathroom-with-river-view.jpg?w=1100&h=-1&s=1",
+        "img5": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2c/2b/3c/20/concierge-waits-for-a.jpg?w=1100&h=-1&s=1",
+        "description": "Overlooking Bangkok's bustling Chao Phraya River, Avani+ Riverside Bangkok Hotel is perfectly situated among Bangkok Riverside hotels to grab a bite, see the sights or head to a meeting. Shuttle boat services to the BTS Skytrain and the central Saphan Taksin boat pier make connecting to the city's major commercial, shopping and entertainment districts a breeze, but if you prefer stick close, Riverside Plaza has 68 restaurants bars and shops to keep you occupied when based at one of the convenient Bangkok resorts in the area."
+    },
+    {
+        "id": 44,
+        "name": "Holiday Inn Express Bangkok ",
+        "img1": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2c/3f/8a/4a/holiday-inn-express-bangkok.jpg?w=1200&h=-1&s=1",
+        "img2": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2c/00/5f/30/guest-bathroom.jpg?w=1200&h=-1&s=1",
+        "img3": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2c/00/5f/2c/comfortable-rooms-designed.jpg?w=1200&h=-1&s=1",
+        "img4": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2c/00/5f/18/stay-fit-while-staying.jpg?w=1200&h=-1&s=1",
+        "img5": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2c/00/5f/19/meeting-room.jpg?w=1200&h=-1&s=1",
+        "description": "Holiday Inn Express Bangkok Siam is located in the centre of Bangkok's famous Siam shopping district with spectacular views of the National Stadium and Bangkok city. Holiday Inn Express Bangkok Siam is situated right next to the National Stadium BTS Skytrain station with few minutes walk to MBK, Siam Paragon, Central World, Platinum, Siam Discovery and the newest lifestyle shopping mall, Samyan Mitrtown. The hotel also offers easy accessibility to all major attractions, including The Grand Palace, Temple of the Emerald Buddha, Chinatown, Khaosan Road, Chatuchak Weekend Market, Erawan Shrine Featuring 300 contemporary design rooms with panoramic view of the city, Holiday Inn Express Bangkok Siam is the smart choice for savvy travelers who are looking for the best location combined with the best value, offering an affordable and hassle-free stay in Bangkok."
+    },
+    {
+        "id": 45,
+        "name": "The Silver Palm Wellness Resort Bankok",
+        "img1": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/d8/0d/9a/the-silver-palm-rama.jpg?w=1200&h=-1&s=1",
+        "img2": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0a/57/ca/ff/the-silver-palm-deluxe.jpg?w=1200&h=-1&s=1",
+        "img3": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0a/57/c5/ff/lobby.jpg?w=1200&h=-1&s=1",
+        "img4": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/d8/10/67/the-silver-palm-rama.jpg?w=1200&h=-1&s=1",
+        "img5": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/d8/0a/86/the-silver-palm-rama.jpg?w=1200&h=-1&s=1",
+        "description": "The Silver Palm Wellness Resort @Hua Mark Station, 89-room four-star urban resort and residence located in the heart of Bangkok. Just 5 minutes walk from Hua Mark Rail Link Station, giving guests convenient access to Suvarnabhumi International Airport and Bangkok City Center. Fully equipped big size room ranging from 40 sq.m to 90 sq.m with nice outdoor swimming pool, well-equipped gym & sauna. Cafe Edge is an all-day dining bistro and bar boasting a menu with Thai, Asian and International delights for breakfast, lunch, and dinner including comfort dishes that remind guests of home, takeaway sandwiches, and salads. Emanates a relaxed poolside vibe, the ideal place to enjoy great coffee, juices, and cocktails. A place apart and a place that inspires, our resort is the calm amidst the pulsating din, delivering unforgettable memories and great amenities. Our chic rooms and suites boast exceptional privacy and everything leisure, business, and medical travelers need to maximize their stay."
+    },
+    {
+        "id": 46,
+        "name": "Khum Phaya Resort & Spa Boutique Collection Thailand",
+        "img1": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/08/8c/1c/af/resort-entrance-01.jpg?w=1200&h=-1&s=1",
+        "img2": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/07/a0/12/khum-phaya-resort-spa.jpg?w=1200&h=-1&s=1",
+        "img3": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/14/8e/12/c4/spa-cenvaree.jpg?w=1200&h=-1&s=1",
+        "img4": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/07/a0/12/khum-phaya-resort-spa.jpg?w=1200&h=-1&s=1",
+        "img5": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/14/c6/6d/a8/khum-phaya-resort-spa.jpg?w=1200&h=-1&s=1",
+        "description": "Khum Phaya Resort & Spa has 85 spacious rooms and villas (from 44 to 356 sqm of total living space), with the option of direct pool access or a private pool, and each with a Jacuzzi. Beautiful surrounds and spacious interiors with teak furnishings and wood floors throughout make the rooms and villas a comfortable retreat for couples and families. Wellbeing facilities include a fitness centre and a spa, the perfect retreat after of a busy day of sightseeing or exploring. The resort is also home to a lagoon-shaped swimming pool surrounded by century-old trees and meandering canals. The resort also has a restaurant and two bars. For shopping aficionados, the complimentary shuttle service connects to Chiang Mai’s night markets and to Central Festival Chiang Mai shopping centre which is only 10 minutes away, so is the old town. The resort is a mere 20-minute drive from Chiang Mai International Airport."
+    },
+    {
+        "id": 47,
+        "name": "Merchant Villa Thailand",
+        "img1": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/27/ba/2a/3a/caption.jpg?w=1200&h=-1&s=1",
+        "img2": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1b/9e/6b/4b/photo0jpg.jpg?w=1100&h=-1&s=1",
+        "img3": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/27/ba/2a/39/caption.jpg?w=1100&h=-1&s=1",
+        "img4": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/19/d8/81/18/exterior.jpg?w=1200&h=-1&s=1",
+        "img5": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/19/d8/79/1d/luxury-room.jpg?w=1200&h=-1&s=1",
+        "description": "Located in Chiang Mai, 1.6 km from Chiang Mai International Convention and Exhibition Centre, Merchant Villa- SHA Extra Plus provides accommodation with an outdoor swimming pool, free private parking, a garden and a shared lounge. Providing a restaurant, the property also has a bar, as well as a hot tub. The accommodation features a 24-hour front desk, airport transfers, room service and free WiFi throughout the property.Guest rooms are equipped with air conditioning, a flat-screen TV with satellite channels, a fridge, a kettle, a shower, free toiletries and a desk. All guest rooms include a private bathroom, a hairdryer and bed linen."
+    },
+    
+    {
+        "id": 49,
+        "name": "Panviman Thailand",
+        "img1": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/261211935.jpg?k=ffbc8b77d160dde56e956aeefa939c810daf7c9ea2a40066f80df2576a562670&o=&hp=1",
+        "img2": "https://www.panvimanresortchiangmai.com/images/gallery/hotel-01.jpg",
+        "img3": "https://www.panvimanresortchiangmai.com/images/gallery/hotel-04.jpg",
+        "img4": "https://www.panvimanresortchiangmai.com/images/gallery/hotel-08.jpg",
+        "img5": "https://www.panvimanresortchiangmai.com/images/gallery/hotel-09.jpg",
+        "description": "Steeped in incredible history that dates back hundreds of years, the celebrated Thai kingdoms of Lanna and Ayuthaya are intricately woven into the fabric of modern Thailand. From stunning architecture and inspiring decorative items to heart-warming, genuine hospitality, the five-star Panviman Chiang Mai Spa Resort is a fusion of the very best of the ancient and modern worlds.Nestled high in the hills that encircle the Rose of the North, Panviman Chiang Mai Spa Resort is ringed by mature tropical forests, flowering gardens and abundant fruit orchards that provide guests an adventurous experience among the natural beauty of Northern Thailand. While this luxury resort is only a short drive from Chiang Mai International Airport, it feels like a million miles away from the hustle and bustle of everyday life."
+    },
+    {
+        "id":50,
+        "name":"Phi Phi Holiday Resort Thailand",
+        "img1":"https://cdn-5fb63503c1ac1813b0e89473.closte.com/wp-content/uploads/2021/01/34B.jpg",
+        "img2":"https://cdn-5fb63503c1ac1813b0e89473.closte.com/wp-content/uploads/2020/12/IMG_0285-.jpg",
+        "img3":"https://cdn-5fb63503c1ac1813b0e89473.closte.com/wp-content/uploads/2020/12/IMG_0025.jpg",
+        "img4":"https://cdn-5fb63503c1ac1813b0e89473.closte.com/wp-content/uploads/2020/12/IMG_0011.jpg",
+        "img5":"https://cdn-5fb63503c1ac1813b0e89473.closte.com/wp-content/uploads/2020/12/IMG_0008.jpg",
+        "description":"Welcome to tropical paradise Phi Phi Holiday Resort, located on a heavenly beachfront of powdery soft white sand that gently merges with the Andaman Sea creating sublime hues of aqua-blue. The hideaway resort is surrounded by breathtaking natural beauty, a place where romantic couples and families can retreat to spend quality time together in a tranquil and serene environment. The comfortable accommodation with various amenities is situated in three distinct wings with a choice of charming bungalows, contemporary style studios and pool villas. Offering unrivalled facilities and services on the island, free Wi-Fi Internet access throughout the resort, four outdoor swimming pools (one family pool, one kids pool and two infinity pools), kids club, a boutique shop, Holiday Spa, a fitness centre, a diving centre and non-motorised water sport activities. Some of the finest diving sites in Thailand are located on our doorstep."
+    }
+    ,
+    {
+        "id": 51,
+        "name": "Phi PHi Andaman Legacy Thailand",
+        "img1": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/309417883.jpg?k=9ff1f65899df24ff16b9d919672772c16311237c415e8642c2325ad25d66b40f&o=&hp=1",
+        "img2": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/245795302.jpg?k=e31667e3de71a6ede43e9276d49817e8af65a98bd67ca71a77e7f42da4f7fadf&o=&hp=1",
+        "img3": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/309417792.jpg?k=356f528ee6639d1baa0a4bc62f96593bcb9bc08f541367f79d88de5ef5db585f&o=&hp=1",
+        "img4": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/223507113.jpg?k=26ef2b33f12879682e61996fe50de84fa7093a9abcbed5f9a3f949fdf3e3bd4e&o=&hp=1",
+        "img5": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/245795220.jpg?k=a580fdf55748714eb4f9e8b38113fa528a503e2ca1c8d7745cb5c2a69d976ce8&o=&hp=1",
+        "description": "Phi Phi Andaman Legacy Resort features an outdoor swimming pool, garden, a restaurant and bar in Phi Phi Don. Certain units at the property feature a patio with a mountain view.Complete with a private bathroom equipped with a shower and free toiletries, the units at the resort have a flat-screen TV and air conditioning, and selected rooms will provide you with a balcony. At Phi Phi Andaman Legacy Resort all rooms come with bed linen and towels.Popular points of interest near Phi Phi Andaman Legacy Resort include Laem Hin Beach, Ton Sai Beach and Viking Beach. The nearest airport is Krabi International Airport, 67 km from the resort."
+    },
+    {
+        "id": 52,
+        "name": "P.P Princess Resort Thailand",
+        "img1": "https://pix8.agoda.net/hotelImages/566940/-1/f0de180a23202769376530056f01dc8f.jpg?ca=20&ce=0&s=1024x",
+        "img2": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/306623220.jpg?k=0405241eb322afe3775d8f6c35a87cce0ec0f70310ff0673a5ac1c9eff76ae86&o=&hp=1",
+        "img3": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/306624293.jpg?k=3c5bf8a0c375fcc8124208e59bd126ffa48c74d5c9093e2245b0a7c8e0f7fa22&o=&hp=1",
+        "img4": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/306622042.jpg?k=6cecf90915ce3310f63ce78bbf0f07b2e8df9f3ccd450d8c2f43934bd2dbabec&o=&hp=1",
+        "img5": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/306623227.jpg?k=78ce8b657df465216680c722a65cf66544aa5da3636e0c68898d9990ff946550&o=&hp=1",
+        "description": "Set in Phi Phi Don, 60 metres from Loh Dalum Beach, PP Princess Resort- SHA Extra Plus offers beachfront accommodation and various facilities, such as a restaurant. Featuring an outdoor swimming pool, the 4-star resort has air-conditioned rooms with free WiFi, each with a private bathroom. The accommodation offers a 24-hour front desk, a concierge service and organising tours for guests.At the resort, each room is equipped with a desk. All rooms are fitted with a kettle, a flat-screen TV and a safety deposit box, while selected rooms will provide you with a terrace and some have sea views. The units will provide guests with a fridge.   "
+    },
+    {
+        "id": 53,
+        "name": "The Cove Phi Phi Thailand",
+        "img1": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/205070329.jpg?k=14c5ea5ff0c6406a0ab1e1a3973ae427c7d0f73a266a74e7cff215ab492366c1&o=&hp=1",
+        "img2": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/204494676.jpg?k=0e4b3d81fa4cd598671d28236492ddc723216ea4b89b007ae1f41f62f72241c7&o=&hp=1",
+        "img3": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/316055659.jpg?k=ea2eb5bb3fe116bf91f1188e18c5c681629ab165c783ca9bc8f76fa39f58874b&o=&hp=1",
+        "img4": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/205068951.jpg?k=7848979de90b6f3793e4ac610d8219f3588c82d4d5f25bb9ad74882b08464093&o=&hp=1",
+        "img5": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/125968404.jpg?k=945241efaf70ade2e5c8c65d00ef6ebbccdac837112f23e9580189d1cc921be1&o=&hp=1s",
+        "description": "Facing the beachfront, The Cove Phi Phi offers 3-star accommodation in Phi Phi Don and features a shared lounge, terrace and restaurant. Featuring a bar, the resort is close to several noted attractions, around a few steps from Rantee Beach and around 1.5 km from Phak Nam Bay Beach. The accommodation provides a concierge service, a tour desk and luggage storage for guests.At the resort, each room comes with a balcony. Featuring a private bathroom with a shower and a hairdryer, rooms at The Cove Phi Phi also offer free WiFi, while certain rooms include a sea view. Guest rooms will provide guests with a fridge.Loh Moo Dee Beach is 2.5 km from the accommodation. The nearest airport is Krabi International Airport, 73 km from The Cove Phi Phi."
+    },
+    {
+        "id": 54,
+        "name": "SAii Phi Phi Island Village Resort Thailand",
+        "img1": "https://www.saiiresorts.com/wp-content/uploads/2024/07/02-SAii-Phi-Phi-Arrival-2.jpg",
+        "img2": "https://www.saiiresorts.com/wp-content/uploads/2024/07/03-SAii-Phi-Phi-Beachfront-Junior-Suite-1.jpg",
+        "img3": "https://www.saiiresorts.com/wp-content/uploads/2024/07/5-Saii-PhiPhi-Villa-0003.jpg",
+        "img4": "https://www.saiiresorts.com/wp-content/uploads/2024/07/7-Ruen-Thai.jpg",
+        "img5": "https://www.saiiresorts.com/wp-content/uploads/2024/01/5-Deluxe-Garden-Villa-Table-and-Bed.jpg",
+        "description": "Escape to SAii Phi Phi Island Village, a dream-like tropical resort on a private 800-metre stretch of pristine white sandy beach lapped by the turquoise waters of the Andaman Sea. This lavish Phi Phi Island resort is set amid 70 acres of coconut palm plantations, in the privacy of Loh Ba Gao Bay on the peaceful northeast coast of beautiful Phi Phi Island."
+    },
+    {
+        "id": 55,
+        "name": "P.P The Beach Resort Thailand",
+        "img1": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1b/c8/7c/00/phi-phi-the-beach-resort.jpg?w=1200&h=-1&s=1",
+        "img2": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1d/b4/c1/2b/sea-view-deluxe-villa.jpg?w=800&h=-1&s=1",
+        "img3": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/70/34/31/img-20190206-141558-largejpg.jpg?w=1100&h=-1&s=1",
+        "img4": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/f4/13/f0/photo3jpg.jpg?w=1200&h=-1&s=1",
+        "img5": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/c0/36/9f/oi000087-largejpg.jpg?w=1200&h=-1&s=1",
+        "description": "Phi Phi the Beach Resort is a peaceful hillside villas located at the most beautiful beach of Phi Phi Island with fantastic view of the ocean, white sandy beach and crystal clear water. You will enjoy holiday and have fun of snorkeling regularly see Black Tip Reef Shark, Dining in our Thai restaurant see sunset and have your fabulous moment."
+    },
+    {
+        "id": 56,
+        "name": "Baan Tye Wang Thailand",
+        "img1": "https://pix8.agoda.net/hotelImages/247/247567/247567_13021307350010343656.jpg?ca=0&ce=1&s=1024x",
+        "img2": "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/20059224.jpg?k=856eaaf0fcf9c855bfcaa6b85c11323c84ae2dfeefb97938bcaaad2d7b843caf&o=&s=1024x",
+        "img3": "https://pix8.agoda.net/hotelImages/247567/-1/35ea8cec7a703e5d043584449c004cdf.jpg?ce=0&s=1024x",
+        "img4": "https://pix8.agoda.net/hotelImages/247567/-1/a5977de211754768988245bacbd32ff7.jpg?ce=0&s=1024x",
+        "img5": "https://pix8.agoda.net/hotelImages/247567/-1/a42aeeb44e49a0c979517b1019348d4e.jpg?ce=0&s=1024x",
+        "description": "The car parking and the Wi-Fi are always free, so you can stay in touch and come and go as you please. Strategically situated in Pratuchai, allowing you access and proximity to local attractions and sights. Don't leave before paying a visit to the famous Historic City of Ayutthaya. This 3-star property is packed with in-house facilities to improve the quality and joy of your stay."
+    },
+    {
+        "id": 57,
+        "name": "",
+        "img1": "",
+        "img2": "",
+        "img3": "",
+        "img4": "",
+        "img5": "",
+        "description": ""
+    },
+    {
+        "id": 58,
+        "name": "",
+        "img1": "",
+        "img2": "",
+        "img3": "",
+        "img4": "",
+        "img5": "",
+        "description": ""
+    },
+    {
+        "id": 59,
+        "name": "",
+        "img1": "",
+        "img2": "",
+        "img3": "",
+        "img4": "",
+        "img5": "",
+        "description": ""
+    },
+    {
+        "id": 60,
+        "name": "",
+        "img1": "",
+        "img2": "",
+        "img3": "",
+        "img4": "",
+        "img5": "",
+        "description": ""
+    }
+    
+]

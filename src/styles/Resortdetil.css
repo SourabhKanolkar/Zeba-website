@@ -1,0 +1,17 @@
+#resort-details-section{
+    margin-top: 100px;
+   
+}
+.btn-resort-page{
+    background: transparent;
+    border: 1px solid #AB8A62;
+    color: #AB8A62;
+}
+.btn-resort-page:hover{
+    border: 1px solid #AB8A62;
+}
+.carousel-inner img {
+    width: 100%;
+    height: 400px; /* Set a fixed height for the images */
+    object-fit: cover; /* Ensure the image covers the entire area */
+  }

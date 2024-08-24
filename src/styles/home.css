@@ -1,0 +1,48 @@
+.scroll-fix-2{
+  overflow-y: auto;
+}
+.poppins-font{
+  font-family: "Poppins", sans-serif;
+}
+#home-page-section{
+   
+  padding-top: 80px ;
+
+
+  
+}
+.c-item{
+    height: 480px;
+    
+}
+.c-img{
+    height: 100%;
+    object-fit: cover;
+    filter: brightness(0.6);
+  
+}
+.book-btn-home{
+    background-color: transparent !important;
+    border:  2px solid #AB8A62 ;
+    font-family: sans-serif;
+   
+   
+    
+}
+.book-btn-home:hover{
+  background-color: #AB8A62 !important;
+  border:  2px solid #AB8A62 ;
+  transition: 0.5s;
+}
+.home-bg-img img{
+  height: 460px !important;
+}
+@media only screen and (max-width: 450px) {
+  /* CSS rules here will apply only to phone screens */
+ .first-tag-line{
+  font-size: 35px;
+ }
+ .secound-tag-line{
+  font-size: 35px;
+ }
+}

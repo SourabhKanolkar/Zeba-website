@@ -1,0 +1,45 @@
+#company-details-section{
+margin-top: 100px;
+padding-bottom: 40px;
+
+}
+:root{
+    --font-fam1:"Poppins", sans-serif;
+ }
+.scroll-fix{
+    overflow-y: auto;
+}
+.banner-img-box{
+  
+
+    padding: 75px 0;
+    background: url("https://www.capturelandscapes.com/wp-content/uploads/2020/05/Dolomites_B8A2683-web.jpg");
+    background-size: cover;
+    background-position: center;
+    color: #AB8A62;
+    font-weight: 700;
+    /* margin-bottom: 60px; */
+    margin-bottom: 40px;
+   
+    
+}
+@media only screen and (min-width: 500px) {
+   .info-box{
+   padding-top: 70px;
+   }
+  }
+  
+  .ditelses-frost-section{
+    margin-bottom: 30px;
+  }
+  .learn-us{
+    font-family: var(--font-fam1);
+    font-size: 19px;
+  }
+  .box-group{
+    display:flex;
+     margin-bottom: 15px;
+    justify-content: space-around;
+    
+
+  }

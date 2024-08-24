@@ -1,0 +1,46 @@
+#login-member{
+    padding: 50px 0 ;
+   
+    height: 100vh;
+    background-image: url('../assets/login-bg.jpg');
+    background-size: cover;
+}
+.poppins-font{
+    font-family: "Poppins", sans-serif;
+}
+.box{
+    display: block;
+    margin:  auto;
+   
+    
+}
+form{
+    background-color: rgb(255, 255, 255);
+    padding: 30px;
+    border-radius: 13px;
+  
+}
+
+.login-heading{
+    font-size: 32px;
+    font-family: sans-serif;
+    font-weight: 700;
+   
+}
+.logo-img-login{
+    width: 120px;
+}
+.login-btn-client{
+    padding: 8px 45px;
+    background: transparent !important;
+    border: 2px solid #AB8A62;
+    color: #AB8A62;
+}
+.login-btn-client:hover{
+    color: #AB8A62;
+}
+.form-control:focus{
+    border-color: #AB8A62; /* Bootstrap's primary blue */
+  outline: none; /* Removes the default focus outline */
+  box-shadow: 0 0 0 0.2rem #c9b398;
+}
