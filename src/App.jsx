@@ -13,7 +13,7 @@ import ResortDetailed from './components/ResortDetailed'
 import InternationalResort from './components/InternationalResort'
 import Membership from './components/Membership'
 import InternationalDet from './components/InternationalDet' 
-import Test from './components/Test'
+import Payment from './components/Payment'
 
 import CompanyDetails from './components/CompanyDetails'
 import { BrowserRouter as Router, Routes, Route,Navigate } from 'react-router-dom';
@@ -44,7 +44,8 @@ function App() {
       <Route path='/international' element={<InternationalResort />}></Route>
       <Route path="/internationalresorts/:id" element={<InternationalDet />} />
       <Route path='/membership' element={<Membership/>}></Route>
-      <Route path='/test' element={<Test />}></Route>
+      <Route path='/payment-page' element={<Payment />}></Route>
+
      
       
     </Routes>
