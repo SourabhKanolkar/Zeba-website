@@ -63,7 +63,7 @@ export default function Footer() {
                   <span className='text-contact'><i className="bi bi-telephone footer-icon"></i>+91 9226055797</span>
                   <span className='text-contact'><i className="bi bi-envelope footer-icon"></i>support@osdiadefestavacation.com</span>
                   <span className='text-contact'><i className="bi bi-envelope footer-icon"></i>reservations<br></br>@osdiadefestavacation.com</span>
-                  <Link to="/payment-page">PAYMENT</Link>
+                  
                 </p>
 
                </div>

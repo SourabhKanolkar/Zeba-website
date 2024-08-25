@@ -7,20 +7,20 @@ export default function Payment() {
 
     const handleCreateOrder = async () => {
         const options = {
-            key: 'rzp_test_YA455skRKjapj5', // Replace with your Razorpay API key
-            amount: '101', // amount in the smallest unit of currency
+            key: 'rzp_live_PuECn9YXAKoa7f', // Replace with your Razorpay API key
+            amount: '15000', // amount in the smallest unit of currency
             currency: 'INR',
-            name: 'Your Company Name',
-            description: 'Test transaction',
+            name: 'OS DIA DE FESTA',
+            description: 'Test transaction sourabh',
             image: '',
             handler: function (response) {
                 // handle payment response
                 console.log(response);
             },
             prefill: {
-                name: 'John Doe',
-                email: 'johndoe@example.com',
-                contact: '9999999999',
+                name: 'sourabhkanolkar',
+                email: 'sourabhkanolkar17@gmail.com',
+                contact: '7083405130',
             },
             notes: {
                 address: 'Razorpay Corporate Office',
