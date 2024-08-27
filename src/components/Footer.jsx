@@ -1,6 +1,7 @@
 import React from 'react'
 import "../styles/footer.css";
 import { Link } from 'react-router-dom';
+import paynowLogo from "../assets/paynowlogo.png"
 
 export default function Footer() {
   return (
@@ -49,10 +50,8 @@ export default function Footer() {
             <a className="nav-link footer-link-text" style={{fontFamily:"sans-serif",color:"#fff"}} href="#membership-section" >Membership</a>
           </li>
 
-          
+       
         </ul>
-
-
                    </div>
                </div>
 
@@ -63,7 +62,7 @@ export default function Footer() {
                   <span className='text-contact'><i className="bi bi-telephone footer-icon"></i>+91 9226055797</span>
                   <span className='text-contact'><i className="bi bi-envelope footer-icon"></i>support@osdiadefestavacation.com</span>
                   <span className='text-contact'><i className="bi bi-envelope footer-icon"></i>reservations<br></br>@osdiadefestavacation.com</span>
-                   <Link to='/payment-page'>PAYMENT</Link>
+                   <Link to='/payment-page'><img width="150px" src={paynowLogo} alt="paynow img" /></Link>
                 </p>
 
                </div>

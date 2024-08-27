@@ -37,10 +37,8 @@ export default function Payment() {
             emi_options: {
                 enabled: true,
                 providers: [
-                  'AXIS',
-                  'HDFC',
-                  'ICICI',
-                  'EARLY_SALARY'
+                 
+                  'earlysalary'
                 ]
               },
         };
