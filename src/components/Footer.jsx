@@ -72,7 +72,7 @@ export default function Footer() {
           
           <div className="container-fluid">
             <div className="footer-rights">
-             <a href="https://majesticgrouphotels.com/" style={{textDecoration:"none"}}> <p className="rights-para">Osdiadefestavacation By Majestic Grop Of Hotels </p></a>
+             <a href="https://majesticgrouphotels.com/" style={{textDecoration:"none"}}> <p className="rights-para">Osdiadefestavacation By Majestic Group  Of Hotels </p></a>
             </div>
           </div>
 
