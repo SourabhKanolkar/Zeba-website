@@ -35,7 +35,8 @@ function App() {
     <Footer /> */}
 
     <Routes>
-      <Route path='/' element={<Login />}></Route>
+      <Route path='/' element={<Home />}></Route>
+      {/* <Route path='/home' element={<Home />}></Route> */}
       <Route path='/home' element={<Home />}></Route>
       <Route path='/Affiliates' element={<Resorts />}></Route>
       <Route path='/companydetails' element={<CompanyDetails />}></Route>
@@ -45,9 +46,6 @@ function App() {
       <Route path="/internationalresorts/:id" element={<InternationalDet />} />
       <Route path='/membership' element={<Membership/>}></Route>
       <Route path='/payment-page' element={<Payment />}></Route>
-
-     
-      
     </Routes>
 
 
