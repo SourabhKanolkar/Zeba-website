@@ -25,7 +25,7 @@ export default function Membership() {
                 <h5  className='text-center'>You can customize your holiday package which depends on your Family size , locations you prefer , facilities you want and of course activities you want to indulge in</h5>
             </div>
 
-          <div className="col-md-3 mt-3">
+          <div className="col-md-4 mt-3">
           <div className="membershipbox-1 membership-box">
 
              <div className="tittle-box-mem text-center">
@@ -45,7 +45,7 @@ export default function Membership() {
 
             </div>
           </div>
-          <div className="col-md-3 mt-3">
+          <div className="col-md-4 mt-3">
           <div className="membershipbox-2 membership-box">
 
              <div className="tittle-box-mem text-center">
@@ -65,7 +65,7 @@ export default function Membership() {
 
             </div>
           </div>
-          <div className="col-md-3 mt-3">
+          <div className="col-md-4 mt-3">
           <div className="membershipbox-3 membership-box">
 
              <div className="tittle-box-mem text-center">
@@ -75,17 +75,17 @@ export default function Membership() {
 
              <div className="benifits-box ">
                 <ul style={{listStyle:"none"}}>
-                    <li style={{padding:"5px 0px"}}><i class="bi bi-check"></i>25 Years Valid</li>
-                    <li style={{padding:"5px 0px"}}> <i class="bi bi-check"></i>   During School Vacations</li>
-                    <li style={{padding:"5px 0px"}}><i class="bi bi-check"></i>  On National Holidays</li>
+                    <li style={{padding:"5px 0px"}}><i class="bi bi-check"></i>AMC ₹24,500</li>
+                    <li style={{padding:"5px 0px"}}> <i class="bi bi-check"></i> 25 Years Valid</li>
                     <li style={{padding:"5px 0px"}}><i class="bi bi-check"></i>  During Festivals</li>
-                    <li style={{padding:"5px 0px"}}><i class="bi bi-check"></i>   AMC ₹21,500</li>
+                    <li style={{padding:"5px 0px"}}><i class="bi bi-check"></i> Any time of the year</li>
+                    <li style={{padding:"5px 0px"}}><i class="bi bi-check"></i>   A New Year’s Eve</li>
                 </ul>
              </div>
 
             </div>
           </div>
-          <div className="col-md-3 mt-3">
+          {/* <div className="col-md-3 mt-3">
           <div className="membershipbox-4 membership-box">
 
              <div className="tittle-box-mem text-center">
@@ -104,7 +104,7 @@ export default function Membership() {
              </div>
 
             </div>
-          </div>
+          </div> */}
 
            </div>
           </div>

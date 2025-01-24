@@ -1,13 +1,15 @@
 import React from 'react'
 import NavA from './NavA'
 import "../styles/affilidated.css"
-import { Link } from 'react-router-dom'
+import { Link,useNavigate } from 'react-router-dom'
 import { useState } from 'react'
 import ResortsDataAffiliated from "./resorts.json"
 
 export default function AffiliatedResort() {
   const [searchQuery, setSearchQuery] = useState('');
   const [filteredResorts, setFilteredResorts] = useState(ResortsDataAffiliated);
+  const [isLoggedIn, setIsLoggedIn] = useState(false); // Track login status
+  const navigate = useNavigate();
 
   const handleSearch = (e) => {
 
@@ -18,6 +20,16 @@ export default function AffiliatedResort() {
     });
     setFilteredResorts(filtered);
     
+  };
+
+  const handleKnowMoreClick = (resortId) => {
+    if (!isLoggedIn) {
+      // If not logged in, redirect to login and pass target URL
+      navigate('/login', { state: { target: `/resorts/${resortId}` } });
+    } else {
+      // If logged in, navigate to the specific resort page
+      navigate(`/resorts/${resortId}`);
+    }
   };
 
   return (
@@ -57,7 +69,13 @@ export default function AffiliatedResort() {
                     <div className="outer-resort-info-box" style={{width:"100%",height:"400px",backgroundImage: `url(${resort.img1})`,backgroundSize:"cover"}}>
                         <div className="affiliated-pre-info">
                            <h3>{resort.name}</h3 >
-                           <Link to={`/resorts/${resort.id}`} className="nav-link affi-link" style={{ fontFamily: "sans-serif" }} >Know More</Link>
+                           <button
+  className="btn btn-link nav-link affi-link"
+  style={{ fontFamily: "sans-serif" }}
+  onClick={() => handleKnowMoreClick(resort.id)}
+>
+  Know More 
+</button>
                         </div>
                     </div>
                 </div>

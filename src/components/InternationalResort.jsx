@@ -1,12 +1,14 @@
 import React from 'react'
 import NavA from './NavA'
 import internationalResorts from "../components/resorts2.json"
-import { Link } from 'react-router-dom'
+import { Link,useNavigate } from 'react-router-dom'
 import { useState } from 'react'
 
 export default function InternationalResort() {
   const [searchQuery, setSearchQuery] = useState('');
   const [filteredResorts, setFilteredResorts] = useState(internationalResorts);
+   const [isLoggedIn, setIsLoggedIn] = useState(false); // Track login status
+    const navigate = useNavigate();
    
   const handleSearch = (e) => {
 
@@ -17,6 +19,15 @@ export default function InternationalResort() {
       });
       setFilteredResorts(filtered);
       
+    };
+    const handleKnowMoreClick = (resortId) => {
+      if (!isLoggedIn) {
+        // If not logged in, redirect to login and pass target URL
+        navigate('/login', { state: { target: `/resorts/${resortId}` } });
+      } else {
+        // If logged in, navigate to the specific resort page
+        navigate(`/resorts/${resortId}`);
+      }
     };
 
 
