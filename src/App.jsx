@@ -44,7 +44,7 @@ function App() {
       <Route path='/affilidatedresorts' element={<AffiliatedResort />}></Route>
       <Route path="/resorts/:id" element={<ResortDetailed loginIS={loginIS} setLoginIS={setLoginIS} redirectURL={redirectURL} setRedirectURL={setRedirectURL}  />} />
       <Route path='/international' element={<InternationalResort />}></Route>
-      <Route path="/internationalresorts/:id" element={<InternationalDet />} />
+      <Route path="/internationalresorts/:id" element={<InternationalDet loginIS={loginIS} setLoginIS={setLoginIS} redirectURL={redirectURL} setRedirectURL={setRedirectURL} />} />
       <Route path='/membership' element={<Membership/>}></Route>
       <Route path='/payment-page' element={<Payment />}></Route>
     </Routes>
