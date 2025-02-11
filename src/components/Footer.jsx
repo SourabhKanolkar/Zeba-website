@@ -58,7 +58,10 @@ export default function Footer() {
                <div className="col-lg-4 col-md-6 col-sm-12">
                 <h3 className='heading-pages-title'>Contact Us  </h3>
                 <p className="contact-footer">
-                  <span className='text-contact'><i className="bi bi-geo-alt-fill footer-icon"></i>No.361Baman Vaddo Lane 1,Candolim,Goa 403515</span>
+                 
+                   
+                  <span className='text-contact'><i className="bi bi-geo-alt-fill footer-icon"></i>Wishpering Palms Beach Resort,Sinquerim Beach, Fort Aguada Rd, Candolim, Goa 403515</span>
+
                   <span className='text-contact'><i className="bi bi-telephone footer-icon"></i>+91 9226055797</span>
                   <span className='text-contact'><i className="bi bi-envelope footer-icon"></i>support@osdiadefestavacation.com</span>
                   <span className='text-contact'><i className="bi bi-envelope footer-icon"></i>reservations<br></br>@osdiadefestavacation.com</span>

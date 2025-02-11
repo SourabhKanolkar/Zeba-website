@@ -5,7 +5,7 @@ import { useNavigate, useLocation } from 'react-router';
 import { db } from '../firebase-config';
 import { doc, getDoc } from 'firebase/firestore';
 
-export default function Login() {
+export default function Login({ loginIS, setLoginIS,redirectURL,setRedirectURL }) {
   const [userName, setUserName] = useState("");
   const [password, setPassword] = useState("");
   const [showAlert, setShowAlert] = useState(false);
@@ -24,12 +24,16 @@ export default function Login() {
     if (docSnap.exists()) {
       const passwordDb = docSnap.data().password;
       if (passwordDb === password) {
-        navigate(target); // Redirect to the intended page
+         setLoginIS(true);
+         navigate(redirectURL);
       } else {
-        setShowAlert(true); // Show invalid password alert
+        setShowAlert(true);
+         // Show invalid password alert
+        
       }
     } else {
       setShowAlert(true); // Show user not found alert
+    
     }
   };
 

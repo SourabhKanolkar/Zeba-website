@@ -1,16 +1,17 @@
 import React from 'react'
 import ResortsDataAffiliated from "./resorts.json"
-import { useParams } from 'react-router-dom';
+import { Link, useParams ,useNavigate} from 'react-router-dom';
 import NavA from './NavA';
 import Footer from './Footer';
 import { useState } from 'react';
 import emailjs from "@emailjs/browser";
 import "../styles/Resortdetil.css"
 
-export default function ResortDetailed() {
+export default function ResortDetailed({ loginIS, setLoginIS,redirectURL,setRedirectURL }) {
     const params = useParams();
     const id = params.id;
     const redetail= Number(id);
+    const navigate = useNavigate();
     
     const resort =ResortsDataAffiliated.find((r)=> r.id===redetail);
     if (!resort) {
@@ -23,6 +24,14 @@ export default function ResortDetailed() {
       const [adult,setAdult]=useState("");
       const [child,setChild]=useState("");
       const [location,setLocation]=useState("");
+
+      const handelLoginRequest=()=>{
+        const currentPath = window.location.pathname; // Store the current path in a variable
+        setRedirectURL(currentPath); // Update the state
+        // alert(currentPath); 
+        navigate("/login")
+
+      }
 
       const handelSubmit=(e)=>{
         e.preventDefault();
@@ -47,6 +56,7 @@ export default function ResortDetailed() {
         emailjs.send(serviceId,templateId,templateParams,publicKey)
           .then((response)=>{
             console.log("Email sent done",response);
+            alert("booking mail sent");
              setName('');
              setNumber('');
              setArriveDate('');
@@ -57,6 +67,7 @@ export default function ResortDetailed() {
           })
           .catch((error)=>{
             console.log("error came:",error);
+            alert("error while sending booking check your internet")
           })
 
 
@@ -101,8 +112,8 @@ export default function ResortDetailed() {
     </div>
 
     <div className="col-md-4">
-        <div className="form-box">
-            <form onSubmit={handelSubmit}>
+        {/* <div className="form-box">
+            <form onSubmit={handelSubmit} >
                 <div className="member-form-title">
                     <h5 className='text-center'>BOOK YOUR TOUR </h5>
                 </div>
@@ -150,13 +161,110 @@ export default function ResortDetailed() {
   <button type="submit" className="btn btn-resort-page">Request</button>
   </div>
             </form>
-        </div>
+        </div> */}
+        {loginIS ? (
+  <div className="form-box">
+    <form onSubmit={handelSubmit}>
+      <div className="member-form-title">
+        <h5 className="text-center">BOOK YOUR TOUR</h5>
+      </div>
+      <div className="mb-3">
+        <label htmlFor="exampleName-member" className="form-label">
+          MEMBER NAME:
+        </label>
+        <input
+          onChange={(e) => setName(e.target.value)}
+          type="text"
+          className="form-control"
+          id="exampleName-member"
+        />
+      </div>
+      <div className="mb-3">
+        <label htmlFor="exampleInpuTnumber" className="form-label">
+          NUMBER:
+        </label>
+        <input
+          onChange={(e) => setNumber(e.target.value)}
+          type="number"
+          className="form-control"
+          id="exampleInpuTnumber"
+        />
+      </div>
+      <div className="mb-3">
+        <label htmlFor="exampleAriveDate" className="form-label">
+          ARRIVE:
+        </label>
+        <input
+          onChange={(e) => setArriveDate(e.target.value)}
+          type="date"
+          className="form-control"
+          id="exampleAriveDate"
+        />
+      </div>
+      <div className="mb-3">
+        <label htmlFor="exampleDeputure" className="form-label">
+          DEPATURE:
+        </label>
+        <input
+          onChange={(e) => setDepatureDate(e.target.value)}
+          type="date"
+          className="form-control"
+          id="exampleDeputure"
+        />
+      </div>
+      <div className="mb-3">
+        <label htmlFor="exampleAdult" className="form-label">
+          ADULT:
+        </label>
+        <select
+          onChange={(e) => setAdult(e.target.value)}
+          id="exampleAdult"
+          className="form-select"
+        >
+          <option selected>select</option>
+          <option value="1">1</option>
+          <option value="2">2</option>
+          <option value="3">3</option>
+        </select>
+      </div>
+      <div className="mb-3">
+        <label htmlFor="examplechild" className="form-label">
+          CHILD:
+        </label>
+        <select
+          onChange={(e) => setChild(e.target.value)}
+          id="examplechild"
+          className="form-select"
+        >
+          <option selected>select</option>
+          <option value="1">1</option>
+          <option value="2">2</option>
+          <option value="3">3</option>
+        </select>
+      </div>
+      <div
+        className="submit-box"
+        style={{ display: "flex", justifyContent: "center" }}
+      >
+        <button type="submit" className="btn btn-resort-page">
+          Request
+        </button>
+      </div>
+    </form>
+  </div>
+) : (
+  <div className="alert alert-warning text-center">
+    <p>Are You A Member?</p>
+     <button className='btn btn-danger' onClick={handelLoginRequest}>Login</button>
+    
+  </div>
+)}
     </div>
     </div>
    
    <div className="row">
     <div className="col-md-12">
-        <div className="box-info" style={{background:"#f5f5f5",padding:"30px",border:"1px solid black",marginBottom:"30px"}}>
+        <div className="box-info mt-3" style={{background:"#f5f5f5",padding:"30px",border:"1px solid black",marginBottom:"30px"}}>
             <h4>{resort.name}</h4>
             <p className='lead'>{resort.description}</p>
         </div>

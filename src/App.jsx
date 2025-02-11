@@ -23,8 +23,8 @@ import { useState } from 'react'
 
 function App() {
    
-  
-  
+  const [loginIS,setLoginIS]=useState(false);
+  const [redirectURL, setRedirectURL] = useState('/'); 
 
   return (
     <>
@@ -37,12 +37,12 @@ function App() {
     <Routes>
       <Route path='/' element={<Home />}></Route>
       {/* <Route path='/home' element={<Home />}></Route> */}
-      <Route path='/login' element={<Login />}></Route>
+      <Route path='/login' element={<Login loginIS={loginIS} setLoginIS={setLoginIS} redirectURL={redirectURL} setRedirectURL={setRedirectURL} />}></Route>
       <Route path='/home' element={<Home />}></Route>
       <Route path='/Affiliates' element={<Resorts />}></Route>
       <Route path='/companydetails' element={<CompanyDetails />}></Route>
       <Route path='/affilidatedresorts' element={<AffiliatedResort />}></Route>
-      <Route path="/resorts/:id" element={<ResortDetailed />} />
+      <Route path="/resorts/:id" element={<ResortDetailed loginIS={loginIS} setLoginIS={setLoginIS} redirectURL={redirectURL} setRedirectURL={setRedirectURL}  />} />
       <Route path='/international' element={<InternationalResort />}></Route>
       <Route path="/internationalresorts/:id" element={<InternationalDet />} />
       <Route path='/membership' element={<Membership/>}></Route>

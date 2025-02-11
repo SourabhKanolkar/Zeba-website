@@ -69,13 +69,7 @@ export default function AffiliatedResort() {
                     <div className="outer-resort-info-box" style={{width:"100%",height:"400px",backgroundImage: `url(${resort.img1})`,backgroundSize:"cover"}}>
                         <div className="affiliated-pre-info">
                            <h3>{resort.name}</h3 >
-                           <button
-  className="btn btn-link nav-link affi-link"
-  style={{ fontFamily: "sans-serif" }}
-  onClick={() => handleKnowMoreClick(resort.id)}
->
-  Know More 
-</button>
+                           <Link style={{color:"gold",textDecoration:"none",fontWeight:"500"}} to={`/resorts/${resort.id}`}>Know More</Link>
                         </div>
                     </div>
                 </div>
